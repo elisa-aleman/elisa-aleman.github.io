@@ -1,0 +1,11 @@
+name: Elisa Claire Alemán Carreón
+# markdown: kramdown
+
+# Google Analytics
+google_analytics: G-E5QN7E31DR
+
+url: "https://elisa-aleman.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
+exclude: ["assets/blog", "en/blog", "es/blog", "jp/blog"]
