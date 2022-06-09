@@ -233,6 +233,12 @@ h3 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: var(--title-color);
 }
+
+h4, h5, h6 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: var(--title-color);
+}
+
 p {
     line-height: 1.1em;
     color: #333;

@@ -5,7 +5,8 @@ lang: es
 lang-ref: publications
 ---
 
-## [Publicaciones Académicas (con arbitraje) (13)](#publications) 
+<a id="publications"></a>
+## Publicaciones Académicas (con arbitraje) (13) 
 
  Pueden consultar una lista de mis publicaciones aquí, así como en [los sitios web listados en el principio de mi CV ](/es/cv/#profiles), así como en el fondo de la página.
 

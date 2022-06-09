@@ -9,7 +9,8 @@ lang-ref: cv
 
 Research related e-mail: [elisa.claire.aleman.carreon@gmail.com](mailto:elisa.claire.aleman.carreon@gmail.com)
 
-## [Research related Websites and Profiles](#profiles)
+<a id="profiles"></a>
+## Research related Websites and Profiles
 
 - [ORCID](https://orcid.org/0000-0002-6437-0866): Where all my research and details are updated
 - [ResearchGate](https://www.researchgate.net/profile/Elisa_Aleman_Carreon): Where I upload preprints and connect with other researchers
@@ -33,12 +34,14 @@ Research related e-mail: [elisa.claire.aleman.carreon@gmail.com](mailto:elisa.cl
 	</ul>
 </div>
 
-## [Introduction](#intro)
+<a id="intro"></a>
+## Introduction
 
 I am an AI engineer born in Mexico, I have lived in Japan for over 7 years and have gotten used to Japanese language and culture. I received the B.S. and M.S. degrees and have a PhD in Information Science and Control Engineering, which I obtained in the Nagaoka University of Technology, Nagaoka, Japan under the instruction of Hirofumi Nonaka. I delve in Artificial Neural Networks, Artificial Intelligence, and Data Mining. My engineering interests are Text and Data mining for management purposes and multilingual endeavors.
 
 
-## [Education and Qualification](#edu)
+<a id="edu"></a>
+## Education and Qualification
  
 <div class="cv_history">
 	<div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -120,7 +123,8 @@ After leaving school I continue to practice martial arts and athleticism along w
 =========================
 -->
 
-## [Work Experience](#work)
+<a id="work"></a>
+## Work Experience
 
 <div class="cv_history">
 	<div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -213,7 +217,8 @@ After leaving school I continue to practice martial arts and athleticism along w
 =========================
 -->
 
-## [Achievements](#achievements)
+<a id="achievements"></a>
+## Achievements
 
 <div class="cv_history">
 	<div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -276,7 +281,8 @@ After leaving school I continue to practice martial arts and athleticism along w
 {% assign mypage = site.pages | where: "lang-ref", "publications" | where: "lang", page.lang %}
 {{ mypage[0].content }}
 
-## [Peer Reviews](#reviews)
+<a id="reviews"></a>
+## Peer Reviews
 
 For more details, see my [Publons Peer Review](https://publons.com/researcher/1547646/elisa-claire-aleman-carreon/peer-review/) page.
 
@@ -284,7 +290,8 @@ For more details, see my [Publons Peer Review](https://publons.com/researcher/15
 - 2019-07-10: Tourism Management
 - 2018-08-20: Tourism Management
 
-## [Abilities](#abilities)
+<a id="abilities"></a>
+## Abilities
 
 
 <table class="mini-table">
@@ -331,7 +338,8 @@ For more details, see my [Publons Peer Review](https://publons.com/researcher/15
 
 </table>
 
-## [Language Tests](#langs)
+<a id="langs"></a>
+## Language Tests
 
 - TOEFL ITP Level 1
 - Japanese Language Proficiency Test N2

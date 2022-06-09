@@ -5,7 +5,8 @@ lang: en
 lang-ref: publications
 ---
 
-## [Academic Publications (Peer Reviewed) (13)](#publications)
+<a id="publications"></a>
+## Academic Publications (Peer Reviewed) (13)
 	
 You can consult a list of my publications here, as well as in [the websites listed at the top of my CV](/en/cv/#profiles) as well as the footer of this page.
 

@@ -11,7 +11,8 @@ lang-ref: cv
 
  研究関連メール: [ elisa.claire.aleman.carreon@gmail.com ](mailto:elisa.claire.aleman.carreon@gmail.com)
 
-## [研究関連ウェブサイトや私のプロフィル](#profiles) 
+<a id="profiles"></a>
+## 研究関連ウェブサイトや私のプロフィル 
 
 - [ORCID](https://orcid.org/0000-0002-6437-0866): ここで私の研究や履歴がアップデートされる
 - [ResearchGate](https://www.researchgate.net/profile/Elisa_Aleman_Carreon): ここでプレプリントをアップしたり、他の研究者と交流している
@@ -37,11 +38,13 @@ lang-ref: cv
 	</ul>
 </div>
 
-## [一言](#intro) 
+<a id="intro"></a>
+## 一言 
 
 私はメキシコ生まれのAIエンジニアーで、日本で７年間余り生活をして日本の言葉と文化に慣れてきました。私は工学部卒業し、修士課程の工学専攻を卒業し、最後に長岡技術科学大学大学院博士課程の情報・制御工学専攻で野中尋史先生の指導の元で博士を取得しました。エンジニアリングの内容は経営情報と多言語問題解決のためにテキストとデータマイニングと機械学習です。
 
-## [学歴と資格](#edu) 
+<a id="edu"></a>
+## 学歴と資格 
 
 <div class="cv_history">
 	<div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -118,7 +121,8 @@ lang-ref: cv
 
 現在は暇なときに日本の武術やキックボクシングをしたり、芸術や絵に取り組んでいます。
 
-## [職歴](#work) 
+<a id="work"></a>
+## 職歴 
 
 <div class="cv_history">
 	<div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -211,7 +215,8 @@ lang-ref: cv
 =========================
 -->
 
-## [実績](#achievements) 
+<a id="achievements"></a>
+## 実績 
 
 <div class="cv_history">
 	<div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -273,7 +278,8 @@ lang-ref: cv
 {% assign mypage = site.pages | where: "lang-ref", "publications" | where: "lang", page.lang %}
 {{ mypage[0].content }}
 
-## [査読実績](#reviews) 
+<a id="reviews"></a>
+## 査読実績 
 
 詳細は[Publons Peer Review](https://publons.com/researcher/1547646/elisa-claire-aleman-carreon/peer-review/) のページで確認できます。
 
@@ -282,7 +288,8 @@ lang-ref: cv
 - 2018-08-20: Tourism Management
 
 
-## [能力](#abilities) 
+<a id="abilities"></a>
+## 能力 
 
 <table class="mini-table">
     <tr>
@@ -328,7 +335,8 @@ lang-ref: cv
 
 </table>
 
-## [語学資格](#langs) 
+<a id="langs"></a>
+## 語学資格 
 
 -  TOEFL ITP Level 1 
 -  日本語能力試験 N2 

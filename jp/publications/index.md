@@ -5,7 +5,8 @@ lang: jp
 lang-ref: publications
 ---
 
-## [学術投実績 (査読付き) (13)](#publications) 
+<a id="publications"></a>
+## 学術投実績 (査読付き) (13) 
 
 学術投稿のまとめをここに参照できて、[履歴書のトップに書いてあるプロフィルのリスト](/jp/cv/#profiles)とこのページのフッターにあるウェブサイトにもまとまっています。
 

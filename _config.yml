@@ -8,4 +8,8 @@ url: "https://elisa-aleman.github.io" # the base hostname & protocol for your si
 plugins:
   - jekyll-sitemap
 
-exclude: ["assets/blog", "en/blog", "es/blog", "jp/blog"]
+exclude: [
+  "logs", 
+  "assets/blog",
+  "en/blog", "es/blog", "jp/blog"
+]

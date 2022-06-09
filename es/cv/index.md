@@ -10,7 +10,8 @@ lang-ref: cv
 
  E-mail académico: [ elisa.claire.aleman.carreon@gmail.com ](mailto:elisa.claire.aleman.carreon@gmail.com)
 
-## [Perfiles y sitios de Investigación Académica:](#profiles) 
+<a id="profiles"></a>
+## Perfiles y sitios de Investigación Académica: 
 
 - [ORCID](https://orcid.org/0000-0002-6437-0866): Donde actualizo y conecto todas mis publicaciones y detalles personales.
 - [ResearchGate](https://www.researchgate.net/profile/Elisa_Aleman_Carreon): Donde subo mis pre-impresiones de publicación y me conecto con otros investigadores.
@@ -34,11 +35,13 @@ lang-ref: cv
     </ul>
 </div>
 
-## [Introducción](#intro) 
+<a id="intro"></a>
+## Introducción 
 
 Mi nombre es Elisa Claire Alemán Carreón. Soy una ingeniera en inteligencia artificial nacida en México. He vivido en Japón por los más de 7 años y me he acostumbrado al lenguaje y la cultura. Me recibí de los grados de Bachillerato y Maestría, y tengo un doctorado en Ciencia de Información e Ingeniería de Control en la Universidad Tecnológica de Nagaoka, el cual obtuve en el Laboratorio de Minado de Conocimiento en la Nagaoka University of Technology, bajo el tutelaje del Dr. Hirofumi Nonaka. Trabajo en Redes Neurales Artificiales, Inteligencia Artificial y Minado de Datos. Mis intereses de ingeniería son de Minado de Texto y Datos para propósitos empresariales, así como aplicaciones multilinguales.
 
-## [Educación y Aptitudes](#edu) 
+<a id="edu"></a>
+## Educación y Aptitudes 
 
 <div class="cv_history">
     <div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -115,7 +118,8 @@ Cuando estaba en la universidad fui la líder del club de Aikido en mi universid
 
 Actualmente continúo practicando artes marciales japonesas y kickboxing en mi tiempo libre, así como pintar y otras actividades artísticas.
 
-## [Experiencia de Trabajo](#work) 
+<a id="work"></a>
+## Experiencia de Trabajo 
 
 <div class="cv_history">
     <div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -204,7 +208,8 @@ Actualmente continúo practicando artes marciales japonesas y kickboxing en mi t
     </div>
 </div>
 
-## [Logros](#achievements) 
+<a id="achievements"></a>
+## Logros 
 
 <div class="cv_history">
     <div class="cv_bullet">◉</div><div class="cv_history_content">
@@ -268,7 +273,8 @@ Actualmente continúo practicando artes marciales japonesas y kickboxing en mi t
 {{ mypage[0].content }}
 
 
-## [Revisión de pares y arbitraje](#reviews) 
+<a id="reviews"></a>
+## Revisión de pares y arbitraje 
 
 Para más detalles, véase mi página de  [Revisiones de Pares de Publons](https://publons.com/researcher/1547646/elisa-claire-aleman-carreon/peer-review/).
 
@@ -277,7 +283,8 @@ Para más detalles, véase mi página de  [Revisiones de Pares de Publons](https
 - 2018-08-20: Tourism Management
 
 
-## [Habilidades](#abilities) 
+<a id="abilities"></a>
+## Habilidades 
 
 <table class = "mini-table">
     <tr>
@@ -323,7 +330,8 @@ Para más detalles, véase mi página de  [Revisiones de Pares de Publons](https
 
 </table>
 
-## [Proficiencia de Lenguajes](#langs) 
+<a id="langs"></a>
+## Proficiencia de Lenguajes 
 
 - TOEFL ITP Nivel 1
 - Japanese Language Proficiency Test N2
