@@ -7,7 +7,11 @@ lang-ref: blog
 
 # Personal Blog
 
-Welcome to my blog!
+Welcome to my blog! Here I plan to post about social matters in the contexts where I can bring some light to different workplaces. For example, I might write about queer issues in general, queer issues in Japan, or queer issues in engineering workplaces in Japan, and so on. I will also be writing about accessibility in engineering, as well as other topics about diversity and inclusion, with the specific point of view that I have as a queer foreign neurodiverse engineer living and working in Japan. I might also just point to other good articles I might find, while giving my point of view (although it'd be difficult to keep the multilingual aspect of the blog intact).
+
+I hope not only that you enjoy reading my posts, but that you may find them appropriate to share in your academic or business workplaces to make a more inclusive space where everyone can feel comfortable.
+
+Below there's a list of my latest posts, and here's a link to the [Blog Archive](/{{page.lang}}/blog/blog_archive) for all the posting history.
 
 <div id="toc_container">
     <p class="toc_title">Latest Posts</p>
@@ -30,8 +34,8 @@ Welcome to my blog!
             </li>
         {% endfor %}
     </ul>
-<div class="nav-buttons" style="font-size = 0.7em; width: 20em; float: left;">
-    <div class="nav-btn" style="border:0;"><a href="/{{page.lang}}/blog/blog_archive"> Blog archive </a></div>
-</div>
+    <div class="nav-buttons" style="font-size = 0.7em; width: 20em; float: left;">
+        <div class="nav-btn" style="border:0;"><a href="/{{page.lang}}/blog/blog_archive"> Blog archive </a></div>
+    </div>
 
 </div>

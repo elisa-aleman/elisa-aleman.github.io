@@ -1,0 +1,109 @@
+---
+layout: en_default
+---
+
+{% if page.layout != 'index' %}
+  {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% endif %}
+  {% if posts.size > 1 %}
+    {% for post in posts %}
+  <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}" />
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+<!-- --------------- -->
+
+<h1>{{ page.title }}</h1>
+
+<p> <b>{{ page.date | date:'%Y/%m/%d (%A)' }}</b> - {{ page.author }}</p>
+<div id="post_subtitle_contacts">
+  <ul>
+    <li><a href="mailto:elisa.claire.aleman.carreon@gmail.com">elisa.claire.aleman.carreon@gmail.com</a></li>
+    <li><a href="https://twitter.com/">Twitter: @ | Follow me for the latest ideas and post notifications!</a></li>
+  </ul>
+</div>
+
+<div class="nav-buttons"　style="font-size = 0.7em;">
+  {% assign posts_list = site.posts | where:"lang", page.lang %}
+  <div class="nav-btn"><a href="{{ posts_list[-1].url }}"><< First Post　</a></div>
+  {% for post in posts_list %}
+    {% if prev %}
+      <div class="nav-btn"><a href="{{post.url}}">　← {{post.title}}　</a></div>
+    {% endif %}
+    {% assign prev = false %}
+    {% if post.id == page.id %}
+      {% assign prev = true %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in posts_list reversed %}
+    {% if next %}
+      <div class="nav-btn"><a href="{{post.url}}">　{{post.title}} → </a></div>
+      {% break %}
+    {% endif %}
+    {% assign next = false %}
+    {% if post.id == page.id %}
+      {% assign next = true %}
+    {% endif %}
+  {% endfor %}
+  <div class="nav-btn"><a href="{{ posts_list[0].url }}"> Latest Post　>></a></div>
+</div>
+
+
+{{ content }}
+
+<!-- --------------- -->
+
+<p> If you have any questions please contact me at the following: </p>
+<div id="post_subtitle_contacts">
+  <ul>
+    <li><a href="mailto:elisa.claire.aleman.carreon@gmail.com">elisa.claire.aleman.carreon@gmail.com</a></li>
+    <li><a href="https://twitter.com/">Twitter: @ | Follow me for the latest ideas and post notifications!</a></li>
+  </ul>
+</div>
+<br>
+
+{% if page.layout != 'index' %}
+    {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% if posts.size == 0 %}
+        {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+        <em>Read this page in a different language / Leer en otro idioma /他の言語でこのページを読む:</em>
+        <ul id="change_lang_li">
+        {% for post in posts %}
+        <a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{ site.data.languages[post.lang].label }}"><li>{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</li></a>
+        {% endfor %}
+        </ul>
+    {% endif %}
+{% endif %}
+
+<div class="nav-buttons"　style="font-size = 0.7em;">
+  <div class="nav-btn"><a href="{{ posts_list[-1].url }}"><< First Post　</a></div>
+  {% assign prev = false %}
+  {% assign next = false %}
+  {% for post in posts_list %}
+    {% if prev %}
+      <div class="nav-btn"><a href="{{post.url}}">　← {{post.title}}　</a></div>
+    {% endif %}
+    {% assign prev = false %}
+    {% if post.id == page.id %}
+      {% assign prev = true %}
+    {% endif %}
+  {% endfor %}
+
+  {% for post in posts_list reversed %}
+    {% if next %}
+      <div class="nav-btn"><a href="{{post.url}}">　{{post.title}} → </a></div>
+      {% break %}
+    {% endif %}
+    {% assign next = false %}
+    {% if post.id == page.id %}
+      {% assign next = true %}
+    {% endif %}
+  {% endfor %}
+  <div class="nav-btn"><a href="{{ posts_list[0].url }}"> Latest Post　>></a></div>
+</div>

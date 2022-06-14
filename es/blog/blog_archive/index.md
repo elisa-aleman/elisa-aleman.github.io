@@ -5,11 +5,11 @@ lang: es
 lang-ref: blog/blog_archive
 ---
 
-# Blog archive
+# Archivo del Blog
 
 <div id="toc_container">
 	<div class="nav-buttons" style="font-size = 0.7em; width: 20em; float: left;">
-		<div class="nav-btn" style="border:0;"><a href="/{{page.lang}}/home_practice_blog"> Return to the Blog home page </a></div>
+		<div class="nav-btn" style="border:0;"><a href="/{{page.lang}}/blog"> Regresar a la página principal del blog </a></div>
 	</div><br><br>
 	<ul id="toc_list">
 		{% assign posts_list = site.posts | where:"lang", page.lang %}
