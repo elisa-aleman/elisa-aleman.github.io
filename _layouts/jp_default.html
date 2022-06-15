@@ -23,9 +23,25 @@
             <div id="language_nav">
                 <div id="language_nav_container">
                     <ul>
-                        <a href="/en/{{ page.lang-ref }}"><li>🇺🇸 English 🇺🇸</li></a>
-                        <a href="/es/{{ page.lang-ref }}"><li>🇲🇽 Español 🇲🇽</li></a>
-                        <a href="/jp/{{ page.lang-ref }}"><li>🇯🇵 日本語 🇯🇵</li></a>
+                        {% if page.layout != 'index' %}
+                            {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                            {% if posts.size == 0 %}
+                                {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                            {% endif %}
+                            {% if posts.size > 1 %}
+                                {% for post in posts %}
+                                    <a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{ site.data.languages[post.lang].label }}"><li>{{ site.data.languages[post.lang].icon }}{{ site.data.languages[post.lang].label }}{{ site.data.languages[post.lang].icon }}</li></a>
+                                {% endfor %}
+                            {% else %}
+                                    <li><a href="/en/">🇺🇸 English Home 🇺🇸</a></li>
+                                    <li><a href="/es/">🇲🇽 Español Inicio 🇲🇽</a></li>
+                                    <li><a href="/jp/">🇯🇵 日本語　ホーム 🇯🇵</a></li>
+                            {% endif %}
+                        {% else %}
+                            <li><a href="/en/{{ page.lang-ref }}">🇺🇸 English 🇺🇸</a></li>
+                            <li><a href="/es/{{ page.lang_ref }}">🇲🇽 Español 🇲🇽</a></li>
+                            <li><a href="/jp/{{ page.lang-ref }}">🇯🇵 日本語 🇯🇵</a></li>
+                        {% endif %}
                     </ul>
                 </div>
             </div>
@@ -62,9 +78,33 @@
                     <div class="footer-div">
                         <span class="footer-title">言語</span>
                         <ul>
-                            <a href="/en/{{ page.lang-ref }}"><li>🇺🇸 English 🇺🇸</li></a>
-                            <a href="/es/{{ page.lang-ref }}"><li>🇲🇽 Español 🇲🇽</li></a>
-                            <a href="/jp/{{ page.lang-ref }}"><li>🇯🇵 日本語 🇯🇵</li></a>
+                            {% if page.layout != 'index' %}
+                                {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                                {% if posts.size == 0 %}
+                                    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+                                {% endif %}
+                                {% if posts.size > 1 %}
+                                    {% for post in posts %}
+                                        <a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{ site.data.languages[post.lang].label }}"><li>{{ site.data.languages[post.lang].icon }}{{ site.data.languages[post.lang].label }}{{ site.data.languages[post.lang].icon }}</li></a>
+                                    {% endfor %}
+                                {% else %}
+                                    <li><a href="/en/">🇺🇸 English Home 🇺🇸</a></li>
+                                    <li><a href="/es/">🇲🇽 Español Inicio 🇲🇽</a></li>
+                                    <li><a href="/jp/">🇯🇵 日本語　ホーム 🇯🇵</a></li>
+                                {% endif %}
+                            {% else %}
+                                <li><a href="/en/{{ page.lang-ref }}">🇺🇸 English 🇺🇸</a></li>
+                                <li><a href="/es/{{ page.lang_ref }}">🇲🇽 Español 🇲🇽</a></li>
+                                <li><a href="/jp/{{ page.lang-ref }}">🇯🇵 日本語 🇯🇵</a></li>
+                            {% endif %}
+                        </ul>
+                    </div>
+                    <div class="footer-div">
+                        <span class="footer-title">連絡先</span>
+                        <ul>
+                            <li>アレマン・カレオン　エリサ・クレアー　博士</li>
+                            <li><a href="mailto:elisa.claire.aleman.carreon@gmail.com">elisa.claire.aleman.carreon@gmail.com</a></li>
+                            <li><a href="https://twitter.com/NUTgidai_aikido">Twitter: @</a></li>
                         </ul>
                     </div>
                 </div>

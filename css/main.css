@@ -149,13 +149,60 @@ nav ul li:hover {
 
 .nav-buttons{
     display: flex;
-    width: 30em;
+    width: 20em;
     text-align: center;
     align-items: stretch;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size:0.9em;
     margin-right: auto;
     margin-left: auto;
+}
+
+.nav-buttons .nav-btn{
+    flex:1;
+    justify-content: space-between;
+    border:0.3em solid transparent;
+}
+
+.nav-buttons .nav-btn a{
+    display: inline-block;
+    height:100%;
+    width: 100%;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+    background-color: var(--trans-blue);
+    color:var(--off-white);
+}
+
+.nav-buttons .nav-btn a:visited{
+    background-color: var(--trans-blue-dark);
+    color:var(--off-white);
+}
+
+.nav-buttons .nav-btn a:hover{
+    text-decoration: none;
+    background-color: var(--trans-pink);
+    color: #FFF;
+}
+
+.nav-buttons .nav-btn-off{
+    flex:1;
+    justify-content: space-between;
+    border:0.3em solid transparent;
+}
+
+.nav-buttons .nav-btn-off a{
+    display: inline-block;
+    height:100%;
+    width: 100%;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+    background-color: var(--emphasis-gray-bg);
+    color:var(--off-white);
+}
+
+.nav-buttons .nav-btn-off a:hover{
+    text-decoration: none;
 }
 
 .nav-buttons .nav-btn-extra{
@@ -315,6 +362,8 @@ ul li{
     margin-top:1em;
 }
 
+/* TOC */
+
 #toc_container {
     display: table;
     margin-bottom: 1em;
@@ -336,6 +385,66 @@ ul li{
     list-style: outside none none !important;
     font-size: 1em;
 }
+
+/* BLOG ITEMS */
+
+#newest_post_banner {
+    display: inline;
+    margin-right: 0em;
+    margin-left: -3.4em;
+}
+
+#post_subtitle_contacts {
+    display: inline-block;
+    padding-top: -2em;
+    margin-top: -0.7em;
+    margin-bottom: 0.5em;
+    padding-left: 0em;
+    height: auto;
+    font-size: 0.9em;
+}
+
+#post_subtitle_contacts ul {
+    padding: 0em;
+    margin: 0em;
+    display:inline-block;
+}
+
+#post_subtitle_contacts ul li{
+    list-style: outside none none !important;
+    text-transform:none;
+    padding-top:0em;
+    text-align:left;
+}
+
+#post_subtitle_contacts a {
+    color: #6D6D6D;
+}
+
+#post_subtitle_contacts a:hover{
+    color: var(--hyperlink-red);
+}
+
+#change_lang_li li{
+    display: inline-block;
+    font-size: 1em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    background-color: var(--gi-white-dark);
+    border-radius: 50%;
+    text-decoration: none;
+    color: #000000;
+}
+
+#change_lang_li li:hover {
+    font-size: 1.1em;
+    background-color: var(--gi-white);
+    
+    color: var(--hyperlink-red);
+    text-decoration: none;
+}
+
+/* CV ITEMS */
 
 .cv_history {
     display:inline-block;
@@ -383,6 +492,356 @@ ul li{
     margin-top: 0.2em;
 }
 
+/* Gallery for pictures */
+
+.art-gallery-container {
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    text-align:center;
+    height:auto;
+    width:auto;
+    float:center;
+}
+
+.art-gallery {
+    display:block;
+    margin-left:1.5em;
+}
+
+.art-div {
+    display:inline-flex;
+    flex-flow:column;
+    width:auto;
+    height:auto;
+    float:center;
+    text-align:center;
+    margin-right:1.5em;
+    margin-bottom:2em;
+    border:0.1em solid #FFF;
+}
+
+.art-mult-container{
+    display:inline-flex;
+    flex-flow: column;
+    float:center;
+    text-align:center;
+    margin-bottom:2em;
+    margin-left:-1.5em;
+    height:auto;
+    width:auto;
+    border:0.1em solid #FFF;
+}
+
+/*.art-mult-container:hover {
+    border:0.1em solid #8c8c8c;
+}*/
+
+.art-div-multiple{
+    display:inline;
+    flex-direction: row;
+    flex-wrap: wrap;
+    float:center;
+    width:auto;
+    margin-left:-0.5em;
+    margin-right:-0.5em;
+}
+
+.art_img_mult_square {
+    display:inline;
+    width:20em;
+    height:auto;
+    padding-bottom:1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.art_img_mult_landscape{
+    display:inline;
+    width:27em;
+    height:auto;
+    padding-bottom:1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.art_img_mult_portrait{
+    display:inline;
+    width:auto;
+    height:27em;
+    padding-bottom:1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.art_img {
+    display:block;
+    width:20em;
+}
+
+.art_img_square {
+    display:inline-block;
+    width:20em;
+    margin:0 auto;
+}
+
+.art_img_landscape {
+    display:block;
+    width:27em;
+}
+
+.art_img_portrait {
+    display:block;
+    width: auto;
+    height: 27em;
+    padding:0 2em;
+}
+
+.art_video_player_container{
+    display: block;
+    width: 100%;
+    float:center;
+    text-align: center;
+    padding:1em;
+}
+
+.art_video_player{
+    display:block;
+    float:center;
+    width:27em;
+    margin:0.5em;
+    margin-left:0.7em;
+}
+
+.art_vid {
+    display:block;
+    width:20em;
+}
+
+.art_vid_square {
+    display:block;
+    width:20em;
+}
+
+.art_vid_landscape {
+    display:block;
+    width:27em;
+}
+
+.art_vid_portrait {
+    display:block;
+    width:auto;
+    height:27em;
+}
+
+.art_desc{
+    display:block;
+    height:auto;
+    font-size:90%;
+}
+
+.art_title{
+    display:block;
+    font-weight: bold;
+    font-size:1.2em;
+    padding-bottom:0.3em;
+    padding-top:1em;
+}
+
+.art_comment{
+    display:block;
+    font-size:1em;
+    margin-top:-0.3em;
+}
+
+.art_medium{
+    display:block;
+    font-size:0.9em;
+}
+
+.art_date{
+    display:block;
+    font-size:0.7em;
+}
+
+/* poetry*/
+
+.poetry-gallery-container {
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    text-align:center;
+    height:auto;
+    width:auto;
+    float:center;
+}
+
+.poetry-gallery {
+    display:block;
+    margin-left:1.5em;
+}
+
+.poem-div {
+    display:inline-flex;
+    flex-flow:column;
+    width:auto;
+    height:auto;
+    float:center;
+    text-align:center;
+    margin-right:1.5em;
+    margin-bottom:2em;
+    /*border:0.1em solid #FFF;*/
+    font-size:90%;
+}
+
+/*.poem-div:hover{
+    display:block;
+    font-size:90%;
+    
+}*/
+
+.poem-title{
+    display:block;ß
+    text-align: center;
+    font-style:bold;
+    font-size:1.2em;
+}
+
+.poem-by{
+    display: block;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+.poem-date{
+    display: block;
+    text-align: left;
+    font-size: 0.7em;
+}
+
+.poem-lines{
+    display: block;
+    text-align: right;
+    font-size: 0.7em;
+}
+
+.poem-content{
+    display: block;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-size:0.9em;
+    font-family:'Times New Roman', 'Serif';
+}
+
+.poem-comment{
+    display: block;
+    width: auto;
+    max-width: 20em;
+    height: auto;
+    text-align: left;
+    font-size: 0.7em;
+}
+
+.prose-div {
+    display:inline-flex;
+    flex-flow: column;
+    width: auto;
+    max-width: 100%;
+    height:auto;
+    float:center;
+    text-align:left;
+    font-size:90%;
+    padding-bottom: 4em;
+}
+
+.prose-div-half {
+    display:inline-flex;
+    flex-flow: column;
+    width: auto;
+    max-width: 45%;
+    height:auto;
+    float:center;
+    text-align:left;
+    font-size:90%;
+    padding-bottom: 4em;
+}
+
+.prose-title{
+    display: block;
+    text-align: left;
+    font-style:bold;
+    font-size:1.2em;
+}
+
+.prose-by{
+    display:  block;
+    text-align: left;
+    font-size: 0.9em;
+}
+
+.prose-date{
+    display:  block;
+    text-align: left;
+    font-size: 0.7em;
+}
+
+.prose-content{
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    font-size:0.9em;
+    font-family:'Times New Roman', 'Serif';
+    padding-top:1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    word-wrap: normal;
+}
+
+.prose-stream{
+    display: inline-block;
+    width: 100%;
+    overflow-x: scroll;
+    height: auto;
+    text-align: left;
+    font-size:0.9em;
+    font-family:'Times New Roman', 'Serif';
+    padding-top:1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    word-wrap: normal;
+}
+
+/* TABLES */
+
+table, th, td {
+    border: 1px solid #000;
+    padding-top: 0.3em;
+    padding-left: 0.3em;
+    padding-bottom: 0.1em;
+    text-align: center;
+}
+
+.table-wrap {
+    display: block;
+    overflow-x: scroll;
+}
+
+table{
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-collapse: collapse;
+    word-wrap: break-word;
+}
+
 .mini-table table, .mini-table th, .mini-table td {
     border: none;
     padding-top: 0.1em;
@@ -404,6 +863,8 @@ ul li{
 .mini-table th {
     padding-bottom: 0.5em;
 }
+
+/* Footer */
 
 footer {
     position: absolute;

@@ -26,7 +26,7 @@ También fui miembra de los promotores de [ODS en la Universidad Tecnológica de
 En mi tiempo libre estudio otros lenguages y me gusta hacer páginas web estáticas a mano (solo HTML y CSS). De hecho, además de este sitio, hice un sitio web para mis aprendizajes del lenguaje Polaco (en inglés):
 
 <div class="nav-buttons">
-    <div class="nav-btn-extra"><a href="https://elisa-duo-polski.github.io/">Elisa's Duo Polski Notes <br> Polish learning website</a></div>
+    <div class="nav-btn-extra"><a href="https://polski-duo-notes.github.io/">Polski Duo Notes <br> Polish learning website</a></div>
 </div>
 
 

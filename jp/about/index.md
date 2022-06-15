@@ -28,7 +28,7 @@ lang-ref: about
 時間があるとき、他の言語の勉強したり、そして静的なウェブサイト（生のHTMLとCSSのみ）を最初から作るのが好きです！実は学んでいる言語に関して、そして自分が部長である長岡技術科学大学の合気道部についてウェブサイトを作りました。Duolingoでポーランド語の勉強をしていて、各レッスンで使われる文法を細かく調べてメモっています。英語で書いているが、もし宜しければご覧ください。
 
 <div class="nav-buttons">
-    <div class="nav-btn-extra"><a href="https://elisa-duo-polski.github.io/">Elisa's Duo Polski Notes <br> Polish learning website</a></div>
+    <div class="nav-btn-extra"><a href="https://polski-duo-notes.github.io/">Polski Duo Notes <br> Polish learning website</a></div>
 </div>
 
 ## どこにいる?

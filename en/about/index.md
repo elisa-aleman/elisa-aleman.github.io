@@ -27,7 +27,7 @@ I also was a member of the [SDGs promoters in Nagaoka University of Technology](
 In my spare time, I also study other languages and make static websites from scratch! (HTML and CSS only). In fact, I made a website for my Polish language studying notes.
 
 <div class="nav-buttons">
-    <div class="nav-btn-extra"><a href="https://elisa-duo-polski.github.io/">Elisa's Duo Polski Notes <br> Polish learning website</a></div>
+    <div class="nav-btn-extra"><a href="https://polski-duo-notes.github.io/">Polski Duo Notes <br> Polish learning website</a></div>
 </div>
 
 
