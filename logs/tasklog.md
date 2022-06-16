@@ -75,4 +75,36 @@ Personally, I like the idea of running it via shortcuts in my iPhone.
 
 ### Make an iPhone Shortcut
 
-- Download app Data Jar
+In the Data Jar app:
+
+1. Download app Data Jar
+2. Make a new Dictionary, key: `elisa-aleman-blog-rebuild` (no periods or it throws error)
+3. Once inside the dictionary, add new value `token` and fill in the token info
+4. Make a `url` value and add `https://api.github.com/repos/elisa-aleman/elisa-aleman.github.io/pages/builds`
+5. Make a `accept` value and add `application/vnd.github.mister-fantastic-preview`
+
+In the Shortcuts app
+
+1. Go to automations tab
+2. Make a new automation
+3. Set it to everyday at 9:00
+4. Search for apps, tap on Data Jar
+5. Choose "Get value for...", and type the key you made for the dictionary. In my case it's \[`elisa-aleman-blog-rebuild`\]
+6. Search for apps, type `contents`, tap "Get contents of ..." in Web
+7. On the value for "Get contents for", tap "Select Variable" on the bottom of the screen
+8. You can rename the variable as `rebuild-dict`
+9. Select the output of the first "Get value for..." section.
+10. Tap on the variable and define it as a Dictionary (the default says file)
+11. At the bottom of the variable screen a "key" section should appear, type `url`
+12. Method: POST
+13. Headers, add new header. 
+14. Type in Key: `Authorization`
+15. Type in text: `token ` with the space
+16. Still in the text area, tap on "Select Variable", choose `rebuild-dict`
+17. Define it as dictionary and in the key section type `token`
+18. Headers, add new header.
+19. Type in Key: `Accept`
+20. In the text area, tap on "Select Variable", and again choose `rebuild-dict`
+21. Define it as a dictionary and in the key section type `accept`
+22. Search for apps, search for "Show Notification"
+23. Add Notification text as you like
