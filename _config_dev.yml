@@ -11,10 +11,10 @@ plugins:
 exclude: [
   "logs", 
   "assets/blog",
-  "en/blog", "es/blog", "jp/blog"
+  # "en/blog", "es/blog", "jp/blog"
 ]
 
 #Publishing defaults
-show_drafts: false
-future: false
+show_drafts: true
+future: true
 timezone: Asia/Tokyo
