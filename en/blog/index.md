@@ -7,7 +7,7 @@ lang-ref: blog
 
 # Personal Blog
 
-Welcome to my blog! Here I plan to post about social matters in the contexts where I can bring some light to different workplaces. For example, I might write about queer issues in general, queer issues in Japan, or queer issues in engineering workplaces in Japan, and so on. I will also be writing about accessibility in engineering, as well as other topics about diversity and inclusion, with the specific point of view that I have as a queer foreign neurodiverse engineer living and working in Japan. I might also just point to other good articles I might find, while giving my point of view (although it'd be difficult to keep the multilingual aspect of the blog intact).
+Welcome to my blog! Here I plan to post about social matters in the contexts where I can bring some light to different workplaces. For example, I might write about queer issues in general, queer issues in Japan, or queer issues in engineering workplaces in Japan, and so on. I will also be writing about accessibility in engineering, as well as other topics about diversity and inclusion, with the specific point of view that I have as a queer foreign neurodiverse engineer living and working in Japan. I might also just point to other good articles I might find, while giving my point of view (although it'd be difficult to keep the multilingual aspect of the blog intact). You can [read more about my motivations here](/{{page.lang}}/2022/06/20/first-blog.html).
 
 I hope not only that you enjoy reading my posts, but that you may find them appropriate to share in your academic or business workplaces to make a more inclusive space where everyone can feel comfortable.
 

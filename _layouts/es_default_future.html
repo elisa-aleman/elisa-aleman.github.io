@@ -4,8 +4,8 @@
             <title>{{ page.title }}</title>
             <!-- link to main stylesheet -->
             <link rel="stylesheet" type="text/css" href="/css/main.css">
-            <meta name="description" content="I am Dr. Elisa Claire Alemán Carreón, PhD Graduate in Information Science and Control Engineering born in Mexico, currently working at an AI engineering in Osaka, Japan. I made this website to show my publications of research in Artificial Neural Networks, Artificial Intelligence, and Data Mining for management purposes and multilingual endeavors. See my list of publications and PDFs here.">
-            <meta name="og:title" property="og:title" content="Dr. Elisa Claire Alemán Carreón's publications">
+            <meta name="description" content="Mi nombre es Dra. Elisa Claire Alemán Carreón. Soy una mujer Mexicana graduada del curso el doctorado en Ciencia de Información e Ingeniería de Control, y actualmente trabajo en una compañía de IA en Osaka, Japón. Hice este sitio web para mostrar mi investigación sobre Redes Neurales Artificiales, Inteligencia Artificial y Minado de Datos para propósitos empresariales, así como aplicaciones multilinguales. Vea mi lista de publicaciones y PDFs aquí.">
+            <meta name="og:title" property="og:title" content="Elisa Claire Alemán Carreón: publicaciones">
             <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
             {% if site.google_analytics and jekyll.environment == 'production' %}
             {% include analytics.html %}
@@ -14,10 +14,10 @@
         <body>
             <nav>
                 <ul>
-                    <a href="/en/about/"><li>About me</li></a>
-                    <a href="/en/cv/"><li>Curriculum Vitae</li></a>
-                    <a href="/en/publications/"><li>Academic Publications</li></a>
-                    <!-- <a href="/en/blog/"><li>Personal Blog</li></a> -->
+                    <a href="/es/about"><li>Sobre mí</li></a>
+                    <a href="/es/cv"><li>Curriculum Vitae</li></a>
+                    <a href="/es/publications"><li>Publicaciones Académicas</li></a>
+                    <a href="/es/blog"><li>Blog Personal</li></a>
                 </ul>
             </nav>
             <div id="language_nav">
@@ -55,7 +55,7 @@
                 </div>
                 <div class="footer-div-container">
                     <div class="footer-div">
-                        <span class="footer-title">Research Related</span>
+                        <span class="footer-title">Perfiles de investigación</span>
                             <ul>
                                 <li><a href="https://orcid.org/0000-0002-6437-0866">ORCID</a></li>
                                 <li><a href="https://www.researchgate.net/profile/Elisa_Aleman_Carreon">ResearchGate</a></li>
@@ -67,16 +67,16 @@
                             </ul>
                     </div>
                     <div class="footer-div">
-                        <span class="footer-title">Navigation</span>
+                        <span class="footer-title">Navegación</span>
                         <ul>
-                            <a href="/en/about/"><li>About me</li></a>
-                            <a href="/en/cv/"><li>Curriculum Vitae</li></a>
-                            <a href="/en/publications/"><li>Academic Publications</li></a>
-                            <!-- <a href="/en/blog/"><li>Personal Blog</li></a> -->
+                            <a href="/es/about"><li>Sobre mí</li></a>
+                            <a href="/es/cv"><li>Curriculum Vitae</li></a>
+                            <a href="/es/publications"><li>Publicaciones Académicas</li></a>
+                            <a href="/es/blog"><li>Blog Personal</li></a>
                         </ul>
                     </div>
                     <div class="footer-div">
-                        <span class="footer-title">Languages</span>
+                        <span class="footer-title">Lenguajes</span>
                         <ul>
                             {% if page.layout != 'index' %}
                                 {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
@@ -100,7 +100,7 @@
                         </ul>
                     </div>
                     <div class="footer-div">
-                        <span class="footer-title">Contact</span>
+                        <span class="footer-title">Contacto</span>
                         <ul>
                             <li>Elisa Claire Alemán Carreón, PhD</li>
                             <li><a href="mailto:elisa.claire.aleman.carreon@gmail.com">elisa.claire.aleman.carreon@gmail.com</a></li>
