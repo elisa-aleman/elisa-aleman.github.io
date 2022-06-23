@@ -1,7 +1,7 @@
 ---
-layout: en_default
+layout: jp_default
 title: 全ブログ投稿履歴
-lang: en
+lang: jp
 lang-ref: blog/blog_archive
 ---
 
