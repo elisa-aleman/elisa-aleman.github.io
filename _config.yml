@@ -10,9 +10,7 @@ plugins:
 
 exclude: [
   "logs", 
-  "assets/blog",
-  "en/_posts", "es/_posts", "jp/_posts",
-  "_layouts/en_default_future.html", "_layouts/es_default_future.html", "_layouts/jp_default_future.html"
+  "assets/blog"
 ]
 
 #Publishing defaults

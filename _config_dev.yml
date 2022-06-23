@@ -10,8 +10,7 @@ plugins:
 
 exclude: [
   "logs", 
-  "assets/blog",
-  # "en/blog", "es/blog", "jp/blog"
+  "assets/blog"
 ]
 
 #Publishing defaults
