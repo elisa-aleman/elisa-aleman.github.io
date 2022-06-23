@@ -63,9 +63,28 @@ The flag is the same as the flag for all queer people, but previously, and depen
 <a id="the-s-in-gsrm-sexual-orientation"></a>
 ### The S in GSRM: Sexual orientation
 
-￼ ： Homosexuality, the L and the G in LGBT, Lesbian and Gay is when you like people of the same sex. 
+First let's define sexual orientation. There are different types of attraction that we experience. 
 
-￼ ：Lesbian, when girls like girls. This is the new flag, since the person that made the previous one said bad things about trans people. Some people also use this flag to mean "Liking other people that aren't men". It really depends on who you ask, and people use these flags differently.
+<div class="art-gallery-container">
+    <div class="art-gallery">
+        <div class="art-div">
+            <img
+            class="img_flag"
+            src="/assets/lgbt_flags/LGBT_flag_square.svg#svgView(preserveAspectRatio(none))" 
+            alt="" 
+            />
+        </div>
+    </div>
+</div>
+
+__Homosexuality (Gay)__
+
+The L and the G in LGBT, Lesbian and Gay is when you are attracted to people of the same sex. Gay is predominantly used to mean gay men, but some women also use the word gay to describe themselves.
+
+
+__Lesbian__
+
+This is the word we use when women are attracted to women. This is the new flag, since the person that made the previous one said bad things about trans people. Some people also use this flag to mean "Liking other people that aren't men". It really depends on who you ask, and people use these flags differently.
 
 ￼ ：Bisexuality, when you like two or more genders, and this is its flag.
 
