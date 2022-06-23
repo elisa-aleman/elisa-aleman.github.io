@@ -7,6 +7,8 @@
             <meta name="description" content="Mi nombre es Dra. Elisa Claire Alemán Carreón. Soy una mujer Mexicana graduada del curso el doctorado en Ciencia de Información e Ingeniería de Control, y actualmente trabajo en una compañía de IA en Osaka, Japón. Hice este sitio web para mostrar mi investigación sobre Redes Neurales Artificiales, Inteligencia Artificial y Minado de Datos para propósitos empresariales, así como aplicaciones multilinguales. Vea mi lista de publicaciones y PDFs aquí.">
             <meta name="og:title" property="og:title" content="Elisa Claire Alemán Carreón: publicaciones">
             <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+            {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+            {% if page.title %}<meta name="og:title" content="{{ page.title }}">{% endif %}
             {% if site.google_analytics and jekyll.environment == 'production' %}
             {% include analytics.html %}
             {% endif %}

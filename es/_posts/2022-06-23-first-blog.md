@@ -5,6 +5,7 @@ lang: es
 lang-ref: first-blog
 author: Elisa Claire Alemán Carreón, PhD
 date: 2022-06-23 08:00:00 +0900
+description: Hola! Este post es en general para ver si mi blog funciona correctamente, pero también quisiera hablar de mis motivaciones para escribir este blog en particular. Quiero hablar de problemas sociales, diversidad e inclusión, y la intersección con ingeniería y vivir en Japón. 
 ---
 
 Hola! Este post es en general para ver si mi blog funciona correctamente, pero también quisiera hablar de mis motivaciones para escribir este blog en particular.

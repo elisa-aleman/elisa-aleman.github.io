@@ -7,6 +7,8 @@
             <meta name="description" content="私の名前は Dr. Elisa Claire Alemán Carreón、エリサ・クレアー・アレマン・カレオン博士です。メキシコ出身の情報・制御工学の博士を持っている。このサイトは経営やや多言語対応に利用したニューラルネットワーク、人工知能やデータマイニングの研究を紹介するために作った。私の学会投稿実績とPDFファイルをこちらにご覧ください。">
             <meta name="og:title" property="og:title" content="Elisa Claire Alemán Carreón, PhD: 学会投稿実績">
             <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+            {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+            {% if page.title %}<meta name="og:title" content="{{ page.title }}">{% endif %}
             {% if site.google_analytics and jekyll.environment == 'production' %}
             {% include analytics.html %}
             {% endif %}

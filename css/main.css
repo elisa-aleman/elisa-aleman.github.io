@@ -149,7 +149,7 @@ nav ul li:hover {
 
 .nav-buttons{
     display: flex;
-    width: 20em;
+    width: 50em;
     text-align: center;
     align-items: stretch;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -599,6 +599,11 @@ ul li{
     width: auto;
     height: 27em;
     padding:0 2em;
+}
+
+.img_flag {
+    width: 10em;
+    height: 6em;
 }
 
 .art_video_player_container{
