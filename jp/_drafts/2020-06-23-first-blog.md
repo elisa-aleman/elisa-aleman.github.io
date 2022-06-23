@@ -4,7 +4,7 @@ title:  "初ブログ: 動機"
 lang: jp
 lang-ref: first-blog
 author: Elisa Claire Alemán Carreón, PhD
-date: 2022-06-23 08:00:00
+date: 2022-06-23 08:00:00 +0900
 ---
 
 こんにちは皆さん！これは主にブログが正常に動いているかをテストする為だが、このブログを書く動機も含めて話そうと心がけた。

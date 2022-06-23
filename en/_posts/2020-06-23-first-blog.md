@@ -4,7 +4,7 @@ title:  "First Blog Entry: Motivations"
 lang: en
 lang-ref: first-blog
 author: Elisa Claire Alemán Carreón, PhD
-date: 2022-06-23 08:00:00
+date: 2022-06-23 08:00:00 +0900
 ---
 
 Hello everyone! This is mostly a test to see if my blog works correctly but I'd also like to talk about my motivations behind writing this blog in particular. 

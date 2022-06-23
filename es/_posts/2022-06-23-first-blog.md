@@ -4,7 +4,7 @@ title:  "Primer Blog: Mi Motivación"
 lang: es
 lang-ref: first-blog
 author: Elisa Claire Alemán Carreón, PhD
-date: 2022-06-23 08:00:00
+date: 2022-06-23 08:00:00 +0900
 ---
 
 Hola! Este post es en general para ver si mi blog funciona correctamente, pero también quisiera hablar de mis motivaciones para escribir este blog en particular.
