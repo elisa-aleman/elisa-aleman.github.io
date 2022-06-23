@@ -25,11 +25,25 @@ lang-ref: blog
                 <h3 style="font-size: 0.8em; margin-bottom:-0.5em;">
                     <a href="{{ post.url }}">
                         {% if newest == true %}
-                            <div id="newest_post_banner"> ★New</div>
+                            <div id="newest_post_banner"> ★新</div>
                             {% assign newest = false %}
                         {% endif %}
                     </a>
-                    <a href="{{ post.url }}">{{ post.date | date:'%Y/%m/%d (%a)' }} - {{ post.title }}
+                    {% assign jpa = post.date | date: "%a" %}
+                    <a href="{{ post.url }}">
+                        {{ post.date | date:'%Y年%m月%d日' }}
+                            (
+                        {% case jpa %}
+                          {% when "Mon" %}月
+                          {% when "Tue" %}火
+                          {% when "Wed" %}水
+                          {% when "Thu" %}木
+                          {% when "Fri" %}金
+                          {% when "Sat" %}土
+                          {% when "Sun" %}日
+                          {% else %}{{ jpa }}
+                          {% endcase %}
+                            ) - {{ post.title }}
                     </a>
                 </h3>
                 <div style="font-size: 0.7em; margin-bottom:-0.5em;">{{ post.excerpt }}</div>

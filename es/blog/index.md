@@ -25,11 +25,25 @@ Abajo encontrarán una lista de mis posts más recientes, y aquí hay un link al
                 <h3 style="font-size: 0.8em; margin-bottom:-0.5em;">
                     <a href="{{ post.url }}">
                         {% if newest == true %}
-                            <div id="newest_post_banner"> ★New</div>
+                            <div id="newest_post_banner"> ★Nuevo</div>
                             {% assign newest = false %}
                         {% endif %}
                     </a>
-                    <a href="{{ post.url }}">{{ post.date | date:'%Y/%m/%d (%a)' }} - {{ post.title }}
+                    {% assign esa = post.date | date: "%a" %}
+                    <a href="{{ post.url }}">
+                        {{ post.date | date:'%Y/%m/%d' }}
+                            (
+                        {% case esa %}
+                          {% when "Mon" %}Lun
+                          {% when "Tue" %}Mar
+                          {% when "Wed" %}Mie
+                          {% when "Thu" %}Jue
+                          {% when "Fri" %}Vie
+                          {% when "Sat" %}Sab
+                          {% when "Sun" %}Dom
+                          {% else %}{{ esa }}
+                        {% endcase %}
+                            ) - {{ post.title }}
                     </a>
                 </h3>
                 <div style="font-size: 0.7em; margin-bottom:-0.5em;">{{ post.excerpt }}</div>

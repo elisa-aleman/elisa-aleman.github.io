@@ -16,17 +16,34 @@ lang-ref: blog/blog_archive
 	  	{% for post in posts_list %}
 	  		{% assign currentyear = post.date | date: "%Y" %}
 	  		{% if currentyear != year %}
-	  			<li id="y{{currentyear}}">{{ currentyear }}</li>
+	  			<li id="y{{currentyear}}"><h2>{{ currentyear }}年</h2></li>
 	    		{% assign year = currentyear %}
     		{% endif %}
-	  		{% assign currentmonth = post.date | date: "%B %Y" %}
+	  		{% assign currentmonth = post.date | date: "%Y年%m月" %}
 		  	{% if currentmonth != date %}
-	  			<li id="y{{currentmonth}}">{{ currentmonth }}</li>
+	  			<li id="y{{currentmonth}}"><h3 style="font-size: 0.9em">{{ currentmonth }}</h3></li>
 	    		{% assign date = currentmonth %}
     		{% endif %}
 	    	<li>
-	      		<h3 style="font-size: 0.8em"><a href="{{ post.url }}">{{ post.date | date:'%Y/%m/%d (%a)' }} - {{ post.title }}</a></h3>
-	      			<div style="font-size: 0.7em">{{ post.excerpt }}</div>
+	      		<h4 style="font-size: 0.8em">
+	      			{% assign jpa = post.date | date: "%a" %}
+	      			<a href="{{ post.url }}">
+                        {{ post.date | date:'%Y年%m月%d日' }}
+                            (
+                        {% case jpa %}
+                        	{% when "Mon" %}月
+                        	{% when "Tue" %}火
+                        	{% when "Wed" %}水
+                        	{% when "Thu" %}木
+                        	{% when "Fri" %}金
+                        	{% when "Sat" %}土
+                        	{% when "Sun" %}日
+                        	{% else %}{{ jpa }}
+                        {% endcase %}
+                            ) - {{ post.title }}
+                    </a>
+	      		</h4>
+	      		<div style="font-size: 0.7em">{{ post.excerpt }}</div>
 	    	</li>
 	  	{% endfor %}
 	</ul>

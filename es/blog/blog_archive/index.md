@@ -9,23 +9,43 @@ lang-ref: blog/blog_archive
 
 <div id="toc_container">
 	<div class="nav-buttons" style="font-size = 0.7em; width: 20em; float: left;">
-		<div class="nav-btn" style="border:0;"><a href="/{{page.lang}}/blog"> Regresar a la página principal del blog </a></div>
+		<div class="nav-btn" style="border:0;"><a href="/{{page.lang}}/blog"> Return to the Blog home page </a></div>
 	</div><br><br>
 	<ul id="toc_list">
 		{% assign posts_list = site.posts | where:"lang", page.lang %}
 	  	{% for post in posts_list %}
 	  		{% assign currentyear = post.date | date: "%Y" %}
 	  		{% if currentyear != year %}
-	  			<li id="y{{currentyear}}">{{ currentyear }}</li>
+	  			<li id="y{{currentyear}}"><h2>{{ currentyear }}</h2></li>
 	    		{% assign year = currentyear %}
     		{% endif %}
 	  		{% assign currentmonth = post.date | date: "%B %Y" %}
+	  		{% assign ESB = post.date | date: "%B" %}
 		  	{% if currentmonth != date %}
-	  			<li id="y{{currentmonth}}">{{ currentmonth }}</li>
+	  			<li id="y{{currentmonth}}">
+	  				<h3 style="font-size: 0.9em"> 
+	  					{% case ESB %}
+		  					{% when "January" %}Enero
+		  					{% when "February" %}Febrero
+		  					{% when "March" %}Marzo
+		  					{% when "April" %}Abril
+		  					{% when "May" %}Mayo
+		  					{% when "June" %}Junio
+		  					{% when "July" %}Julio
+		  					{% when "August" %}Agosto
+		  					{% when "September" %}Septiembre
+		  					{% when "October" %}Octubre
+		  					{% when "November" %}Noviembre
+		  					{% when "Dicember" %}Diciembre
+		  					{% else %}{{ ESB }}
+		  				{% endcase %}
+		  				{{ currentyear }}
+	  				</h3>
+	  			</li>
 	    		{% assign date = currentmonth %}
     		{% endif %}
 	    	<li>
-	      		<h3 style="font-size: 0.8em"><a href="{{ post.url }}">{{ post.date | date:'%Y/%m/%d (%a)' }} - {{ post.title }}</a></h3>
+	      		<h4 style="font-size: 0.8em"><a href="{{ post.url }}">{{ post.date | date:'%Y/%m/%d (%a)' }} - {{ post.title }}</a></h4>
 	      			<div style="font-size: 0.7em">{{ post.excerpt }}</div>
 	    	</li>
 	  	{% endfor %}

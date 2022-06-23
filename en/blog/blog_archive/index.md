@@ -16,16 +16,16 @@ lang-ref: blog/blog_archive
 	  	{% for post in posts_list %}
 	  		{% assign currentyear = post.date | date: "%Y" %}
 	  		{% if currentyear != year %}
-	  			<li id="y{{currentyear}}">{{ currentyear }}</li>
+	  			<li id="y{{currentyear}}"><h2>{{ currentyear }}</h2></li>
 	    		{% assign year = currentyear %}
     		{% endif %}
 	  		{% assign currentmonth = post.date | date: "%B %Y" %}
 		  	{% if currentmonth != date %}
-	  			<li id="y{{currentmonth}}">{{ currentmonth }}</li>
+	  			<li id="y{{currentmonth}}"><h3 style="font-size: 0.9em">{{ currentmonth }}</h3></li>
 	    		{% assign date = currentmonth %}
     		{% endif %}
 	    	<li>
-	      		<h3 style="font-size: 0.8em"><a href="{{ post.url }}">{{ post.date | date:'%Y/%m/%d (%a)' }} - {{ post.title }}</a></h3>
+	      		<h4 style="font-size: 0.8em"><a href="{{ post.url }}">{{ post.date | date:'%Y/%m/%d (%a)' }} - {{ post.title }}</a></h4>
 	      			<div style="font-size: 0.7em">{{ post.excerpt }}</div>
 	    	</li>
 	  	{% endfor %}
