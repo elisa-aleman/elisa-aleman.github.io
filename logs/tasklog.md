@@ -108,3 +108,17 @@ In the Shortcuts app
 21. Define it as a dictionary and in the key section type `accept`
 22. Search for apps, search for "Show Notification"
 23. Add Notification text as you like
+
+## Making Metatags appear on blog posts
+
+https://sarathlal.com/add-meta-description-in-jekyll-posts/
+
+## SVGs no aspect ratio
+
+```
+<img
+    class="img_flag"
+    src="/assets/lgbt_flags/LGBT_flag_square.svg#svgView(preserveAspectRatio(none))" 
+    alt="" 
+/>
+```

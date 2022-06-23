@@ -4,11 +4,16 @@
             <title>{{ page.title }}</title>
             <!-- link to main stylesheet -->
             <link rel="stylesheet" type="text/css" href="/css/main.css">
-            <meta name="description" content="I am Dr. Elisa Claire Alemán Carreón, PhD Graduate in Information Science and Control Engineering born in Mexico, currently working at an AI engineering in Osaka, Japan. I made this website to show my publications of research in Artificial Neural Networks, Artificial Intelligence, and Data Mining for management purposes and multilingual endeavors. See my list of publications and PDFs here.">
-            <meta name="og:title" property="og:title" content="Dr. Elisa Claire Alemán Carreón's publications">
             <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
-            {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-            {% if page.title %}<meta name="og:title" content="{{ page.title }}">{% endif %}
+            {% if page.description %}
+            <meta name="description" content="{{ page.description }}">
+            {% else %}
+            <meta name="description" content="I am Dr. Elisa Claire Alemán Carreón, PhD Graduate in Information Science and Control Engineering born in Mexico, currently working at an AI engineering in Osaka, Japan. I made this website to show my publications of research in Artificial Neural Networks, Artificial Intelligence, and Data Mining for management purposes and multilingual endeavors. See my list of publications and PDFs here.">
+            {% endif %}
+            {% if page.title %}<meta name="og:title" content="{{ page.title }}">
+            {% else %}
+            <meta name="og:title" property="og:title" content="Dr. Elisa Claire Alemán Carreón's publications">
+            {% endif %}
             {% if site.google_analytics and jekyll.environment == 'production' %}
             {% include analytics.html %}
             {% endif %}
