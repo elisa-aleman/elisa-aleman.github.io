@@ -589,9 +589,20 @@ ul li{
     margin:0 auto;
 }
 
+.art_img_single_square {
+    display:block;
+    width:16em;
+    float: center;
+    margin-right:auto;
+    margin-left:auto;
+}
+
 .art_img_landscape {
     display:block;
     width:27em;
+    float: center;
+    margin-right:auto;
+    margin-left:auto;
 }
 
 .art_img_portrait {
@@ -602,8 +613,8 @@ ul li{
 }
 
 .img_flag {
-    width: 10em;
-    height: 6em;
+    width: 12.5em;
+    height: 7.5em;
 }
 
 .art_video_player_container{
@@ -1031,6 +1042,24 @@ footer {
         max-width: 20em;
         margin-right:15%;
         margin-left:15%;
+    }
+
+    .art_img_landscape{
+        display: block;
+        float:center;
+        width: 100%;
+        max-width: 20em;
+        margin-right:auto;
+        margin-left:auto;
+    }
+
+    .art_img_square{
+        display: block;
+        float:center;
+        width: 100%;
+        max-width: 20em;
+        margin-right:auto;
+        margin-left:auto;
     }
 
     .github_img {
