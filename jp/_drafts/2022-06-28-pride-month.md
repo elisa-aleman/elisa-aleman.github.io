@@ -1,20 +1,20 @@
 ---
-layout: en_post
+layout: jp_post
 title:  "June is the LGBT+/GSRM 🏳️‍🌈 Pride month!"
-lang: en
+lang: jp
 lang-ref: pride-month
 author: Elisa Claire Alemán Carreón, PhD
 date: 2022-06-28 08:00:00 +0900
-description: Did you know June is the LGBT+ Pride month? To me it is general knowledge, but to many in the workplace, it might not be. In today's entry I'll speak about the basics of queer vocabulary, why it's an important month for us, and what companies and academic places can do to make their workplace a better place for everyone.
+description: 
 ---
 
-Did you know June is the LGBT+ Pride month? To me it is general knowledge, but to many in the workplace, it might not be. In today's entry I'll speak about the basics of queer vocabulary, why it's an important month for us, and what companies and academic places can do to make their workplace a better place for everyone.
+6月がLGBT+プライド月間であることをご存知か？ 私にとっては一般的な知識ですが、職場の多くの人にとってはそうではないかもしれない。 今日のエントリーでは、クィア語彙の基本、なぜ今月が私たちにとって重要な月であるのか、そして企業や学界が職場をすべての人にとってより良い場所にするために何ができるかについて話す。
 
-Of course, many people know since it has become a common theme in the news, but not all countries have this, and living in Japan, it is only talked about within queer circles and still carries a lot of stigma. 
+もちろん、ニュースで共通のテーマになっていることは多くの人が知ってるが、すべての国がこれを持っているわけでもなく、日本に住んでいる私から見て、クィアのグループ内でしか話題にならなく、依然として多くのスティグマがあります。
 
-First let me start with the title. Lot's of people know about LGBT+, however, not everyone knows what it means, or how many letters we should use, etc.
+まず、タイトルから始めよう。 LGBT +については多くの人が知ってるが、それが何を意味するのか、何文字を使うべきかなどを誰もが知っているわけではない。
 
-Below I list the ones I used up to now: 
+以下に、これまでに使用したものを示す。
 
 - **LGBT+**: Lesbian, Gay, Bisexual, Transgender, and other queer identities and sexual minorities
 - **GSRM**: Gender, Sexual and Romantic Minorities

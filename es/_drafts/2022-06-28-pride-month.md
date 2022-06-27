@@ -1,71 +1,72 @@
 ---
 layout: es_post
-title:  "June is the LGBT+/GSRM 🏳️‍🌈 Pride month!"
+title:  "Junio es el mes de Orgullo LGBT+/GSRM 🏳️‍🌈!"
 lang: es
 lang-ref: pride-month
 author: Elisa Claire Alemán Carreón, PhD
 date: 2022-06-28 08:00:00 +0900
-description: 
+description: Sabían que Junio es el mes de Orgullo LGBT+? Para mí es conocimiento general, pero en muchos lugares de trabajo, quizás no lo sea. En la entrada de hoy hablaré sobre los conocimientos básicos del vocabulario queer, del porqué es un mes importante para nosotros, y qué pueden hacer las compañías y lugares académicos para ser un lugar mejor para todes.
 ---
 
-Did you know June is the LGBT+ Pride month? To me it is general knowledge, but to many in the workplace, it might not be. In today's entry I'll speak about the basics of queer vocabulary, why it's an important month for us, and what companies and academic places can do to make their workplace a better place for everyone.
+Sabían que Junio es el mes de Orgullo LGBT+? Para mí es conocimiento general, pero en muchos lugares de trabajo, quizás no lo sea. En la entrada de hoy hablaré sobre los conocimientos básicos del vocabulario queer, del porqué es un mes importante para nosotros, y qué pueden hacer las compañías y lugares académicos para ser un lugar mejor para todes.
 
-Of course, many people know since it has become a common theme in the news, but not all countries have this, and living in Japan, it is only talked about within queer circles and still carries a lot of stigma. 
+Por supuesto, mucha gente ya sabe esto ya que es un tema importante en las noticias, pero no todos los países tienen esto, y, viviendo en Japón, solo es hablado dentro de círculos queer y aún carga mucha estigma. 
 
-First let me start with the title. Lot's of people know about LGBT, however, not everyone knows what it means, or how many letters we should use, etc.
+Primero debo empezar con el título. Mucha gente conoce sobre LGBT+, sin embargo, no todos saben lo que significa o cuantas letras se deben usar, etc.
 
-Below I list the ones I used up to now: 
+Abajo tengo en una lista los términos que he usado hasta ahora:
 
-- **LGBT+**: Lesbian, Gay, Bisexual, Transgender, and other queer identities and sexual minorities
-- **GSRM**: Gender, Sexual and Romantic Minorities
-- **queer**: An umbrella term encompassing all gender, sexual and romantic minorities, and sometimes used in defiance to being classified as one or the other for either case.
+- **LGBT+**: Lesbianas, Gays, Bisexuales, Transgénero, y otras identidades queer y minorías sexuales
+- **GSRM**: Minorías Sexuales, Románticas y de Género, del inglés "Gender, Sexual and Romantic Minorities"
+- **queer**: Un término genérico que contiene todas las minorías sexuales, románticas y de género, y en ocasiones usado con rebeldía a ser clasificade como una cosa o la otra.
 
-It's important to add the + in LGBT+ because lots of identities aren't represented in the abbreviations we used before. Some people used LGBTQ, LGBTQI, even as far as LGBTQIA2s... but none of them really span the whole spectrum of queerness, and someone gets left behind at some point. Which is why the + includes everyone under the name that everyone is familiar with.
+Es importante agregar el + en LGBT+ porque muchas identidades no están representadas en las abreviaciones que usábamos antes. Algunos usaron LGBTQ, LGBTQI, incluso LGBTQIA2s... pero ninguno de ellos realmente abarcan todo el espectro queer, y alguien queda dejado atrás en algún punto. Es por esto que el + abarca a todes mientras se usa un nombre con el que la gente ya está familiarizada.
 
-However, that gives more representation to some than others, so the acronym GSRM got made, which includes all the different representations without putting anyone first... but it is also very little known by people so sometimes it's not recognizable. When we want to make our point across, it's important that everybody knows what we mean, so not many people use it.
+Sin embargo, aún se le da más representación a unos que a otros, así que el acrónimo GSRM fue concebido, e incluye todas las diferentes representaciones sin poner a alguien en específico primero... pero también es muy poco conocido así que no es reconocible al usarlo. Cuando queremos dar nuestro punto de vista, es importante que todes sepan lo que queremos decir, así que no mucha gente lo usa.
 
-Now, even before I finish writing my post I want to make sure: if anyone wants to ask questions, if anyone feels like they don't understand, feel free to ask me questions through my contact info.
+Ahora, incluso antes de terminar mi post quiero dejarlo en claro: si alguien tiene preguntas, si alguien siente que no entiende, siéntanse libres de hacerme preguntas por medio de mi información de contacto.
 
-## Table of Contents
+
+## Tabla de Contenidos
 
 <!-- MarkdownTOC -->
 
-- [Basic knowledge:](#basic-knowledge)
-    - [The Pride Flag 🏳️‍🌈](#the-pride-flag-)
-    - [The S in GSRM: Sexual orientation](#the-s-in-gsrm-sexual-orientation)
-    - [The R in GSRM: Romantic orientation](#the-r-in-gsrm-romantic-orientation)
-    - [The G in GSRM: Gender identity](#the-g-in-gsrm-gender-identity)
-        - [Gender transition](#gender-transition)
-        - [Gender expression](#gender-expression)
-        - [Pronouns and Names](#pronouns-and-names)
-    - [The S in GSRM: Sexual Minorities: Intersex people](#the-s-in-gsrm-sexual-minorities-intersex-people)
-- [Relax, it's not an exam](#relax-its-not-an-exam)
-- [Why is June the Pride Month? Stonewall Riots](#why-is-june-the-pride-month-stonewall-riots)
-- [What does this have to do with workplace environment?](#what-does-this-have-to-do-with-workplace-environment)
-- [Problems in Society](#problems-in-society)
-    - [Violence against LGBT+ people](#violence-against-lgbt-people)
-    - [Marriage inequality](#marriage-inequality)
-    - [Employment and housing discrimination](#employment-and-housing-discrimination)
-    - [Medical discrimination](#medical-discrimination)
-    - [Legal discrimination](#legal-discrimination)
-        - [The case of Elin McCready](#the-case-of-elin-mccready)
-- [Charities and Organizations](#charities-and-organizations)
-- [What can a company or school do?](#what-can-a-company-or-school-do)
-    - [About toilets](#about-toilets)
-    - [What not to say](#what-not-to-say)
-- [Extra facts about Transgender people](#extra-facts-about-transgender-people)
-    - [Gender Dysphoria and Gender Euphoria](#gender-dysphoria-and-gender-euphoria)
-    - [Trans Brains](#trans-brains)
-- [References](#references)
+- [Conocimiento Básico:](#conocimiento-b%C3%A1sico)
+    - [La Bandera de Orgullo 🏳️‍🌈](#la-bandera-de-orgullo-)
+    - [La S en GSRM: Orientación Sexual](#la-s-en-gsrm-orientaci%C3%B3n-sexual)
+    - [La R en GSRM: Orientación Romántica](#la-r-en-gsrm-orientaci%C3%B3n-rom%C3%A1ntica)
+    - [La G en GSRM: Identidad de Género](#la-g-en-gsrm-identidad-de-g%C3%A9nero)
+        - [Transición de género](#transici%C3%B3n-de-g%C3%A9nero)
+        - [Expresión de género](#expresi%C3%B3n-de-g%C3%A9nero)
+        - [Pronombres y nombres](#pronombres-y-nombres)
+    - [La S en GSRM: Minorías sexuales: personas Intersexuales](#la-s-en-gsrm-minor%C3%ADas-sexuales-personas-intersexuales)
+- [Relájate, no es un examen.](#rel%C3%A1jate-no-es-un-examen)
+- [¿Por qué junio es el Mes del Orgullo? Disturbios de Stonewall](#por-qu%C3%A9-junio-es-el-mes-del-orgullo-disturbios-de-stonewall)
+- [¿Qué tiene esto que ver con el entorno laboral?](#qu%C3%A9-tiene-esto-que-ver-con-el-entorno-laboral)
+- [Problemas en la sociedad](#problemas-en-la-sociedad)
+    - [Violencia contra las personas LGBT+](#violencia-contra-las-personas-lgbt)
+    - [Desigualdad matrimonial](#desigualdad-matrimonial)
+    - [Discriminación en el empleo y la vivienda](#discriminaci%C3%B3n-en-el-empleo-y-la-vivienda)
+    - [Discriminación médica](#discriminaci%C3%B3n-m%C3%A9dica)
+    - [Discriminación legal](#discriminaci%C3%B3n-legal)
+        - [El caso de Elin McCready](#el-caso-de-elin-mccready)
+- [Caridades y Organizaciones](#caridades-y-organizaciones)
+- [¿Qué puede hacer una empresa o escuela?](#qu%C3%A9-puede-hacer-una-empresa-o-escuela)
+    - [Acerca de los baños](#acerca-de-los-ba%C3%B1os)
+    - [Qué no decir](#qu%C3%A9-no-decir)
+- [Datos adicionales sobre las personas transgénero](#datos-adicionales-sobre-las-personas-transg%C3%A9nero)
+    - [Disforia de género y euforia de género](#disforia-de-g%C3%A9nero-y-euforia-de-g%C3%A9nero)
+    - [Cerebros trans](#cerebros-trans)
+- [Referencias](#referencias)
 
 <!-- /MarkdownTOC -->
 
 -------------------------
-<a id="basic-knowledge"></a>
-## Basic knowledge:
+<a id="conocimiento-b%C3%A1sico"></a>
+## Conocimiento Básico:
 
-<a id="the-pride-flag-"></a>
-### The Pride Flag 🏳️‍🌈
+<a id="la-bandera-de-orgullo-"></a>
+### La Bandera de Orgullo 🏳️‍🌈
 
 <div class="art-gallery">
     <img
@@ -75,21 +76,21 @@ Now, even before I finish writing my post I want to make sure: if anyone wants t
     />
 </div>
 
-The pride flag is representing all of the queer community, the rainbow being a symbol for it since 1978. However, in the past it was used as specifically the homosexual flag as opposed to other identities with their own flags. There is already a separate Lesbian flag, so sometimes it's perceived as only the gay men flag. Recently however, there has been proposals of a flag only for men who are attracted to men, so that the Rainbow flag can stay as a representation of ***all*** queer people.
+La bandera de orgullo representa a toda la comunidad queer, con el arcoiris siendo su símbolo desde 1978. Sin embargo, en el pasado se ha usado para denotar específicamente la comunidad gay, en contraste con el resto de las identidades que tenían sus propias banderas. Ya existía una bandera Lesbiana, así que llegó incluso a pensarse como la bandera de hombres gay. Aunque recientemente ha habido propuestas de una bandera que solo sea para hombres atraídos por hombres, para que la bandera de arcoiris pueda quedarse como representación de **toda** la comunidad queer.
 
-<a id="the-s-in-gsrm-sexual-orientation"></a>
-### The S in GSRM: Sexual orientation
+<a id="la-s-en-gsrm-orientaci%C3%B3n-sexual"></a>
+### La S en GSRM: Orientación Sexual
 
-First let's define sexual orientation. There are different types of attraction that we experience, such as sexual, romantic, platonic, aesthetic, etc. Sexual orientation is specifically about which people one is sexually attracted and how that relates to one's own gender. More simply said, it's who **you** are attracted to. It's important to make a distinction here because there are many combinations depending on which type of attraction a person experiences.
+Primero hay que definir orientación sexual. Hay distintos tipos de atracción que podemos sentir, ya sea sexual, romántica, platónica, estética, etc. La orientación sexual trata específicamente sobre la gente por la que uno es atraído sexualmente y cómo se relacionan con nuestro propio género. Dicho de manera más simple, es la gente que te atrae a **tí**. Es importante hacer esta distinción aquí porque hay muchas combinaciones dependiendo qué tipo de atracción una persona sienta.
 
-Remember:
+Recuerda:
 
-- You can like one gender
-- You can like two
-- You can like more
-- You can like none
+- Te puede gustar un género
+- Te pueden gustar dos
+- Te pueden gustar más
+- Puede que no te guste ninguno
 
-And this is all ok. 
+Y todo eso está perfectamente bien.
 
 <div class="art-gallery">
     <img
@@ -100,12 +101,12 @@ And this is all ok.
 </div>
 
 
-__Heterosexuality__
+__Heterosexualidad__
 
-Heterosexuality is when men are attracted to women, or when women are attracted to men. It is usually seen as the default, but it is only one of the many sexualities there are. LGBT+ and queer pride doesn't include this identity as part of the community because of this, but I mention it here to explain that we should use this terminology instead of words like "normal", since this implies that LGBT+ people aren't normal.
+La heterosexualidad es cuando los hombres son atraídos por mujeres, o las mujeres por los hombres. Usualmente es visto como el default, pero es solamente una de las muchas sexualidades que hay. El orgullo LGBT+ y queer no incluye esta identidad debido a esto, pero la menciono aqí para explicar que debemos usar esta terminología en lugar de palabras como "normal", ya que eso implica que la gente LGBT+ no es normal.
 
 
-__Homosexuality__
+__Homosexualidad__
 
 <div class="art-gallery">
     <img
@@ -115,11 +116,11 @@ __Homosexuality__
     />
 </div>
 
-The L and the G in LGBT, Lesbian and Gay are terms for when someone are sexually attracted to people of the same sex. Gay is predominantly used to mean gay men, but some women also use the word gay to describe themselves.
+La L y la G en LGBT, Lesbiana y Gay son términos para cuando alguien está atraído al mísmo género. Gay es usado predominantemente para referirse a los hombres gay, pero algunas mujeres también usan la palabra gay para auto-describirse.
 
-___Gay men___
+___Hombres gay___
 
-As I mentioned before, a flag specifically for gay men has been created recently so that the rainbow flag can encompass everyone. 
+Como les mencioné anteriormente, la bandera específicamente para hombres gay fue hecha recientemente para que la bandera de arcoiris pueda abarcar a todes.
 
 <div class="art-gallery">
     <img
@@ -129,7 +130,7 @@ As I mentioned before, a flag specifically for gay men has been created recently
     />
 </div>
 
-___Lesbian people___
+___Gente Lesbiana___
 
 <div class="art-gallery">
     <img
@@ -139,10 +140,9 @@ ___Lesbian people___
     />
 </div>
 
-This is the word we use when women are attracted to women. This is the new flag, since the person that made the previous one said bad things about trans people, so sometimes you might run into a different one. Some people also use this flag to mean "Non-men who are attracted to other people that aren't men". Depending on how people express their gender, they might or not use this label for them. It really depends on who you ask, and people use these flags differently.
+Esta es la palabra que usamos para decir cuando a las mujeres les atraen otras mujeres. Esta es la bandera nueva, ya que la persona que hizo la anterior dijo cosas horribles sobre la gente trans. Alguna gente también usa esta bandera y palabra para referirse a "Gente que no son hombres atraídos por otra gente que no son hombres". Dependiendo de cómo exprese la gente su género, es probable que quizás usen esta etiqueta o no. En realidad depende de a quién le preguntes, y la gente suele usar estas banderas de manera diferente.
 
-
-__Bisexuality__
+__Bisexualidad__
 
 <div class="art-gallery">
     <img
@@ -152,10 +152,9 @@ __Bisexuality__
     />
 </div>
 
-Bisexual is the word used for people who are attracted to two or more genders. I say two or more because in reality people can be attracted to different genders in the spectrum of identities that people can have. Sometimes Bisexuality might encompass all people, but with different preferences or tastes for each gender, or perhaps a tendency to like one gender more often than the other. It really is up to the person to define themselves and think about who they are attracted to. Some people actually write it as Bi+ since it includes more than two. 
+Bisexual es la palabra que se usa para referirse a la gente que es atraída por dos o más géneros. Digo dos o más por que en realidad la gente puede ser atraída a distintos géneros en el espectro de identidades que la gente puede tener. Algunas veces esto significa que la bisexualidad puede abarcar todos los géneros, pero con diferentes preferencias o gustos para cada uno, o quizás una tendencia a ser atraíde más por un género que por el otro. Depende de cada quien definirse como quieran y pensar quién les atrae y porqué. Algunos lo abrevian como Bi+ ya que incluye más que dos.
 
-
-__Asexuality__
+__Asexualidad__
 
 <div class="art-gallery">
     <img
@@ -165,9 +164,9 @@ __Asexuality__
     />
 </div>
 
-Asexuality is a sexual orientation in which people don't have any sexual attraction for any genders. It is also an umbrella term including Demisexuality or Gray-Asexual people, who experience some attraction, but it is rare or in very specific conditions, such that they relate to the Asexuality umbrella in some way. We will talk about these identities more in [The R in GSRM: Romantic orientation](#the-r-in-gsrm-romantic-orientation).
+La asexualidad es la orientación sexual en que la gente no siente ninguna atracción sexual por ningún género. También es un término general que incluye la Demisexualidad o la gente Gray-Asexual, que pueden experimentar cierta atracción, pero es muy raro que ocurra o es en condiciones muy específicas, de manera que se identifican con la Asexualidad en alguna manera. Hablaremos más de estas identidades en [La R en GSRM: Orientación Romántica](#la-r-en-gsrm-orientaci%C3%B3n-rom%C3%A1ntica).
 
-- Demisexual flag:
+- La bandera Demisexual:
 
 <div class="art-gallery">
     <img
@@ -178,7 +177,7 @@ Asexuality is a sexual orientation in which people don't have any sexual attract
 </div>
 
 
-__Pansexuality__
+__Pansexualidad__
 
 <div class="art-gallery">
     <img
@@ -188,16 +187,16 @@ __Pansexuality__
     />
 </div>
 
-Pansexuality is the word used to describe people who are attracted to people, regardless of their gender. It is said that the difference with Bisexuality is that it is not conditional, and that pansexual people might not even think of the gender of people before considering them attractive. However, this distinction is personal, and of course, people can have preferences and tastes about who they like. In the end, it's up to the person to find the identity that best suits them and feels right.
+Pansexualidad es la palabra que se usa para describir a las personas que se sienten atraídas por otras personas, independientemente de su género. Se dice que la diferencia con la bisexualidad es que no es condicional y que es posible que las personas pansexuales ni siquiera piensen en el género de las personas antes de considerarlas atractivas. Sin embargo, esta distinción es personal y, por supuesto, las personas pueden tener preferencias y gustos sobre quién les gusta. Al final, depende de la persona encontrar la identidad que mejor se adapte a ellos y se sienta bien.
 
-<a id="the-r-in-gsrm-romantic-orientation"></a>
-### The R in GSRM: Romantic orientation
+<a id="la-r-en-gsrm-orientaci%C3%B3n-rom%C3%A1ntica"></a>
+### La R en GSRM: Orientación Romántica
 
-This part doesn't have as many specific flags as the rest, but it deserves explanation.
+Esta parte no tiene tantas banderas específicas como el resto, pero merece una explicación.
 
-As I mentioned in the beginning, there are several types of attraction. One of these is the romantic attraction, which is less about sexual desire and more about who one loves or wants to spend romantic time with. 
+Como mencioné al principio, hay varios tipos de atracción. Uno de ellos es la atracción romántica, que tiene menos que ver con el deseo sexual y más con quién ama o con quién quiere pasar un tiempo romántico.
 
-Most of the time, people have the same sexual and romantic orientations. That is, if someone says “I like girls”, they might mean they like them sexually and also romantically fall in love with them. But in reality, these two can be different.
+La mayoría de las veces, las personas tienen las mismas orientaciones sexuales y románticas. Es decir, si alguien dice “Me gustan las chicas”, puede significar que les gustan sexualmente y que también se enamoran románticamente de ellas. Pero en realidad, estos dos pueden ser diferentes.
 
 <div class="art-gallery">
     <img
@@ -207,20 +206,20 @@ Most of the time, people have the same sexual and romantic orientations. That is
     />
 </div>
 
-For example:
-- An asexual person could not like any genders sexually but they could fall in love with people of a specific gender, or of any gender, if they are so inclined.
-- Another example is someone who likes the opposite sex sexually (Heterosexual), but that romantically they only fall in love with the same sex.
+Por ejemplo:
+- A una persona asexual no le puede gustar sexualmente ningún género, pero puede enamorarse de personas de un género específico, o de cualquier género, si así lo desea.
+- Otro ejemplo es alguien que le gusta sexualmente el sexo opuesto (Heterosexual), pero que románticamente solo se enamora del mismo sexo.
 
-There are many examples:
+Hay muchos ejemplos:
 
-- __Heteroromantic__, likes the opposite gender romantically
-- __Homoromantic__, likes the same gender romantically
-- __Biromantic__, likes both or other genders romantically
-- __Panromantic__, likes people romantically regardless of their gender
-- __Aromantic__, doesn't like any people romantically.
-- __Demiromantic__, only likes people romantically rarely, or after a long time.
+- __Heteroromántico__, le gusta el sexo opuesto románticamente
+- __Homoromantic__, le gusta el mismo genero romanticamente
+- __Biromántico__, le gustan ambos u otros géneros románticamente
+- __Panromantic__, le gustan las personas románticamente sin importar su género
+- __Aromántico__, no le gustan las personas románticamente.
+- __Demiromántico__, solo le gustan las personas románticamente rara vez, o después de mucho tiempo.
 
-Aromantic people have their own flag too:
+Las personas aromáticas también tienen su propia bandera:
 
 <div class="art-gallery">
     <img
@@ -230,7 +229,7 @@ Aromantic people have their own flag too:
     />
 </div>
 
-And so do Demiromantic people:
+Y también la gente demiromántica:
 
 <div class="art-gallery">
     <img
@@ -241,17 +240,17 @@ And so do Demiromantic people:
 </div>
 
 
-<a id="the-g-in-gsrm-gender-identity"></a>
-### The G in GSRM: Gender identity
+<a id="la-g-en-gsrm-identidad-de-g%C3%A9nero"></a>
+### La G en GSRM: Identidad de Género
 
-Gender identity is unrelated to who you are attracted to, and instead it's about who you are. One can be ***cisgender***, which means that one's identity matches what one was assigned at birth, or ***transgender***, which is when your identity doesn't match the one assigned to you at birth. 
+La identidad de género no está relacionada con quién te atrae, sino con quién eres. Uno puede ser ***cisgénero***, lo que significa que la identidad de uno coincide con la que se le asignó al nacer, o ***transgénero***, que es cuando su identidad no coincide con la que se le asignó al nacer.
 
-Now, we also have to make a distinction about **sex** and **gender**. 
+Ahora, también tenemos que hacer una distinción entre **sexo** y **género**.
 
-- Sex: It is defined as the biological differences in the anatomical sense, primary and secondary sex characteristics, and reproductive organs.
-- Gender: It is the psychological and social aspect of sex. It is an internal awareness of one's identity regarding sex. It also encompasses sex-based social structures and assigned or taken roles.
+- Sexo: Se define como las diferencias biológicas en el sentido anatómico, caracteres sexuales primarios y secundarios, y órganos reproductores.
+- Género: Es el aspecto psicológico y social del sexo. Es una conciencia interna de la propia identidad con respecto al sexo. También abarca las estructuras sociales basadas en el sexo y los roles asignados o asumidos.
 
-Now! Neither of these are binary! [\[1,2,3\]](#Brain-sexual-differentiation-sexual-orientation-gender-identity) People are really diverse, and that is both in identity and biology. You can see in this simplified graph just how varied we are.
+¡Ahora! ¡Ninguno de estos son binarios! [\[1,2,3\]](#Brain-sexual-differentiation-sexual-orientation-gender-identity) Las personas son realmente diversas, y eso es tanto en identidad como en biología. Puedes ver en este gráfico simplificado cuán variados somos.
 
 <div class="art-gallery">
     <img
@@ -261,15 +260,15 @@ Now! Neither of these are binary! [\[1,2,3\]](#Brain-sexual-differentiation-sexu
     />
 </div>
 
-They're also not fully independent from each other! For example, psychological gender might be related to biological hormones and neurological structure and neuro-chemicals that are hard to separate from sexual characteristics.
+¡Tampoco son completamente independientes entre sí! Por ejemplo, el género psicológico podría estar relacionado con las hormonas biológicas y la estructura neurológica y los neuroquímicos que son difíciles de separar de las características sexuales.
 
-Gender identity is about what gender ***you*** feel like inside and want to live like. 
+La identidad de género se trata de cómo te sientes ***tú*** por dentro respecto a tu género y cómo quieres vivir.
 
-- You can be a woman
-- You can be a man
-- You can be in between
-- You can be none
-- You can be both
+- Puedes ser una mujer
+- Puedes ser un hombre
+- Puedes estar en el medio
+- Puedes no ser ninguno
+- Puedes ser ambos
 
 <div class="art-gallery">
     <img
@@ -279,9 +278,9 @@ Gender identity is about what gender ***you*** feel like inside and want to live
     />
 </div>
 
-With that in mind, let's see the vocabulary for this:
+Con eso en mente, veamos el vocabulario para esto:
 
-__Transgender__
+__Transgénero__
 
 <div class="art-gallery">
     <img
@@ -292,7 +291,7 @@ __Transgender__
 </div>
 
 
-Transgender is an umbrella term, which means there can be other identities that belong to this category, and still be different from other people in the transgender community. 
+Transgénero es un término general, lo que significa que puede haber otras identidades que pertenezcan a esta categoría y aún así ser diferentes de otras personas en la comunidad transgénero.
 
 <div class="art-gallery">
     <img
@@ -302,7 +301,7 @@ Transgender is an umbrella term, which means there can be other identities that 
     />
 </div>
 
-Since transgender people have the neurological structure and chemicals, and depending on treatment, hormones as well, it can't be said that they have one sex and the opposite gender. In reality it is much more complex than that and it is an invalidating phrase that we should avoid repeating.
+Dado que las personas transgénero tienen la estructura neurológica y los químicos, y dependiendo del tratamiento, también las hormonas, no se puede decir que tienen un sexo y el género opuesto. En realidad es mucho más complejo que eso y es una frase invalidante que debemos evitar repetir.
 
 <div class="art-gallery">
     <img
@@ -312,10 +311,10 @@ Since transgender people have the neurological structure and chemicals, and depe
     />
 </div>
 
-- Trans women were assigned male at birth, but **Trans women are women**
-- Trans men were assigned female at birth, but **Trans men are men**
+- A las mujeres trans se les asignó un varón al nacer, pero **las mujeres trans son mujeres**
+- A los hombres trans se les asignó el sexo femenino al nacer, pero **los hombres trans son hombres**
 
-__Non-binary__
+__No-binarie__
 
 <div class="art-gallery">
     <img
@@ -325,10 +324,10 @@ __Non-binary__
     />
 </div>
 
-Non-binary people are transgender people who identify neither as a man or a woman, but something in between or something completely different. In Japan it's sometimes known as X-Gender. 
+Las personas no binarias son personas transgénero que no se identifican ni como hombre ni como mujer, sino como algo intermedio o algo completamente diferente. En Japón a veces se le conoce como X-Gender.
 
 
-__Agender__
+__Agénero__
 
 <div class="art-gallery">
     <img
@@ -339,9 +338,9 @@ __Agender__
 </div>
 
 
-Agender people don't identify with any gender whatsoever, not even the non-binary ones. In Japan, I believe I've seen it described as 
+Las personas agénero no se identifican con ningún género, ni siquiera con los no binarios. En Japón, creo haberlo visto descrito como *Musei*.
 
-__Genderfluid__
+__Género fluido__
 
 <div class="art-gallery">
     <img
@@ -351,12 +350,12 @@ __Genderfluid__
     />
 </div>
 
-Genderfluid people move between identities or expressions. They identify as both, or one at a time.
+Las personas con fluidez de género se mueven entre identidades o expresiones. Se identifican como ambos, o uno a la vez.
 
-<a id="gender-transition"></a>
-#### Gender transition
+<a id="transici%C3%B3n-de-g%C3%A9nero"></a>
+#### Transición de género
 
-Many trans people seek a gender transition to live as the gender they truly are, but not everyone can. Someone can be trans and do all, some, or none of these steps:
+Muchas personas trans buscan una transición de género para vivir como el género que realmente son, pero no todos pueden hacerlo. Alguien puede ser trans y hacer todos, algunos o ninguno de estos pasos:
 
 <div class="art-gallery">
     <img
@@ -366,38 +365,38 @@ Many trans people seek a gender transition to live as the gender they truly are,
     />
 </div>
 
-- Social transition
-- Gender affirming appearance
-- Hormone Replacement Therapy
-- Legal Procedures
-- Gender affirming surgeries
+- Transición social
+- Apariencia de afirmación de género.
+- Terapia de reemplazamiento de hormonas
+- Procedimientos legales
+- Cirugías de afirmación de género
 
-<a id="gender-expression"></a>
-#### Gender expression
+<a id="expresi%C3%B3n-de-g%C3%A9nero"></a>
+#### Expresión de género
 
-Gender identity and expression are different! Your identity is yours to decide regardless of what clothes you wear, what makeup you wear, etc. You don't choose an appearance to fit you, you inherently will fit any appearance that you choose, because **You are You, no matter what**. Of course people can choose an appearance that affirms their identity and makes them happy, but this is secondary to their identity.
+¡La identidad y la expresión de género son diferentes! Tu identidad es tuya para decidir independientemente de la ropa que uses, el maquillaje que uses, etc. No eliges una apariencia que te quede a tu identidad, inherentemente serás la misma persona sin importar la apariencia que elijas, porque **Tú eres Tú, sin importa qué**. Por supuesto, las personas pueden elegir una apariencia que afirme su identidad y las haga felices, pero esto es secundario a su identidad.
 
-<a id="pronouns-and-names"></a>
-#### Pronouns and Names
+<a id="pronombres-y-nombres"></a>
+#### Pronombres y nombres
 
-Regardless of gender, people will sometimes choose a new name or pronouns that fit them better.
+Independientemente del género, las personas a veces eligen un nuevo nombre o pronombres que les queden mejor.
 
-Out of respect, it's important to use the correct pronouns for everybody, as well as their chosen name. It's also important not to dig around and try to learn people's past names, since it's disrespectful and assumes that their identity isn't valid. It's only necessary to know for legal documents if the chosen name isn't legal yet.
+Por respeto, es importante usar los pronombres correctos para todos, así como el nombre elegido. También es importante no indagar y tratar de aprender los nombres anteriores de las personas, ya que es una falta de respeto y asume que su identidad no es válida. Solo es necesario saber para documentos legales si el nombre elegido aún no es legal.
 
-Now, regarding pronouns, these are the most common:
+Ahora bien, en cuanto a los pronombres, estos son los más comunes:
 
-- Women: she/her
-- Men: he/him
-- Non-binary: they/them
+- Mujer: ella
+- Hombres: él
+- No binarie: elle
 
-However, everyone can use different pronouns if they so choose and so one should ask to be sure. Lately it's become more and more widespread to introduce oneself with pronouns written on a screen name, on presentation cards, on name tags, etc.
+Sin embargo, todos pueden usar diferentes pronombres si así lo desean, por lo que uno debe preguntar para estar seguro. Últimamente está cada vez más extendido presentarse con pronombres escritos en un nombre de pantalla, en tarjetas de presentación, en etiquetas de nombre, etc.
 
-<a id="the-s-in-gsrm-sexual-minorities-intersex-people"></a>
-### The S in GSRM: Sexual Minorities: Intersex people
+<a id="la-s-en-gsrm-minor%C3%ADas-sexuales-personas-intersexuales"></a>
+### La S en GSRM: Minorías sexuales: personas Intersexuales
 
-Now, we spoke before about the S in Gender, Sexual and Romantic Minorities. Well, sexual orientation is not the only sexual minority. In fact, we've been talking about types of attraction and gender identity, while there are minorities based on their biology.
+Ahora bien, antes hablábamos de la S en Minorías de Género, Sexuales y Románticas. Bueno, la orientación sexual no es la única minoría sexual. De hecho, hemos estado hablando de tipos de atracción e identidad de género, mientras que existen minorías en función de su biología.
 
-I am of course talking about __Intersex people__. 
+Por supuesto, estoy hablando de la __Intersexualidad__.
 
 <div class="art-gallery">
     <img
@@ -407,30 +406,30 @@ I am of course talking about __Intersex people__.
     />
 </div>
 
-Intersex people are people born with variations in chromosomes, gonads, sex hormones or genitals that do not fit the typical definitions for male or female bodies.
+Las personas intersexuales son personas que nacen con variaciones en los cromosomas, gónadas, hormonas sexuales o genitales que no se ajustan a las definiciones típicas de cuerpos masculinos o femeninos.
 
-A person can be born intersex for many reasons:
+Una persona puede nacer intersexual por muchas razones:
 
-- such as having different genetic makeup  
+- como tener una composición genética diferente
     (XXY, XXX, 0X, XYY, XXYY)
 
-- having an XY or XX genotype but  
-    having sexual characteristics not matching that genotype 
+- tener un genotipo XY o XX pero
+    tener características sexuales que no coinciden con ese genotipo
 
-- hormone imbalances
+- desequilibrios hormonales
 
-- hormonal insensitivity  
-    (for example, XY females where androgens can't be absorbed by the body, so the development was female, this usually goes unnoticed until a genome test is taken)
+- insensibilidad hormonal
+    (por ejemplo, mujeres XY donde los andrógenos no pueden ser absorbidos por el cuerpo, por lo que el desarrollo fue femenino, esto generalmente pasa desapercibido hasta que se realiza una prueba del genoma)
 
-- gonadal or genital differences at birth
+- diferencias gonadales o genitales al nacer
 
-In reality, not all intersex people are detected at birth, and many go through life without ever knowing they were intersex until testing is done for other unrelated reasons, so we have no idea of knowing how many there are in the total population, although it's estimated that around 1.7%, which is about the same as people with red hair.
+En realidad, no todas las personas intersexuales son detectadas al nacer, y muchas pasan por la vida sin saber que eran intersexuales hasta que se realizan pruebas por otras razones no relacionadas, por lo que no tenemos idea de cuántos hay en la población total, aunque es estimó que alrededor del 1,7%, que es aproximadamente lo mismo que las personas pelirrojas.
 
-__Are intersex people trans?__
+__¿Las personas intersexuales son trans?__
 
-They might be! It all depends on each person and how they identify. Some intersex people transition to a gender they identify with, while others don't. Some identify fully as their assigned intersex identity at birth, making them cisgender. 
+¡Puede ser que sean! Todo depende de cada persona y de cómo se identifique. Algunas personas intersexuales hacen la transición a un género con el que se identifican, mientras que otras no. Algunos se identifican plenamente con su identidad intersexual asignada al nacer, lo que los convierte en cisgénero.
 
-Most of the time you will not know if someone is intersex but be mindful and respectful of not assuming anything of anyone.
+La mayoría de las veces no sabrás si alguien es intersexual, pero sé consciente y respetuoso de no asumir nada de nadie.
 
 <div class="art-gallery">
     <img
@@ -440,47 +439,46 @@ Most of the time you will not know if someone is intersex but be mindful and res
     />
 </div>
 
-From birth, intersex people face injustice. Historically and to this day, many
-doctors will perform genital surgery on babies without consent to try to make them conform to a single gender that the doctors subjectively choose. 
+Desde el nacimiento, las personas intersexuales se enfrentan a la injusticia. Históricamente y hasta el día de hoy, muchos médicos realizan cirugías genitales en bebés sin consentimiento para tratar de que se ajusten a un solo género que los médicos eligen subjetivamente.
 
-This is, of course, a human rights violation on par with genital mutilation.
+Esto es, por supuesto, una violación de los derechos humanos a la par de la mutilación genital.
 
-<a id="relax-its-not-an-exam"></a>
-## Relax, it's not an exam
+<a id="rel%C3%A1jate-no-es-un-examen"></a>
+## Relájate, no es un examen.
 
-Did everyone learn anything new? I know I wrote so many things, but I wanted to keep all the information in one place so that people can refer to it in the future.
+¿Todos aprendieron algo nuevo? Sé que escribí tantas cosas, pero quería mantener toda la información en un solo lugar para que la gente pueda consultarla en el futuro.
 
-It's not important to remember all the flags, but to live in harmony and recognize that there's many kinds of people, but that we are all humans. Let's all walk into this world full of diversity together!
+No es importante recordar todas las banderas, sino vivir en armonía y reconocer que hay muchos tipos de personas, pero que todos somos humanos. ¡Caminemos todos juntos hacia este mundo lleno de diversidad!
 
-There are many combinations that can happen with gender identity, biological sex, sexual orientation and romantic orientation, and I really wanted to show you how diverse people can be.
+Hay muchas combinaciones que pueden ocurrir con la identidad de género, el sexo biológico, la orientación sexual y la orientación romántica, y realmente quería mostrarles cuán diversas pueden ser las personas.
 
-If you have any questions beyond this please feel free to ask.
+Si tienes alguna pregunta más allá de esto, no dudes en preguntar.
 
 -------------------------
 
-<a id="why-is-june-the-pride-month-stonewall-riots"></a>
-## Why is June the Pride Month? Stonewall Riots
+<a id="por-qu%C3%A9-junio-es-el-mes-del-orgullo-disturbios-de-stonewall"></a>
+## ¿Por qué junio es el Mes del Orgullo? Disturbios de Stonewall
 
-So, let's talk about why June is the Pride month. In June 28th, 1969, there was something called the Stonewall riots, and that's why Pride is done on June.
+Entonces, hablemos de por qué junio es el mes del Orgullo. El 28 de junio de 1969, hubo algo llamado los disturbios de Stonewall, y es por eso que el Orgullo se lleva a cabo en junio.
 
-At that time, there was a very strong anti-gay climate in USA. LGBT+ people would be discriminated, banned from shops, and so on. Actually they had no place to go but illegal bars owned by the mafia, which welcomed the people that had nowhere else to go. A bar called Stonewall Inn owned by the mafia was one of those places, and LGBT+ people would gather there. But there were many raids and arrests by police to those places. Innocent LGBT+ people would get crushed on the ground and arrested or killed for no other reason than being LGBT. So there was a reaction.
+En ese momento, había un clima anti-gay muy fuerte en Estados Unidos. Las personas LGBT+ eran discriminadas, prohibidas en las tiendas, etc. En realidad no tenían adonde ir menos que a bares ilegales que eran propiedad de la mafia, que acogían a la gente que no tenía adónde ir. Un bar llamado Stonewall Inn, propiedad de la mafia, era uno de esos lugares, y la gente LGBT+ se reunía allí. Pero hubo muchos arrestos y detenciones por parte de la policía a esos lugares. Las personas inocentes LGBT+ serían aplastadas en el suelo y arrestadas o asesinadas por la única razón de ser LGBT+. Así que hubo una reacción.
 
-To make things simple, the riots went on and then they ended, but as a result, at last were LGBT+ rights starting to appear.
+Para simplificar las cosas, los disturbios continuaron y luego terminaron, pero como resultado, finalmente comenzaron a aparecer los derechos LGBT+.
 
-So what I want everyone to reflect this month is how our human rights have always come from people's deaths and sacrifice.
+Entonces, lo que quiero que todos reflexionen este mes es cómo nuestros derechos humanos siempre provienen de la muerte y el sacrificio de las personas.
 
 ✊🏾
 
-<a id="what-does-this-have-to-do-with-workplace-environment"></a>
-## What does this have to do with workplace environment?
+<a id="qu%C3%A9-tiene-esto-que-ver-con-el-entorno-laboral"></a>
+## ¿Qué tiene esto que ver con el entorno laboral?
 
-All this might seem like something that has no relation to the workplace or academic settings, but indeed, people who live within these minorities have no way of separating this part of themselves in a society that expects assimilation with the status quo. Depending on where we live, there's definitely rights that we don't have compared to other people.
+Todo esto puede parecer algo que no tiene relación con el entorno laboral o académico, pero de hecho, las personas que viven dentro de estas minorías no tienen forma de separar esta parte de sí mismos en una sociedad que espera la asimilación con el statu quo. Dependiendo de dónde vivamos, definitivamente hay derechos que no tenemos en comparación con otras personas.
 
-I want to talk specifically about Japan. In Japan, not only is there not equal marriage yet, but it's not in any way legally defined that queer people can't be discriminated. This means that, completely legally, people can lose their jobs, be denied housing, and therefore have a very hard time living here in Japan. The pressure to stay hidden therefore is there for many... and sometimes it is too much for people. 
+Quiero hablar específicamente sobre Japón. En Japón, no solo no existe el matrimonio igualitario todavía, sino que no está legalmente definido de ninguna manera que las personas queer no puedan ser discriminadas. Esto significa que, de forma completamente legal, las personas pueden perder sus trabajos, se les puede negar la vivienda y, por lo tanto, tener muchas dificultades para vivir aquí en Japón. Por lo tanto, la presión de permanecer oculto está ahí para muchos... ya veces es demasiado para la gente.
 
-Since we don't have any rights to defend ourselves, it's in the responsibility of all of us to make changes 
+Como no tenemos ningún derecho a defendernos, es responsabilidad de todos hacer cambios.
 
-There's also the topic of SDGs, which are the goals set by the UN that many companies are also undertaking.
+También está el tema de los ODS, que son las metas establecidas por la ONU que muchas empresas también están emprendiendo.
 
 <div class="art-gallery">
     <img
@@ -490,246 +488,237 @@ There's also the topic of SDGs, which are the goals set by the UN that many comp
     />
 </div>
 
-- **SDG 5: Gender Equality**: All gender and sex discrimination should disappear for this goal to be true. This includes discrimination and violence against women. However, it also includes any people that don't and can't conform to gender norms and face discrimination for it.
+- **ODS 5: Igualdad de Género**: Toda discriminación de género y sexo debe desaparecer para que este objetivo sea realidad. Esto incluye la discriminación y la violencia contra las mujeres. Sin embargo, también incluye a las personas que no se ajustan ni pueden ajustarse a las normas de género y enfrentan discriminación por ello.
 
-- **SDG 10: Reduced Inequalities**: To remove both societal and institutional inequalities, we need to make sure that discriminatory policies and laws are replaced with ones that progress and achieve more equality. Both people and laws need to both improve, or the results are reduced.
+- **ODS 10: Desigualdades reducidas**: Para eliminar las desigualdades sociales e institucionales, debemos asegurarnos de que las políticas y leyes discriminatorias se reemplacen por otras que progresen y logren una mayor igualdad. Tanto las personas como las leyes necesitan mejorar, o los resultados se reducen.
 
-- **SDG 3: Good Health and Wellbeing**: Discrimination can infringe upon liberties, normal development in society, and mental and physical health. Sadly, in many cases, it can lead to death by violence or suicide.
+- **ODS 3: Salud y Bienestar**: La discriminación puede atentar contra las libertades, el normal desarrollo de la sociedad y la salud mental y física. Lamentablemente, en muchos casos, puede conducir a la muerte por violencia o suicidio.
 
-<a id="problems-in-society"></a>
-## Problems in Society
+<a id="problemas-en-la-sociedad"></a>
+## Problemas en la sociedad
 
-In Japan, LGBT+ people are estimated to be around 8% of the population in Japan [\[4\]](#Dentsu-diversity-lab) and similar numbers across the world [\[5\]](#Wikipedia-demographics-sexual-orientation).
+En Japón, se estima que las personas LGBT+ representan alrededor del 8 % de la población de Japón [<sup>\[4\]</sup>](#Dentsu-diversity-lab) y cifras similares en todo el mundo [<sup>\ [5\]</sup>](#Wikipedia-demographics-sexual-orientation).
 
-LGBT+ people around the world face many issues, but mainly these:
+Las personas LGBT+ de todo el mundo enfrentan muchos problemas, pero principalmente estos:
 
-- Violence
-- Marriage inequality
-- Employment discrimination
-- Housing discrimination
-- Criminalization
-- Medical discrimination
+- Violencia
+- Desigualdad matrimonial
+- Discriminación laboral
+- Discriminación en la vivienda
+- Criminalización
+- Discriminación médica
 
-Now, as I mentioned before, in Japan, not only is there not equal marriage yet, but it's not in any way legally defined that queer people can't be discriminated. This means that queer people can easily lose their jobs, become homeless, and face violence.
+Ahora, como mencioné antes, en Japón, no solo no existe el matrimonio igualitario todavía, sino que no está legalmente definido de ninguna manera que las personas queer no puedan ser discriminadas. Esto significa que las personas queer pueden perder fácilmente sus trabajos, quedarse sin hogar y enfrentar la violencia.
 
-<a id="violence-against-lgbt-people"></a>
-### Violence against LGBT+ people
+<a id="violencia-contra-las-personas-lgbt"></a>
+### Violencia contra las personas LGBT+
 
-LGBT+ people face violence and hate crimes across the world [\[6\]](#Amnesty-international-deadly-countries). 
+Las personas LGBT+ enfrentan violencia y crímenes de odio en todo el mundo [<sup>\[6\]</sup>](#Amnesty-international-deadly-countries).
 
-Many die horribly maimed or disfigured. This has been done by general citizens as well as police and military. 
+Muchos mueren horriblemente mutilados o desfigurados. Esto ha sido hecho por ciudadanos en general, así como por policías y militares.
 
-Japan is not free of this, since there's also cases of homophobia and transphobia led murders, as well as abuse and discrimination by officials. [\[7\]](#Amnesty-international-discrimination-japan)
+Japón no está libre de esto, ya que también hay casos de homofobia y transfobia liderados por asesinatos, así como abusos y discriminación por parte de funcionarios. [<sup>\[7\]</sup>](#Amnesty-international-discrimination-japan)
 
+<a id="desigualdad-matrimonial"></a>
+### Desigualdad matrimonial
 
-<a id="marriage-inequality"></a>
-### Marriage inequality
+En muchos países, incluido Japón, todavía no es legal casarse con personas del mismo sexo.
 
-In many countries, Japan included, it is still not legal to marry people of the same sex.
+Esto significa:
 
-This means:
+- No hay protecciones legales después de que un socio muere
+- Sin activos compartidos
+- Sin seguro médico compartido
+- Sin beneficios de visa / pasaporte
+- Sin copaternidad legal
+- Sin visitas al hospital
+- Sin exenciones de impuestos
 
-- No legal protections after a partner dies
-- No shared assets
-- No shared health insurance
-- No visa / passport benefits
-- No legal co-parenting
-- No hospital visitations
-- No tax exemptions
+En los hospitales, tal vez a una persona se le niegue la visita porque técnicamente no es familiar de su ser querido. Aparte de eso, si una persona de la pareja muere, no puede dejar herencia a miembros que no sean de la familia.
 
-In hospitals, perhaps a person is denied visitation because of not being technically family of their loved one. Aside from that, if a partner dies they can't leave inheritance to non-family members. 
+Además, en la mayoría de las empresas, si una persona está casada, la pareja suele obtener un seguro de salud. También están los impuestos nacionales reducidos para el aumento de miembros de la familia que no están disponibles para las personas que no están legalmente casadas.
 
-Also, in most companies, if one person is married, the partner usually gets health insurance. There's also the national reduced taxes for the increase in family members that isn't available to people who aren't legally married.
+<a id="discriminaci%C3%B3n-en-el-empleo-y-la-vivienda"></a>
+### Discriminación en el empleo y la vivienda
 
-<a id="employment-and-housing-discrimination"></a>
-### Employment and housing discrimination
+En muchos países, incluido Japón, las personas LGBT+ no están legalmente protegidas contra la discriminación en el empleo o la vivienda, lo que significa que pueden ser:
 
-In many countries, Japan included, LGBT+ people aren't legally protected against employment or housing discrimination, which means that they can be:
+- negado un trabajo
+- despedido sin motivo
+- vivienda denegada
+- desalojado sin razón
 
-- denied a job
-- fired without reason
-- denied housing
-- evicted without reason
+Y no hay repercusión legal para la parte que niega. Esto conduce a la falta de vivienda en muchos casos, especialmente para las personas trans.
 
-And there is no legal repercussion for the denying party. This leads to homelessness in many cases, specially for trans people.
+Hay muchas personas queer sin hogar, o personas que perdieron todo una vez que sus familias se distanciaron por el rechazo. Dependiendo de la edad en que ocurra este distanciamiento, a veces eso significa que los menores necesitarán la aprobación de las firmas de los padres cuando se nieguen a ayudar, por ejemplo, con la vivienda. 
 
-There's a lot of homeless queer people, or people who lost everything once their families became estranged from rejection. Depending on the age that this estrangement happens, sometimes that means minors would need approval signatures from parents when they refuse to help for, say, housing. 
+<a id="discriminaci%C3%B3n-m%C3%A9dica"></a>
+### Discriminación médica
 
-<a id="medical-discrimination"></a>
-### Medical discrimination
+El tratamiento médico a menudo se niega a las personas LGBT+ en todo el mundo, lo que a menudo conduce a la muerte.
 
-Medical treatment is often denied to LGBT+ people across the world, often leading to death. 
+En casos menos extremos pero aún discriminatorios, los médicos ridiculizan o malinterpretan a las personas trans. La falta de conocimiento transgénero también conduce a malos tratos o diagnósticos erróneos (por ejemplo, culpar a las hormonas de todo).
 
-In less extreme but still discriminatory cases, trans people are ridiculed or misgendered by doctors. A lack of transgender knowledge also leads to mistreatment or misdiagnoses (for example, blaming hormones for everything).
+A las personas trans también se les niega la transición médica o legal sin cumplir con los requisitos previos o permanecer en una larga lista de espera en muchos países, incluido Japón.
 
-Trans people are also denied medical or legal transition without achieving prerequisites or staying in a long wait list in many countries, including Japan.
+<a id="discriminaci%C3%B3n-legal"></a>
+### Discriminación legal
 
-<a id="legal-discrimination"></a>
-### Legal discrimination
+De hecho, en Japón, existen diferentes reglas para los ciudadanos japoneses y los extranjeros que viven en Japón para la transición legal.
 
-In fact, in Japan, there are different rules for Japanese nationals and foreigners living in Japan for transitioning legally.
+__Para que un ciudadano japonés__ cambie la información en su *koseki* (registro familiar), oficialmente necesita:
 
-__For a Japanese national__ to change the information in their *koseki* (family registry), officially they need to be:
+- tener más de 20 años
+- ser soltero (o divorciado)
+- haber tenido una cirugía genital (cirugía forzada + terminología obsoleta)
+- ser estéril (esterilización forzada)
+- sin hijos menores de 20 años
+- haber sido diagnosticado por al menos 2 médicos como GID (terminología de trastorno obsoleta)
 
-- above 20 years old
-- be unmarried (or divorced)
-- Having had genital surgery (forced surgery + outdated terminology)
-- Being sterile (forced sterilization)
-- without children below the age of 20 years old
-- Diagnosed by at least 2 doctors as GID (outdated disorder terminology)
+Además de ser una terminología obsoleta, la cirugía y la esterilización forzadas son una violación absoluta de los derechos humanos. Estos no solo son caros, sino que algunas personas trans no los desean. Es cruel que se deban dar todos estos pasos denigrantes para poder vivir una vida con menos trabajo/vivienda y otras discriminaciones.
 
-Besides being outdated in terminology, forced surgery and sterilization is an outright human rights violation. These are not only expensive, but unwanted by some trans people. It's cruel that all these denigrating steps must be taken in order to live a life with less work / housing and other discrimination.
+Sin mencionar que la cirugía es muy invasiva, pero también costosa, por lo que esto reduce los derechos de transición de las personas ricas. Sin embargo, debido a la discriminación en el empleo y la vivienda, a menudo no es posible que las personas transgénero alcancen este nivel de riqueza.
 
-Not to mention that surgery is very invasive, but also expensive, so this reduces the rights to transition to people who are wealthy. However, because of the employment discrimination and housing discrimination, it is often not possible for transgender people to achieve this level of wealth.
+<br>
 
-<br> 
+Ahora, por separado, __para que un extranjero que vive en Japón__ cambie su información, debe:
 
-Now, separately, __for a foreigner living in Japan__ to change their information, they need to:
+- Cambiar su información en su país de origen
+- Reportar el cambio al Departamento de Inmigración
 
-- Change their information in their home country
-- Report the change to the Immigration Department
+Lo cual suena fácil, pero nuevamente, tanto con COVID como con el hecho de que quizás cada país tiene sus propias leyes diferentes y discriminación contra las personas trans, no solo es difícil, sino costoso viajar a un país de origen.
 
-Which sounds easy, but again, both with COVID and the fact that perhaps each country has their own different laws and discrimination against trans people, it is not only difficult, but expensive to take trips to a home country.
+Por ejemplo, en México, el procedimiento duraría aproximadamente un mes, por lo que, por supuesto, esto es difícil considerando que el tiempo libre del trabajo es tan extenso, y también difícil de planificar, ya que es imposible decir si el proceso tomará más o menos. tiempo.
 
-For example in Mexico, the procedure would last about a month or so, so of course this is difficult considering the time taken off from work is so extensive, and also hard to plan since it's impossible to say if the process will take more or less time.
+<a id="el-caso-de-elin-mccready"></a>
+#### El caso de Elin McCready
 
-<a id="the-case-of-elin-mccready"></a>
-#### The case of Elin McCready
+Ahora la ley anterior se aplica a los ciudadanos japoneses, pero la ley de Japón establece que los extranjeros que viven en Japón se adhieren a las leyes de su país para la transición de género y solicitan una tarjeta de residencia y documentos actualizados en Japón después del cambio.
 
-Now the previous law applies to Japanese nationals, but Japan’s law states that foreigners living in Japan adhere to their country's laws for gender transition and apply for an updated Residence Card and documents in Japan after the change.
+Elin McCready estuvo casada durante 19 años con una mujer japonesa, con hijos, antes de cambiar su sexo legal en EE. UU. y solicitar el cambio en Japón. Funcionó para algunos documentos, pero no para su registro familiar: significaría que serían el primer matrimonio entre personas del mismo sexo en Japón. El gobierno trató de anular su matrimonio, pero no pudo.
 
-Elin McCready was married for 19 years to a Japanese woman, with children, before changing her legal sex in USA, and applying for the change in Japan. It worked for some documents, but not her family registry: It would mean they'd be the first same-sex marriage in Japan. The government tried to nullify her marriage, but it wasn't able to.
+Así que ahora tiene múltiples géneros en diferentes documentos. Esto es problemático, por lo que está preparando una demanda ante el gobierno japonés.
 
-So now she has multiple genders on different documents. This is troublesome, so she is preparing a lawsuit to the Japanese government.
+[Artículo completo y donaciones (inglés): <br> https://www.gofundme.com/f/help-us-sue-japanese-gov039t-gender-and-marriage](https://www.gofundme.com/f/help-us-sue-japanese-gov039t-gender-and-marriage)
 
-[Full article and link to donations (en): <br> https://www.gofundme.com/f/help-us-sue-japanese-gov039t-gender-and-marriage](https://www.gofundme.com/f/help-us-sue-japanese-gov039t-gender-and-marriage)
+[Artículo en Japonés (日本語記事)：<br> https://www.outjapan.co.jp/lgbtcolumn_news/news/2020/5/9.html](https://www.outjapan.co.jp/lgbtcolumn_news/news/2020/5/9.html)
 
-[Article in Japanese (日本語記事)：<br> https://www.outjapan.co.jp/lgbtcolumn_news/news/2020/5/9.html](https://www.outjapan.co.jp/lgbtcolumn_news/news/2020/5/9.html)
+<a id="caridades-y-organizaciones"></a>
+## Caridades y Organizaciones
 
-<a id="charities-and-organizations"></a>
-## Charities and Organizations
+__Relacionado con LGBT:__
 
-__LGBT related:__
+- [Stonewall Japan (inglés)](https://stonewalljapan.org/)
 
-- [Stonewall Japan (en)](https://stonewalljapan.org/)
+- [Nijiiro Diversity (inglés/japonés)](https://nijiirodiversity.jp/)
 
-- [Nijiiro Diversity (en/jp)](https://nijiirodiversity.jp/)
+- [Pride House Tokyo (inglés/japonés)](http://pridehouse.jp/en/)
 
-- [Pride House Tokyo (en/jp)](http://pridehouse.jp/en/)
+- [Pride Center Osaka (japonés/inglés (google translate))](https://pridecenter-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja)
 
-- [Pride Center Osaka (jp/en (google translate))](https://pridecenter-jp.translate.goog/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja)
+- [日本セクシュアルマイノリティ協会 (japonés)](https://jlga.or.jp/)
 
-- [日本セクシュアルマイノリティ協会 (jp)](https://jlga.or.jp/)
+- [LGBTの家族と友人をつなぐ会 (japonés)](http://lgbt-family.or.jp/)
 
-- [LGBTの家族と友人をつなぐ会 (jp)](http://lgbt-family.or.jp/)
 
+__Salud mental queer amigable y prevención del suicidio:__
 
-__Queer friendly mental health and suicide prevention:__
+- [TELL Japan (inglés)](https://telljp.com/)
 
-- [TELL Japan (en)](https://telljp.com/)
+<a id="qu%C3%A9-puede-hacer-una-empresa-o-escuela"></a>
+## ¿Qué puede hacer una empresa o escuela?
 
-<a id="what-can-a-company-or-school-do"></a>
-## What can a company or school do?
+Ahora, habiendo leído todo esto, quizás te estés preguntando... ¿Qué puede hacer una empresa o una escuela?
 
-Now, having read all that, you might be wondering... What can a company or school do?
+Como mencioné antes, no hay protecciones legales en Japón, pero cada vez hay más casos de empresas que hacen explícito en su política empresarial prohibir la discriminación, permitir el uso de vestimenta apropiada para el género de una persona y permitir el uso de la baños deseados para cada persona, así como hacer que los registros de nombres coincidan con el nombre elegido de las personas trans.
 
-As I mentioned before, there's no legal protections in Japan, but there are increasingly more cases of companies making it explicit in their company policy to forbid discrimination, to permit the use of appropriate attire for a person's gender, and to allow the use of the desired toilets for each person, as well as making name registries match the chosen name of trans people. 
+Las empresas más generosas incluso cuentan con sistemas en los que una pareja del mismo sexo puede obtener beneficios de seguro médico directamente de la empresa.
 
-The more generous companies even have systems put in place where a same-sex partner can get health insurance benefits from the company directly. 
+También está el hecho de que, al hacer que la empresa acepte abiertamente a personas queer, ya sea en su sitio web o en información pública, es más fácil para las personas aplicar a lugares donde se sentirán seguras.
 
-There's also the fact that, by making the company openly accept queer people, be it in their website or public information, it is easier for people to apply to places where they will feel safe. 
+Las escuelas y los lugares académicos están obligados, por instrucciones del MEXT (Ministerio de Educación, Cultura, Deportes, Ciencia y Tecnología), a tener [ciertas acomodaciones de niños transgénero (jp)] (https://www.mext.go. jp/content/20210215_mxt_sigakugy_1420538_00003_18.pdf) hasta la preparatoria, pero falta el apoyo gubernamental en las universidades.
 
-Schools and academic places are, under instructions of MEXT (Ministry of Education, Culture, Sports, Science, and Technology), obligated to have a [certain accommodations of transgender children (jp)](https://www.mext.go.jp/content/20210215_mxt_sigakugy_1420538_00003_18.pdf) all the way until High School, but the governmental support is lacking in Universities. 
+Las universidades también pueden tener adaptaciones donde se podría emitir un diploma con un nombre elegido, siempre que se presente una declaración oficial donde se demuestre que está conectado con el nombre legal del estudiante. Lo mismo con llamada de asistencia, baños e interacciones básicas con los profesores y alumnos.
 
-Universities can also have accommodations where a diploma could be issued with a chosen name, provided an official statement where it proves that it is connected to the student's legal name. Same with attendance call, toilets and basic interactions with the teachers and students.
+Lo más importante que puede hacer un lugar de trabajo es fomentar un ambiente de respeto mutuo.
 
-The most important thing a workplace can do is to foster an environment of mutual respect.
+<a id="acerca-de-los-ba%C3%B1os"></a>
+### Acerca de los baños
 
-<a id="about-toilets"></a>
-### About toilets
+Las personas transgénero a menudo se ven en un acertijo cuando se trata de baños públicos, vestuarios e instalaciones de baño. Ir, no ir, cuál elegir...
 
-Transgender people often see themselves in a conundrum when it comes to public toilets, changing rooms and bathing facilities. To go, not to go, which one to choose...
+En Japón, el aumento de los "inodoros para todo uso" ha sido de gran ayuda, pero todavía es un poco marginador. En muchos casos, las personas trans retienen la orina hasta que regresan a casa, lo que puede provocar infecciones del tracto urinario (ITU).
 
-In Japan, the increase in all-purpose toilets has been a big help, but it still is somewhat ostracizing. In many cases, trans people will hold their pee until going back home, which can lead to urinary tract infections (UTI).
+En muchos países, ir al baño puede hacer que las personas trans sean arrestadas o asesinadas, ¡lo cual es más estresante cuando uno solo quiere ir al baño!
 
-In many countries, going to either toilet can get trans people arrested, or killed, which is extra stressful when one just wants to go to the toilet!
+<a id="qu%C3%A9-no-decir"></a>
+### Qué no decir
 
-<a id="what-not-to-say"></a>
-### What not to say
+Mucha gente que no tiene educación en temas sociales comete errores frecuentes con respecto a estos temas.
 
-A lot of people who are uneducated on social issues make frequent faux-pas regarding these topics.
+Uno debe evitar:
 
-One should avoid:
-
-- Outing someone to other people
-    - they may not be out publicly
-    - it could be dangerous for them
-- Asking them about their past name
-    - It's disrespectful of the choice they made
-    - It's just morbid curiosity
-- Asking about their sexual or romantic life
-    - This includes phrases such as:
-        - "When are you getting married?"
-            - Some people don't want to
-            - Some people legally can't
-        - "When are you having kids?"
-            - They could legally not be allowed to
-            - They could be infertile
-            - They could be trying, and not succeeding
-- Implying that somehow queer people have it easier in life
-- Implying that someone is not the gender they say they are
-- Giving backhanded compliments
-    - This includes phrases such as:
-        - "Oh, you're so pretty despite being trans"
-        - "You're good at this despite being a woman"
-        - and so on
-- Use outdated terminology:
-    - Gender Identity Disorder (Not a disorder DSM5)
-    - Sex change (It’s more complicated, and it’s not a change)
-    - Transsexual (It’s about gender, not sex)
-    - Hermaphrodite (That's for animals, not people!)
-    - Transvestite (It's cross-dressing, and unrelated to gender)
-- Use offensive or discriminatory terminology
-    - Tranny (it's a slur)
-    - She-he, he-she (it's offensive)
-- Use terminology that originated in pornography
-    - Shemale (it's from porn)
-    - Trap (it's from porn and implies deceit)
-    - Futanari (also from porn)
-    - Newhalf (also from porn or sex-work)
-- Use terminology that came from entertainment
-    - Okama (it has a history of discrimination in Japan)
-    - Onabe (same as above)
-    - Onee (same as above)
+- Exponer a alguien como queer a otras personas.
+    - es posible que no hallan salido del clóset públicamente
+    - podría ser peligroso para elles
+- Preguntarles sobre su nombre pasado.
+    - Es una falta de respeto del nombre que eligieron
+    - Es solo curiosidad morbosa
+- Preguntar sobre su vida sexual o romántica.
+    - Esto incluye frases como:
+        - "¿Cuando te vas a casar?"
+            - Algunas personas no quieren
+            - Algunas personas legalmente no pueden
+        - "¿Cuándo vas a tener hijos?"
+            - No se les podría permitir legalmente
+            - Podrían ser infértiles
+            - No podrían tener los órganos necesarios para ello
+            - Podrían estar intentándolo y no teniendo éxito.
+- Implicar que de alguna manera las personas queer lo tienen más fácil en la vida
+- Dar a entender que alguien no es del género que dice ser
+- Dar cumplidos ambiguos
+    - Esto incluye frases como:
+        - "Oh, eres tan bonita a pesar de ser trans"
+        - "Eres buena en esto a pesar de ser mujer"
+        - etcétera
+- Usar terminología obsoleta:
+    - Trastorno de Identidad de Género (No es un trastorno desde el DSM5)
+    - Cambio de sexo (Es más complicado, y no es un cambio)
+    - Transexual (Se trata de género, no de sexo)
+    - Hermafrodita (¡Eso es para animales, no para personas!)
+    - Travesti (No tiene relación con el género)
+- Usar terminología ofensiva o discriminatoria
+- Usar terminología que se originó en la pornografía o el trabajo sexual
+- Usar terminología proveniente del entretenimiento
 
 ---
 
-<a id="extra-facts-about-transgender-people"></a>
-## Extra facts about Transgender people
+<a id="datos-adicionales-sobre-las-personas-transg%C3%A9nero"></a>
+## Datos adicionales sobre las personas transgénero
 
-<a id="gender-dysphoria-and-gender-euphoria"></a>
-### Gender Dysphoria and Gender Euphoria
+<a id="disforia-de-g%C3%A9nero-y-euforia-de-g%C3%A9nero"></a>
+### Disforia de género y euforia de género
 
-Gender Dysphoria is the distress trans people can feel when their gender identity is different from their assigned sex [\[8\]](#gender-dysphoria). It can be:
+La disforia de género es la angustia que las personas trans pueden sentir cuando su identidad de género es diferente de su sexo asignado [<sup>\[8\]</sup>](#gender-dysphoria). Puede ser:
 
-- physical (distress about their bodies)
-- social (distress about gendered social interactions)
+- física (angustia por sus cuerpos)
+- social (angustia por las interacciones sociales de género)
 
-Gender Euphoria is the opposite, when joy or comfort comes from matching one's gender physically or socially.
+La euforia de género es lo contrario, cuando la alegría o la comodidad provienen de coincidir física o socialmente con el género.
 
-<a id="trans-brains"></a>
-### Trans Brains
+<a id="cerebros-trans"></a>
+### Cerebros trans
 
-Studies have found that sexual differentiation in the womb occurs in two stages: for the genitals and for the brain, and that variance in sexual orientation and gender identity might be partly caused by differences in hormones during these stages. [\[1,3\]](#Brain-sexual-differentiation-sexual-orientation-gender-identity). Areas in the brain (amygdala and hypothalamus (BSTc and INAH-3)) were also found to match the gender identity and to be this way since development[\[1\]](#Brain-sexual-differentiation-sexual-orientation-gender-identity). 
+Los estudios han encontrado que la diferenciación sexual en el útero ocurre en dos etapas: para los genitales y para el cerebro, y que la variación en la orientación sexual y la identidad de género podría deberse en parte a las diferencias en las hormonas durante estas etapas. [<sup>\[1,3\]</sup>](#Brain-sexual-differentiation-sexual-orientation-gender-identity). También se encontraron áreas en el cerebro (amígdala e hipotálamo (BSTc e INAH-3)) que coinciden con la identidad de género y que son así desde el desarrollo[<sup>\[1\]</sup>](#Brain-sexual-differentiation-sexual-orientation-gender-identity).
 
-MRI scans during self identification experiments show that the activated brain areas align with gender identity rather than sex assigned at birth, activating similar brain areas for the right gender vs the wrong one[2]. 
+Las resonancias magnéticas durante los experimentos de autoidentificación muestran que las áreas cerebrales activadas se alinean con la identidad de género en lugar del sexo asignado al nacer, lo que activa áreas cerebrales similares para el género correcto frente al incorrecto[<sup>\[2\]</sup>]( #Brain-sexual-differentiation-sexual-orientation-gender-identity).
 
-Hormone therapy in adulthood also leads to changes in brain structure and volume or certain areas [\[3\]](#Brain-sexual-differentiation-sexual-orientation-gender-identity)
+La terapia hormonal en la edad adulta también conduce a cambios en la estructura y el volumen del cerebro o en ciertas áreas [<sup>\[3\]</sup>](#Brain-sexual-diferenciation-sexual-orientation-gender-identity).
 
 ---
 
-<a id="references"></a>
-## References
+<a id="referencias"></a>
+## Referencias
 
 <a id="Brain-sexual-differentiation-sexual-orientation-gender-identity"></a>
 \[1\] Savic, I., Garcia-Falgueras, A. and Swaab, D.F., 2010. Sexual differentiation of the human brain in relation to gender identity and sexual orientation. In Progress in brain research (Vol. 186, pp. 41-62). Elsevier.
