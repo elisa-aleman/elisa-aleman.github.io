@@ -17,7 +17,7 @@ First let me start with the title. Lot's of people know about LGBT+, however, no
 Below I list the ones I used up to now: 
 
 - **LGBT+**: Lesbian, Gay, Bisexual, Transgender, and other queer identities and sexual minorities
-- **GSRM**: Gender, Sexual and Romantic Minorities
+- **GSRM**: Gender, Sexual and Romantic Minorities. It's close to the Japanese *sekumai* which means sexual minorities although it's less specific.
 - **queer**: An umbrella term encompassing all gender, sexual and romantic minorities, and sometimes used in defiance to being classified as one or the other for either case.
 
 It's important to add the + in LGBT+ because lots of identities aren't represented in the abbreviations we used before. Some people used LGBTQ, LGBTQI, even as far as LGBTQIA2s... but none of them really span the whole spectrum of queerness, and someone gets left behind at some point. Which is why the + includes everyone under the name that everyone is familiar with.
@@ -102,7 +102,9 @@ And this is all ok.
 
 __Heterosexuality__
 
-Heterosexuality is when men are attracted to women, or when women are attracted to men. It is usually seen as the default, but it is only one of the many sexualities there are. LGBT+ and queer pride doesn't include this identity as part of the community because of this, but I mention it here to explain that we should use this terminology instead of words like "normal", since this implies that LGBT+ people aren't normal.
+Heterosexuality is when men are attracted to women, or when women are attracted to men. It is usually seen as the default, but it is only one of the many sexualities there are. LGBT+ and queer pride doesn't include this identity as part of the community because of this, but I mention it here to explain that we should use this terminology instead of words like "normal", since this implies that LGBT+ people aren't normal. 
+
+In addition, it's entirely possible to be queer and straight at the same time. For example, there's straight people with queer gender identities, or part of a romantic minority that makes them queer.
 
 
 __Homosexuality__
@@ -129,7 +131,7 @@ As I mentioned before, a flag specifically for gay men has been created recently
     />
 </div>
 
-___Lesbian people___
+___Lesbian___
 
 <div class="art-gallery">
     <img
@@ -139,7 +141,7 @@ ___Lesbian people___
     />
 </div>
 
-This is the word we use when women are attracted to women. This is the new flag, since the person that made the previous one said horrible things about trans people. Some people also use this flag and word to mean "Non-men who are attracted to other people that aren't men". Depending on how people express their gender, they might or not use this label for them. It really depends on who you ask, and people use these flags differently.
+This is the word we use when women are attracted to women. Some people also use this flag and word to mean "Non-men who are attracted to other people that aren't men". Depending on how people express their gender, they might or not use this label for them. It really depends on who you ask, and people use these flags differently.
 
 
 __Bisexuality__
@@ -155,29 +157,6 @@ __Bisexuality__
 Bisexual is the word used for people who are attracted to two or more genders. I say two or more because in reality people can be attracted to different genders in the spectrum of identities that people can have. Sometimes Bisexuality might encompass all people, but with different preferences or tastes for each gender, or perhaps a tendency to like one gender more often than the other. It really is up to the person to define themselves and think about who they are attracted to. Some people actually write it as Bi+ since it includes more than two. 
 
 
-__Asexuality__
-
-<div class="art-gallery">
-    <img
-    class="img_flag"
-    src="/assets/lgbt_resources/flags/Asexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
-    alt="" 
-    />
-</div>
-
-Asexuality is a sexual orientation in which people don't have any sexual attraction for any genders. It is also an umbrella term including Demisexuality or Gray-Asexual people, who experience some attraction, but it is rare or in very specific conditions, such that they relate to the Asexuality umbrella in some way. We will talk about these identities more in [<sup>The R in GSRM: Romantic orientation]</sup>(#the-r-in-gsrm-romantic-orientation).
-
-- Demisexual flag:
-
-<div class="art-gallery">
-    <img
-    class="img_flag"
-    src="/assets/lgbt_resources/flags/Demisexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
-    alt="" 
-    />
-</div>
-
-
 __Pansexuality__
 
 <div class="art-gallery">
@@ -189,6 +168,32 @@ __Pansexuality__
 </div>
 
 Pansexuality is the word used to describe people who are attracted to people, regardless of their gender. It is said that the difference with Bisexuality is that it is not conditional, and that pansexual people might not even think of the gender of people before considering them attractive. However, this distinction is personal, and of course, people can have preferences and tastes about who they like. In the end, it's up to the person to find the identity that best suits them and feels right.
+
+__Asexuality__
+
+<div class="art-gallery">
+    <img
+    class="img_flag"
+    src="/assets/lgbt_resources/flags/Asexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    alt="" 
+    />
+</div>
+
+Asexuality is a sexual orientation in which people don't have any sexual attraction for any genders. It is also an umbrella term including Demisexuality or Gray-Asexual people, who experience some attraction, but it is rare or in very specific conditions, such that they relate to the Asexuality umbrella in some way. 
+
+\* The opposite of Asexuality, experiencing sexual attraction is called Allosexuality.
+
+We will talk about these identities more in [The R in GSRM: Romantic orientation](#the-r-in-gsrm-romantic-orientation).
+
+- Demisexual flag:
+
+<div class="art-gallery">
+    <img
+    class="img_flag"
+    src="/assets/lgbt_resources/flags/Demisexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    alt="" 
+    />
+</div>
 
 <a id="the-r-in-gsrm-romantic-orientation"></a>
 ### The R in GSRM: Romantic orientation
@@ -244,12 +249,12 @@ And so do Demiromantic people:
 <a id="the-g-in-gsrm-gender-identity"></a>
 ### The G in GSRM: Gender identity
 
-Gender identity is unrelated to who you are attracted to, and instead it's about who you are. One can be ***cisgender***, which means that one's identity matches what one was assigned at birth, or ***transgender***, which is when your identity doesn't match the one assigned to you at birth. 
+Gender identity is unrelated to who you are attracted to, and instead it's about who you are. Gender identity is about what gender ***you*** feel like inside and want to live like. One can be ***cisgender***, which means that one's identity matches what one was assigned at birth, or ***transgender***, which is when your identity doesn't match the one assigned to you at birth. 
 
 Now, we also have to make a distinction about **sex** and **gender**. 
 
-- Sex: It is defined as the biological differences in the anatomical sense, primary and secondary sex characteristics, and reproductive organs.
-- Gender: It is the psychological and social aspect of sex. It is an internal awareness of one's identity regarding sex. It also encompasses sex-based social structures and assigned or taken roles.
+- **Sex**: It is defined as the biological differences in the anatomical sense, primary and secondary sex characteristics, and reproductive organs.
+- **Gender**: It is the psychological and social aspect of sex. It is an internal awareness of one's identity regarding sex. It also encompasses sex-based social structures and assigned or taken roles.
 
 Now! Neither of these are binary! [<sup>\[1,2,3\]</sup>](#Brain-sexual-differentiation-sexual-orientation-gender-identity) People are really diverse, and that is both in identity and biology. You can see in this simplified graph just how varied we are.
 
@@ -263,7 +268,7 @@ Now! Neither of these are binary! [<sup>\[1,2,3\]</sup>](#Brain-sexual-different
 
 They're also not fully independent from each other! For example, psychological gender might be related to biological hormones and neurological structure and neuro-chemicals that are hard to separate from sexual characteristics.
 
-Gender identity is about what gender ***you*** feel like inside and want to live like. 
+Remember: Gender identity is about what gender ***you*** feel like inside and want to live like. 
 
 - You can be a woman
 - You can be a man
@@ -375,14 +380,14 @@ Many trans people seek a gender transition to live as the gender they truly are,
 <a id="gender-expression"></a>
 #### Gender expression
 
-Gender identity and expression are different! Your identity is yours to decide regardless of what clothes you wear, what makeup you wear, etc. You don't choose an appearance to fit you, you inherently will fit any appearance that you choose, because **You are You, no matter what**. Of course people can choose an appearance that affirms their identity and makes them happy, but this is secondary to their identity.
+Gender identity and expression are different! Your identity is yours to decide regardless of what clothes you wear, what makeup you wear, etc. Your appearance doesn't define you, you inherently will fit any appearance that you choose, because **You are You, no matter what**. Of course people can choose an appearance that affirms their identity and makes them happy, but this is secondary to their identity.
 
 <a id="pronouns-and-names"></a>
 #### Pronouns and Names
 
 Regardless of gender, people will sometimes choose a new name or pronouns that fit them better.
 
-Out of respect, it's important to use the correct pronouns for everybody, as well as their chosen name. It's also important not to dig around and try to learn people's past names, since it's disrespectful and assumes that their identity isn't valid. It's only necessary to know for legal documents if the chosen name isn't legal yet.
+Out of respect, it's important to use the correct pronouns for everybody, as well as their chosen name. It's also important not to dig around and try to learn people's past names, since it's disrespectful and assumes that their identity isn't valid. It's only necessary to know for legal documents if the chosen name isn't legal yet. It's also important not to spread this information if you learn it through these means.
 
 Now, regarding pronouns, these are the most common:
 
@@ -391,6 +396,12 @@ Now, regarding pronouns, these are the most common:
 - Non-binary: they/them
 
 However, everyone can use different pronouns if they so choose and so one should ask to be sure. Lately it's become more and more widespread to introduce oneself with pronouns written on a screen name, on presentation cards, on name tags, etc.
+
+Example:
+
+> Elisa Alemán (she/her)
+
+However, I haven't seen this be applied in Japan and the translation would be awkward.
 
 <a id="the-s-in-gsrm-sexual-minorities-intersex-people"></a>
 ### The S in GSRM: Sexual Minorities: Intersex people
@@ -498,7 +509,7 @@ There's also the topic of SDGs, which are the goals set by the UN that many comp
 <a id="problems-in-society"></a>
 ## Problems in Society
 
-In Japan, LGBT+ people are estimated to be around 8% of the population in Japan [<sup>\[4\]</sup>](#Dentsu-diversity-lab) and similar numbers across the world [<sup>\[5\]</sup>](#Wikipedia-demographics-sexual-orientation).
+In Japan, LGBT+ people are estimated to be around 8% of the population in Japan [<sup>\[4\]</sup>](#Dentsu-diversity-lab) and similar numbers across the world [<sup>\[5\]</sup>](#Wikipedia-demographics-sexual-orientation). However, since many people hide it, it could be more.
 
 LGBT+ people around the world face many issues, but mainly these:
 
@@ -534,7 +545,7 @@ This means:
 - No visa / passport benefits
 - No legal co-parenting
 - No hospital visitations
-- No tax exemptions
+- No tax deductions
 
 In hospitals, perhaps a person is denied visitation because of not being technically family of their loved one. Aside from that, if a partner dies they can't leave inheritance to non-family members. 
 
@@ -626,6 +637,8 @@ __LGBT related:__
 __Queer friendly mental health and suicide prevention:__
 
 - [TELL Japan (en)](https://telljp.com/)
+- よりそいホットライン (jp)(https://www.since2011.net/yorisoi/
+
 
 <a id="what-can-a-company-or-school-do"></a>
 ## What can a company or school do?
@@ -685,8 +698,8 @@ One should avoid:
         - and so on
 - Use outdated terminology:
     - Gender Identity Disorder (Not a disorder DSM5)
-    - Sex change (It’s more complicated, and it’s not a change)
-    - Transsexual (It’s about gender, not sex)
+    - Sex change (It's more complicated, and it's not a change)
+    - Transsexual (It's about gender, not sex)
     - Hermaphrodite (That's for animals, not people!)
     - Transvestite (It's cross-dressing, and unrelated to gender)
 - Use offensive or discriminatory terminology

@@ -17,7 +17,7 @@ Primero debo empezar con el título. Mucha gente conoce sobre LGBT+, sin embargo
 Abajo tengo en una lista los términos que he usado hasta ahora:
 
 - **LGBT+**: Lesbianas, Gays, Bisexuales, Transgénero, y otras identidades queer y minorías sexuales
-- **GSRM**: Minorías Sexuales, Románticas y de Género, del inglés "Gender, Sexual and Romantic Minorities"
+- **GSRM**: Minorías Sexuales, Románticas y de Género, del inglés "Gender, Sexual and Romantic Minorities".  En Japonés, la palabra *sekumai*, que significa minorías sexuales se acerca pero es menos específica.
 - **queer**: Un término genérico que contiene todas las minorías sexuales, románticas y de género, y en ocasiones usado con rebeldía a ser clasificade como una cosa o la otra.
 
 Es importante agregar el + en LGBT+ porque muchas identidades no están representadas en las abreviaciones que usábamos antes. Algunos usaron LGBTQ, LGBTQI, incluso LGBTQIA2s... pero ninguno de ellos realmente abarcan todo el espectro queer, y alguien queda dejado atrás en algún punto. Es por esto que el + abarca a todes mientras se usa un nombre con el que la gente ya está familiarizada.
@@ -103,7 +103,9 @@ Y todo eso está perfectamente bien.
 
 __Heterosexualidad__
 
-La heterosexualidad es cuando los hombres son atraídos por mujeres, o las mujeres por los hombres. Usualmente es visto como el default, pero es solamente una de las muchas sexualidades que hay. El orgullo LGBT+ y queer no incluye esta identidad debido a esto, pero la menciono aqí para explicar que debemos usar esta terminología en lugar de palabras como "normal", ya que eso implica que la gente LGBT+ no es normal.
+La heterosexualidad es cuando los hombres son atraídos por mujeres, o las mujeres por los hombres. Usualmente es visto como el default, pero es solamente una de las muchas sexualidades que hay. El orgullo LGBT+ y queer no incluye esta identidad debido a esto, pero la menciono aqí para explicar que debemos usar esta terminología en lugar de palabras como "normal", ya que eso implica que la gente LGBT+ no es normal. 
+
+Además, es completamente posible ser queer y heterosexual al mismo tiempo. Por ejemplo, hay personas heterosexuales con identidades de género queer, o parte de una minoría romántica que los hace queer.
 
 
 __Homosexualidad__
@@ -130,7 +132,7 @@ Como les mencioné anteriormente, la bandera específicamente para hombres gay f
     />
 </div>
 
-___Gente Lesbiana___
+___Lesbiana___
 
 <div class="art-gallery">
     <img
@@ -140,7 +142,7 @@ ___Gente Lesbiana___
     />
 </div>
 
-Esta es la palabra que usamos para decir cuando a las mujeres les atraen otras mujeres. Esta es la bandera nueva, ya que la persona que hizo la anterior dijo cosas horribles sobre la gente trans. Alguna gente también usa esta bandera y palabra para referirse a "Gente que no son hombres atraídos por otra gente que no son hombres". Dependiendo de cómo exprese la gente su género, es probable que quizás usen esta etiqueta o no. En realidad depende de a quién le preguntes, y la gente suele usar estas banderas de manera diferente.
+Esta es la palabra que usamos para decir cuando a las mujeres les atraen otras mujeres. Alguna gente también usa esta bandera y palabra para referirse a "Gente que no son hombres atraídos por otra gente que no son hombres". Dependiendo de cómo exprese la gente su género, es probable que quizás usen esta etiqueta o no. En realidad depende de a quién le preguntes, y la gente suele usar estas banderas de manera diferente.
 
 __Bisexualidad__
 
@@ -154,29 +156,6 @@ __Bisexualidad__
 
 Bisexual es la palabra que se usa para referirse a la gente que es atraída por dos o más géneros. Digo dos o más por que en realidad la gente puede ser atraída a distintos géneros en el espectro de identidades que la gente puede tener. Algunas veces esto significa que la bisexualidad puede abarcar todos los géneros, pero con diferentes preferencias o gustos para cada uno, o quizás una tendencia a ser atraíde más por un género que por el otro. Depende de cada quien definirse como quieran y pensar quién les atrae y porqué. Algunos lo abrevian como Bi+ ya que incluye más que dos.
 
-__Asexualidad__
-
-<div class="art-gallery">
-    <img
-    class="img_flag"
-    src="/assets/lgbt_resources/flags/Asexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
-    alt="" 
-    />
-</div>
-
-La asexualidad es la orientación sexual en que la gente no siente ninguna atracción sexual por ningún género. También es un término general que incluye la Demisexualidad o la gente Gray-Asexual, que pueden experimentar cierta atracción, pero es muy raro que ocurra o es en condiciones muy específicas, de manera que se identifican con la Asexualidad en alguna manera. Hablaremos más de estas identidades en [La R en GSRM: Orientación Romántica](#la-r-en-gsrm-orientaci%C3%B3n-rom%C3%A1ntica).
-
-- La bandera Demisexual:
-
-<div class="art-gallery">
-    <img
-    class="img_flag"
-    src="/assets/lgbt_resources/flags/Demisexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
-    alt="" 
-    />
-</div>
-
-
 __Pansexualidad__
 
 <div class="art-gallery">
@@ -188,6 +167,32 @@ __Pansexualidad__
 </div>
 
 Pansexualidad es la palabra que se usa para describir a las personas que se sienten atraídas por otras personas, independientemente de su género. Se dice que la diferencia con la bisexualidad es que no es condicional y que es posible que las personas pansexuales ni siquiera piensen en el género de las personas antes de considerarlas atractivas. Sin embargo, esta distinción es personal y, por supuesto, las personas pueden tener preferencias y gustos sobre quién les gusta. Al final, depende de la persona encontrar la identidad que mejor se adapte a ellos y se sienta bien.
+
+__Asexualidad__
+
+<div class="art-gallery">
+    <img
+    class="img_flag"
+    src="/assets/lgbt_resources/flags/Asexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    alt="" 
+    />
+</div>
+
+La asexualidad es la orientación sexual en que la gente no siente ninguna atracción sexual por ningún género. También es un término general que incluye la Demisexualidad o la gente Gray-Asexual, que pueden experimentar cierta atracción, pero es muy raro que ocurra o es en condiciones muy específicas, de manera que se identifican con la Asexualidad en alguna manera. 
+
+* El antónimo de Asexualidad, que sería experimentar atracción sexual, se llama Allosexualidad.
+
+Hablaremos más de estas identidades en [La R en GSRM: Orientación Romántica](#la-r-en-gsrm-orientaci%C3%B3n-rom%C3%A1ntica).
+
+- La bandera Demisexual:
+
+<div class="art-gallery">
+    <img
+    class="img_flag"
+    src="/assets/lgbt_resources/flags/Demisexual_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    alt="" 
+    />
+</div>
 
 <a id="la-r-en-gsrm-orientaci%C3%B3n-rom%C3%A1ntica"></a>
 ### La R en GSRM: Orientación Romántica
@@ -243,14 +248,14 @@ Y también la gente demiromántica:
 <a id="la-g-en-gsrm-identidad-de-g%C3%A9nero"></a>
 ### La G en GSRM: Identidad de Género
 
-La identidad de género no está relacionada con quién te atrae, sino con quién eres. Uno puede ser ***cisgénero***, lo que significa que la identidad de uno coincide con la que se le asignó al nacer, o ***transgénero***, que es cuando su identidad no coincide con la que se le asignó al nacer.
+La identidad de género no está relacionada con quién te atrae, sino con quién eres. La identidad de género se trata de cómo te sientes ***tú*** por dentro respecto a tu género y cómo quieres vivir. Uno puede ser ***cisgénero***, lo que significa que la identidad de uno coincide con la que se le asignó al nacer, o ***transgénero***, que es cuando su identidad no coincide con la que se le asignó al nacer.
 
 Ahora, también tenemos que hacer una distinción entre **sexo** y **género**.
 
-- Sexo: Se define como las diferencias biológicas en el sentido anatómico, caracteres sexuales primarios y secundarios, y órganos reproductores.
-- Género: Es el aspecto psicológico y social del sexo. Es una conciencia interna de la propia identidad con respecto al sexo. También abarca las estructuras sociales basadas en el sexo y los roles asignados o asumidos.
+- **Sexo**: Se define como las diferencias biológicas en el sentido anatómico, caracteres sexuales primarios y secundarios, y órganos reproductores.
+- **Género**: Es el aspecto psicológico y social del sexo. Es una conciencia interna de la propia identidad con respecto al sexo. También abarca las estructuras sociales basadas en el sexo y los roles asignados o asumidos.
 
-¡Ahora! ¡Ninguno de estos son binarios! [\[1,2,3\]](#Brain-sexual-differentiation-sexual-orientation-gender-identity) Las personas son realmente diversas, y eso es tanto en identidad como en biología. Puedes ver en este gráfico simplificado cuán variados somos.
+¡Ahora! ¡Ninguno de estos son binarios! [<sup>\[1,2,3\]</sup>](#Brain-sexual-differentiation-sexual-orientation-gender-identity) Las personas son realmente diversas, y eso es tanto en identidad como en biología. Puedes ver en este gráfico simplificado cuán variados somos.
 
 <div class="art-gallery">
     <img
@@ -262,7 +267,7 @@ Ahora, también tenemos que hacer una distinción entre **sexo** y **género**.
 
 ¡Tampoco son completamente independientes entre sí! Por ejemplo, el género psicológico podría estar relacionado con las hormonas biológicas y la estructura neurológica y los neuroquímicos que son difíciles de separar de las características sexuales.
 
-La identidad de género se trata de cómo te sientes ***tú*** por dentro respecto a tu género y cómo quieres vivir.
+Recuerda: La identidad de género se trata de cómo te sientes ***tú*** por dentro respecto a tu género y cómo quieres vivir.
 
 - Puedes ser una mujer
 - Puedes ser un hombre
@@ -374,14 +379,14 @@ Muchas personas trans buscan una transición de género para vivir como el géne
 <a id="expresi%C3%B3n-de-g%C3%A9nero"></a>
 #### Expresión de género
 
-¡La identidad y la expresión de género son diferentes! Tu identidad es tuya para decidir independientemente de la ropa que uses, el maquillaje que uses, etc. No eliges una apariencia que te quede a tu identidad, inherentemente serás la misma persona sin importar la apariencia que elijas, porque **Tú eres Tú, sin importa qué**. Por supuesto, las personas pueden elegir una apariencia que afirme su identidad y las haga felices, pero esto es secundario a su identidad.
+¡La identidad y la expresión de género son diferentes! Tu identidad es tuya para decidir independientemente de la ropa que uses, el maquillaje que uses, etc. Tu apariencia no te define, inherentemente serás la misma persona sin importar la apariencia que elijas, porque **Tú eres Tú, sin importar qué**. Por supuesto, las personas pueden elegir una apariencia que afirme su identidad y las haga felices, pero esto es secundario a su identidad.
 
 <a id="pronombres-y-nombres"></a>
 #### Pronombres y nombres
 
 Independientemente del género, las personas a veces eligen un nuevo nombre o pronombres que les queden mejor.
 
-Por respeto, es importante usar los pronombres correctos para todos, así como el nombre elegido. También es importante no indagar y tratar de aprender los nombres anteriores de las personas, ya que es una falta de respeto y asume que su identidad no es válida. Solo es necesario saber para documentos legales si el nombre elegido aún no es legal.
+Por respeto, es importante usar los pronombres correctos para todos, así como el nombre elegido. También es importante no indagar y tratar de aprender los nombres anteriores de las personas, ya que es una falta de respeto y asume que su identidad no es válida. Solo es necesario saber para documentos legales si el nombre elegido aún no es legal. También es importante no diseminar esta información si se aprende de esta manera.
 
 Ahora bien, en cuanto a los pronombres, estos son los más comunes:
 
@@ -390,6 +395,12 @@ Ahora bien, en cuanto a los pronombres, estos son los más comunes:
 - No binarie: elle
 
 Sin embargo, todos pueden usar diferentes pronombres si así lo desean, por lo que uno debe preguntar para estar seguro. Últimamente está cada vez más extendido presentarse con pronombres escritos en un nombre de pantalla, en tarjetas de presentación, en etiquetas de nombre, etc.
+
+Ejemplo:
+
+> Elisa Alemán (ella)
+
+Sin embargo, no lo he visto ser aplicado en Japón y la verdad no se cómo se traduciría.
 
 <a id="la-s-en-gsrm-minor%C3%ADas-sexuales-personas-intersexuales"></a>
 ### La S en GSRM: Minorías sexuales: personas Intersexuales
@@ -497,7 +508,7 @@ También está el tema de los ODS, que son las metas establecidas por la ONU que
 <a id="problemas-en-la-sociedad"></a>
 ## Problemas en la sociedad
 
-En Japón, se estima que las personas LGBT+ representan alrededor del 8 % de la población de Japón [<sup>\[4\]</sup>](#Dentsu-diversity-lab) y cifras similares en todo el mundo [<sup>\ [5\]</sup>](#Wikipedia-demographics-sexual-orientation).
+En Japón, se estima que las personas LGBT+ representan alrededor del 8 % de la población de Japón [<sup>\[4\]</sup>](#Dentsu-diversity-lab) y cifras similares en todo el mundo [<sup>\[5\]</sup>](#Wikipedia-demographics-sexual-orientation). Sin embargo muchos lo ocultan, así que estos números podrían ser mas altos.
 
 Las personas LGBT+ de todo el mundo enfrentan muchos problemas, pero principalmente estos:
 
@@ -532,7 +543,7 @@ Esto significa:
 - Sin beneficios de visa / pasaporte
 - Sin copaternidad legal
 - Sin visitas al hospital
-- Sin exenciones de impuestos
+- Sin deducibles en impuestos
 
 En los hospitales, tal vez a una persona se le niegue la visita porque técnicamente no es familiar de su ser querido. Aparte de eso, si una persona de la pareja muere, no puede dejar herencia a miembros que no sean de la familia.
 
@@ -624,6 +635,7 @@ __Relacionado con LGBT:__
 __Salud mental queer amigable y prevención del suicidio:__
 
 - [TELL Japan (inglés)](https://telljp.com/)
+- よりそいホットライン (jp)(https://www.since2011.net/yorisoi/
 
 <a id="qu%C3%A9-puede-hacer-una-empresa-o-escuela"></a>
 ## ¿Qué puede hacer una empresa o escuela?
