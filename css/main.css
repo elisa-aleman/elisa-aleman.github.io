@@ -985,7 +985,7 @@ footer {
     }
     
     body {
-        padding-bottom: 35em;
+        padding-bottom: 50em;
         overflow-wrap: break-word;
         word-wrap: break-word;
         font-size: 1em;
@@ -1007,7 +1007,7 @@ footer {
         padding-left:12.5%;
         padding-right:12.5%;
         padding-top: 0em;
-        padding-bottom: 8em;
+        padding-bottom: 0em;
         margin-bottom: 0em;
     }
     
