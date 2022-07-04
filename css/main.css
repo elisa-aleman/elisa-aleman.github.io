@@ -1062,6 +1062,14 @@ footer {
         margin-left:auto;
     }
 
+    .img_flag{
+        position: absolute;
+        display: block;
+        float: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
     .github_img {
         display: block;
         float:center;
