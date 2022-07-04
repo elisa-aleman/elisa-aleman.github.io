@@ -1,6 +1,6 @@
 ---
 layout: jp_post
-title:  "June is the LGBT+/GSRM 🏳️‍🌈 Pride month!"
+title:  "6月はLGBT+/GSRM 🏳️‍🌈 プライドの月!"
 lang: jp
 lang-ref: pride-month
 author: Elisa Claire Alemán Carreón, PhD
