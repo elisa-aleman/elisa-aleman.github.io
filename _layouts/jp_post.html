@@ -89,7 +89,7 @@ layout: jp_default
                 {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
         {% endif %}
         {% if posts.size > 1 %}
-                <em>Read this page in a different language / 他の言語でこのページを読む:</em>
+                <em>Read this page in a different language / Leer en otro idioma /他の言語でこのページを読む:</em>
                 <ul id="change_lang_li">
                 {% for post in posts %}
                 <a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{ site.data.languages[post.lang].label }}"><li>{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</li></a>
