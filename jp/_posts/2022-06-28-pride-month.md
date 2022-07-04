@@ -289,7 +289,7 @@ __トランスジェンダー__
 <div class="art-gallery">
     <img
     class="img_flag"
-    src="/assets/lgbt_resources/flags/Transgender_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    src="/assets/lgbt_resources/flags/Transgender_Pride_flag.svg#svgView(preserveAspectRatio(none))" 
     alt="" 
     />
 </div>
@@ -335,7 +335,7 @@ __エイジェンダー（無性）__
 <div class="art-gallery">
     <img
     class="img_flag"
-    src="/assets/lgbt_resources/flags/Agender_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    src="/assets/lgbt_resources/flags/Agender_pride_flag.svg#svgView(preserveAspectRatio(none))" 
     alt="" 
     />
 </div>
@@ -507,6 +507,14 @@ __インターセックスの人はトランスジェンダーですか？__
 ## 社会での問題
 
 日本でLGBTの人は人口の８％ぐらいだと言われている [<sup>\[4\]</sup>](#Dentsu-diversity-lab) そして世界中で近い数値 [<sup>\[5\]</sup>](#Wikipedia-demographics-sexual-orientation)。しかし、隠す場合が多いので、もっとかもしれない。
+
+<div class="art-gallery">
+    <img
+    class="art_img_single_square"
+    src="/assets/lgbt_resources/lgbt_problems.png" 
+    alt="" 
+    />
+</div>
 
 世界中のLGBTの人はたくさんの社会的な問題と直面している。主に：
 

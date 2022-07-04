@@ -290,7 +290,7 @@ __Transgénero__
 <div class="art-gallery">
     <img
     class="img_flag"
-    src="/assets/lgbt_resources/flags/Transgender_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    src="/assets/lgbt_resources/flags/Transgender_Pride_flag.svg#svgView(preserveAspectRatio(none))" 
     alt="" 
     />
 </div>
@@ -337,7 +337,7 @@ __Agénero__
 <div class="art-gallery">
     <img
     class="img_flag"
-    src="/assets/lgbt_resources/flags/Agender_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    src="/assets/lgbt_resources/flags/Agender_pride_flag.svg#svgView(preserveAspectRatio(none))" 
     alt="" 
     />
 </div>
@@ -509,6 +509,14 @@ También está el tema de los ODS, que son las metas establecidas por la ONU que
 ## Problemas en la sociedad
 
 En Japón, se estima que las personas LGBT+ representan alrededor del 8 % de la población de Japón [<sup>\[4\]</sup>](#Dentsu-diversity-lab) y cifras similares en todo el mundo [<sup>\[5\]</sup>](#Wikipedia-demographics-sexual-orientation). Sin embargo muchos lo ocultan, así que estos números podrían ser mas altos.
+
+<div class="art-gallery">
+    <img
+    class="art_img_single_square"
+    src="/assets/lgbt_resources/lgbt_problems.png" 
+    alt="" 
+    />
+</div>
 
 Las personas LGBT+ de todo el mundo enfrentan muchos problemas, pero principalmente estos:
 

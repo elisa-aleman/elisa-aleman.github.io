@@ -291,7 +291,7 @@ __Transgender__
 <div class="art-gallery">
     <img
     class="img_flag"
-    src="/assets/lgbt_resources/flags/Transgender_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    src="/assets/lgbt_resources/flags/Transgender_Pride_flag.svg#svgView(preserveAspectRatio(none))" 
     alt="" 
     />
 </div>
@@ -338,7 +338,7 @@ __Agender__
 <div class="art-gallery">
     <img
     class="img_flag"
-    src="/assets/lgbt_resources/flags/Agender_Pride_Flag.svg#svgView(preserveAspectRatio(none))" 
+    src="/assets/lgbt_resources/flags/Agender_pride_flag.svg#svgView(preserveAspectRatio(none))" 
     alt="" 
     />
 </div>
@@ -510,6 +510,14 @@ There's also the topic of SDGs, which are the goals set by the UN that many comp
 ## Problems in Society
 
 In Japan, LGBT+ people are estimated to be around 8% of the population in Japan [<sup>\[4\]</sup>](#Dentsu-diversity-lab) and similar numbers across the world [<sup>\[5\]</sup>](#Wikipedia-demographics-sexual-orientation). However, since many people hide it, it could be more.
+
+<div class="art-gallery">
+    <img
+    class="art_img_single_square"
+    src="/assets/lgbt_resources/lgbt_problems.png" 
+    alt="" 
+    />
+</div>
 
 LGBT+ people around the world face many issues, but mainly these:
 
