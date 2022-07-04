@@ -40,7 +40,7 @@ LGBT+の+を含むのは大事であるのは、省略されているアイデ�
         - [代名詞と名前](#%E4%BB%A3%E5%90%8D%E8%A9%9E%E3%81%A8%E5%90%8D%E5%89%8D)
     - [GSRMのS: セクマイ: インターセックス](#gsrm%E3%81%AEs-%E3%82%BB%E3%82%AF%E3%83%9E%E3%82%A4-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9)
 - [ご安心を、試験などではない](#%E3%81%94%E5%AE%89%E5%BF%83%E3%82%92%E8%A9%A6%E9%A8%93%E3%81%AA%E3%81%A9%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84)
-- [Why is June the Pride Month? Stonewall Riots](#why-is-june-the-pride-month-stonewall-riots)
+- [なんで６月はプライドの月? Stonewallの暴動](#%E3%81%AA%E3%82%93%E3%81%A7%EF%BC%96%E6%9C%88%E3%81%AF%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AE%E6%9C%88-stonewall%E3%81%AE%E6%9A%B4%E5%8B%95)
 - [これは一体職場の環境にどう関係あるの？](#%E3%81%93%E3%82%8C%E3%81%AF%E4%B8%80%E4%BD%93%E8%81%B7%E5%A0%B4%E3%81%AE%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A9%E3%81%86%E9%96%A2%E4%BF%82%E3%81%82%E3%82%8B%E3%81%AE)
 - [社会での問題](#%E7%A4%BE%E4%BC%9A%E3%81%A7%E3%81%AE%E5%95%8F%E9%A1%8C)
     - [LGBT＋に対する暴力](#lgbt%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%9A%B4%E5%8A%9B)
@@ -465,8 +465,8 @@ __インターセックスの人はトランスジェンダーですか？__
 
 -------------------------
 
-<a id="why-is-june-the-pride-month-stonewall-riots"></a>
-## Why is June the Pride Month? Stonewall Riots
+<a id="%E3%81%AA%E3%82%93%E3%81%A7%EF%BC%96%E6%9C%88%E3%81%AF%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AE%E6%9C%88-stonewall%E3%81%AE%E6%9A%B4%E5%8B%95"></a>
+## なんで６月はプライドの月? Stonewallの暴動
 
 では、どうして6月がプライドの月なのかを少しお話をさせていただく。実は1969年6月28日にStonewallの暴動があったから6月はプライドの月になっている。
 
