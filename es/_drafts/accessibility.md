@@ -1,22 +1,22 @@
 ---
 layout: en_post
-title:  "Accessibility, ramps, elevators, Bionic Reading?"
+title:  "Accesibilidad, rampas, elevadores, Lectura Biónica?"
 lang: en
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
 date: 2022-07-06 08:00:00 +0900
-description: Hello everyone! Today I wanted to talk about accessibility both digitally and physically in the workplace. Have you stopped to wonder about how other people navigate the world?
+description: ¡Hola a todes! Hoy quería hablar sobre la accesibilidad tanto digital como física en el lugar de trabajo. ¿Te has detenido a preguntarte cómo otras personas navegan el mundo?
 ---
 
-Hello everyone! Today I wanted to talk about accessibility both digitally and physically in the workplace. Have you stopped to wonder about how other people navigate the world?
+¡Hola a todes! Hoy quería hablar sobre la accesibilidad tanto digital como física en el lugar de trabajo. ¿Te has detenido a preguntarte cómo otras personas navegan el mundo?
 
-## What is accessibility?
+## Qué es la accesibilidad?
 
-First of all I want to explain in case this is new to anybody, accessibility is the degree to which a thing or a place is available to as many people to use as possible. This is usually mentioned in case of disability, but it's not necessarily the only case where it applies.
+Primero que nada quiero explicar en caso de que sea algo nuevo para alguien, la accesibilidad es el grado al que una cosa o lugar está disponible para el uso de tanta gente como sea posible. Más que todo se menciona en casos de discapacidad, pero no es necesariamente el único caso en el que aplica.
 
-For an easy to grasp example of accessibility, picture a ramp for people who can't use the stairs. Notice how I didn't say "people who use a wheelchair", accessibility isn't exclusive to just one case. Let's say somebody has a leg injury but can still walk with some extra support. Let's say there's someone with complete ability in their legs, but happens to be exhausted. They would also benefit from a ramp. Lots of people can benefit from accessible spaces, but the people who are hurt the most are those who can't access that space without the appropriate accommodation. Now, think of how many places you have been in with no such accommodations, and how it could affect people.
+Por dar un ejemplo fácil de entender de la accesibilidad, imagínate una rampa para la gente que no puede usar las escaleras. Fíjate como no dije "personas en sillas de ruedas". La accesibilidad no es exclusiva para un solo caso. Digamos que hay alguien que tuvo una lesión en la pierna pero todavía puede caminar con cierto apoyo. O quizás imaginemos a alguien que tiene uso completo de sus piernas, pero resulta que en ese momento estaba exhausto. Esas personas también se benefician de la rampa. Muchas personas se pueden beneficiar de espacios accesibles, pero las personas que más lo necesitan son las que más lastima que no haya las acomodaciones apropiadas. Piensa, ¿cuántos lugares has ido que no tienen este tipo de acomodaciones, y cómo afecta esto a la gente?
 
-There's all kinds of accessibility. Specifically, it could be in physical spaces such as ramps, elevators, floor markings for the blind, rails for support. It could be communicative, such as multi-language support, universal signage, or subtitles on a video. With that last one, I also want to say that digital accessibility is important, and in ways that not many think about. 
+Hay de todo tipo de accesibilidad. Más específicamente, puede ser física, como las rampas, elevadores, marcas en el suelo para guiar a la gente ciega, rieles de soporte, etc. Puede ser comunicativa, como acceso multilingüe, señales universales, o subtítulos en un video. En esta ultima también quiero decir que la accesibilidad digital también es importante, y usualmente se manifesta en maneras que no muchos piensan.
 
 ## Invisible disabilities
 
