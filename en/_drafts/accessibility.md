@@ -44,11 +44,11 @@ Now you're probably wondering about the title of today's entry. What is bionic r
 
 **Th**e **met**hod **cons**ists **o**f **bold**ing **o**r **highli**ghting **th**e **begin**nings **o**f **wor**ds. 
 
-Like so. It doesn't work the same for everyone, but for some, it's reported that people read twice as fast, or have less difficulties processing the information that they're reading. Some, on the other hand, are distracted by this and report feeling better reading unhighlighted text. I do wonder what this would look like in other language, specifically Japanese since it doesn't use any spaces.
+**Li**ke **so**. **I**t **does**n't **wo**rk **th**e **sa**me **fo**r **every**one, **bu**t **fo**r **som**e, **it**'s **repo**rted **th**at **peo**ple **re**ad **twi**ce **a**s **fas**t, **o**r **ha**ve **le**ss **diffic**ulties **proce**ssing **th**e **inform**ation **th**at **they**'re **read**ing. **Som**e, **o**n **th**e **oth**er **han**d, **ar**e **distr**acted **b**y **th**is **an**d **rep**ort **feel**ing **bet**ter **read**ing **unhighl**ighted **tex**t. **I** **d**o **won**der **wh**at **th**is **wou**ld **lo**ok **li**ke **i**n **oth**er **langu**age, **specif**ically **Japa**nese **sin**ce **i**t **does**n't **us**e **an**y **spac**es. 
 
 Personally, it felt like I could glide through words without much effort, so I'll definitely will be using this tool in the future.
 
-However... the original creators of Bionic Reading have made the license to their tool so expensive that it's prohibitive and of course... not accessible.
+However... the original creators of Bionic Reading have made the access to their tool so expensive that it's prohibitive and of course... not accessible.
 
 So let me introduce you to... [**"Not Bionic Reading"**](https://not-br.neocities.org/), which is an open-source endeavor to make this method available to everyone.
 

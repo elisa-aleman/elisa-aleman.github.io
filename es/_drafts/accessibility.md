@@ -18,47 +18,49 @@ Por dar un ejemplo fácil de entender de la accesibilidad, imagínate una rampa 
 
 Hay de todo tipo de accesibilidad. Más específicamente, puede ser física, como las rampas, elevadores, marcas en el suelo para guiar a la gente ciega, rieles de soporte, etc. Puede ser comunicativa, como acceso multilingüe, señales universales, o subtítulos en un video. En esta ultima también quiero decir que la accesibilidad digital también es importante, y usualmente se manifesta en maneras que no muchos piensan.
 
-## Invisible disabilities
+## Discapacidades Invisibles
 
-In general, it's usually the case that people don't consider disabilities they can't see. Within the disabled community I've seen cases where even when someone is using a wheelchair, if they stand up and display the ability to use their legs, are accused of being lazy or fake. We have to understand that different people have different needs. It could be that they can only stand up for short periods of time, or that they are not fully recovered from a debilitating injury, and we will never know. People who have hearing issues or chronic fatigue are often not discernible at first sight either. People who are color blind, also, are usually invisible to others.
+En general, usualmente la gente no considera las discapacidades que no pueden ver. Dentro de la comunidad discapacitada, he visto casos en los que alguien usando una silla de ruedas, si se levantan por un momento y muestran su capacidad de usar sus piernas, son acusados de ser flojos o de fingir discapacidad. Debemos entender que distinta gente tiene distintas necesidades. Podría ser que solo se pueden levantar por periodos cortos de tiempo, o que no se han recuperado por completo de una lesión debilitante, y nunca lo sabríamos. La gente que tiene problemas para oir o fatiga crónica usualmente no son visibles tampoco. Igual con la gente daltónica.
 
-Personally, I also suffer from invisible disadvantages that make me need accommodations. Because of my ADHD, it's hard for me to focus on sounds or people's voices and fully understand something without fail. I don't have any hearing loss, but rather have audio processing issues. So I still need subtitles in videos even in my own language and prefer quiet places when having conversations so that I can fully concentrate on what people say. I also have knee problems from an injury I had when I was in high school, but when I complain about stairs, people often seem to think I just need more exercise. Meanwhile, I exercise daily, strength train and am very adept at several martial arts. I often get by without issue but it doesn't diminish the fact that these things are not always accessible in spaces that I visit, or the videos that I watch. I am also sensitive to loud noises and bright lights, so I often am uncomfortable in places with too many stimuli.
+Personalmente yo también sufro de desventajas invisibles que me hacen necesitar acomodaciones. Debido a mi ADHD (TDAH en español), es difícil para mi concentrarme en sonidos o en las voces de la gente y entender algo sin falla. No tengo ninguna clase de perdida auditiva, sino más bien problemas de procesamiento auditivo. Por eso, en realidad necesito subtitulos en videos incluso en mi propio lenguaje, y prefiero lugares callados al tener conversaciones para poder concentrarme en lo que dice la gente. También tengo problemas de rodilla de una lesión que tuve en preparatoria, pero cuando me quejo de las escaleras, la gente suele pensar que necesito más ejercicio. Mientras tanto, yo hago ejercicio todos los días, con entrenamiento de fuerza y hago varios artes marciales también. Usualmente vivo sin problemas graves, pero no disminuye el hecho de que las cosas no son accesibles a veces en espacios que visito, o videos que decida ver. También soy sensible a las luces y ruidos fuertes, así que los lugares con muchos estímulos me dejan incómoda.
 
-## Everyone will be disabled one day
+## Todes serán discapacitados tarde o temprano
 
-Now, you might be thinking, "well this doesn't have anything to do with me, I'm fully able!". I wouldn't blame you for thinking that you're able, although not caring about others is probably not good. However, something many people fail to realize is that we are all aging creatures. Time, inevitably, will leave us with some sort of disability or other. It could be pain, disease, or perhaps even an accident. Everyone can become disabled from one day to the next, and it's our responsibility to make the world accessible to all of us, or we will suffer next.
+Ahora, quizás estés pensando, "Bueno, esto no me incumbe a mi, no tengo discapacidades!". No te culparía por pensar que no las tienes, pero no pensar en otra gente probablemente no es bueno. Sin embargo, algo que mucha gente no se da cuenta es que somos criaturas que envejecen. El tiempo, inevitablemente, nos dejara con alguna discapacidad u otra. Podría ser dolor, enfermedad, o incluso un accidente. Toda la gente puede volverse discapacitada de un día al otro, y es nuestra responsabilidad hacer el mundo accesible para todes, o nosotres sufriremos. 
 
-## Digital Accessibility
+## Accesibilidad Digital
 
-Have you considered the digital world also needs accessibility accommodations? Blind people can't see images or menus online, and rely on alt-text, and people with hearing or audio processing issues need subtitles for audio-visual media. Color blind people often struggle with bad color design. 
+¿Has considerado que el mundo digital también necesita acomodaciones de accesibilidad? La gente ciega no puede ver imágenes o menús en línea, y requieren del texto alternativo, y la gente con problemas auditivos o de procesamiento auditivo necesitan subtítulos para la media audio-visual. La gente daltónica usualmente batalla con diseños de color mal hechos.
 
-By the way, check out this website: [Paletton](https://paletton.com) where you can choose a color scheme with accessibility in mind.
+Por cierto, chequen este sitio web: [Paletton](https://paletton.com) donde pueden elegir esquemas de color con este tipo de accesibilidad en mente.
 
-However, much like how there's not elevators everywhere, a lot of the digital world is inaccessible too.
+Como sea, bien como no hay elevadores en todos lados, mucho del mundo digital es inaccesible también.
 
-## Not Bionic Reading
+## Not Bionic Reading (Lectura biónica)
 
-One other disadvantage that I and many other people struggle with is having difficulty reading. While it is not the same as dyslexia, I often find myself reading the same sections again and again, or struggle with finding the motivation to keep reading something that isn't engaging.
+Una de las desventajas con la que yo y mucha otra gente batalla es la dificultad para leer. Mientras que no es lo mismo que la dislexia, usualmente me encuentro leyendo el mismo párrafo una y otra vez, o batallo en tener la motivación para seguir leyendo algo que no me mantiene entretenida.
 
-Now you're probably wondering about the title of today's entry. What is bionic reading? Well, it is a method designed for neurodivergent people, people with difficulty reading, people with dyslexia, etc. 
+Bueno, quizás se estén preguntando sobre el título de la entrada de hoy. ¿Qué es la lectura biónica? Es un método diseñado para gente neurodivergente, gente con dificultades de lectura, gente con dislexia, etc.
 
-**Th**e **met**hod **cons**ists **o**f **bold**ing **o**r **highli**ghting **th**e **begin**nings **o**f **wor**ds. 
+**E**l **mét**odo **cons**iste **e**n **resa**ltar **e**l **princ**ipio **d**e **ca**da **pala**bra **e**n **negri**tas. 
+ 
+**D**e **es**a **mane**ra. **N**o **func**iona **igu**al **pa**ra **tod**es, **pe**ro **algu**nos **repo**rtan **le**er **e**l **dob**le **d**e **rápi**do, **o** **ten**er **men**os **dificu**ltades **proce**sando **l**a **inform**ación **qu**e **lee**n. **Otr**os, **po**r **e**l **ot**ro **lad**o, **le**s **dist**rae **és**te **ti**po **d**e **tex**to **y** **repo**rtan **sent**irse **mej**or **leye**ndo **tex**to **si**n **resal**tar. **M**e **preg**unto **có**mo **s**e **ver**ía **e**n **ot**ro **lengu**aje, **e**n **espe**cial **Japo**nés **y**a **qu**e **n**o **us**a **espac**ios. 
 
-Like so. It doesn't work the same for everyone, but for some, it's reported that people read twice as fast, or have less difficulties processing the information that they're reading. Some, on the other hand, are distracted by this and report feeling better reading unhighlighted text. I do wonder what this would look like in other language, specifically Japanese since it doesn't use any spaces.
+Personalmente, yo sentí que volaba de palabra en palabra sin mucho esfuerzo, así que definitivamente usaré esta herramienta en un futuro.
 
-Personally, it felt like I could glide through words without much effort, so I'll definitely will be using this tool in the future.
+Sin embargo... los creadores originales de Bionic Reading (lectura biónica) han hecho el acceso a su herramienta tan caro, que es un poco ... inaccesible.
 
-However... the original creators of Bionic Reading have made the license to their tool so expensive that it's prohibitive and of course... not accessible.
+Así que dejenme les presento... [**"Not Bionic Reading"**](https://not-br.neocities.org/), que significa "No lectura biónica", que es un proyecto open-source con el objetivo de distribuir esta herramienta a todes.
 
-So let me introduce you to... [**"Not Bionic Reading"**](https://not-br.neocities.org/), which is an open-source endeavor to make this method available to everyone.
+Inténtenlo y vean si se les hace más facil leer documentos largos!
 
-Go ahead and test it and see if it makes it easier for you to read long documents!
+## Accesibilidad en el lugar de trabajo
 
-## Accessibility in the workplace
+¿Será tu lugar de trabajo accesible para todes? ¿Puedes pensar en algo que no sea usable por ciertas personas?
 
-Is your workplace accessible to everyone? Can you think of something that isn't really usable by some people? 
+Específicamente para trabajos de escritorio, muchas veces nos hacemos sufrir a nosotres mismes sin pensarlo. 
 
-Specifically for engineering and desk jobs, a lot of the time we make ourselves suffer without thinking. 
+Una cosa que no puedo soportar es... sentarme! O pararme. En mis trabajos anteriores.
 
 One thing that I personally can't stand is ... sitting down! Or standing up. In my previous jobs or time in my school, I often had issues with standing for long periods of time, or with sitting for long periods of time. I have these issues both because of my knee and lower back problems, but also because my ADHD means I need to be engaged to be able to focus.
 
