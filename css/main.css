@@ -985,7 +985,7 @@ footer {
     }
     
     body {
-        padding-bottom: 50em;
+        padding-bottom: 35em;
         overflow-wrap: break-word;
         word-wrap: break-word;
         font-size: 1em;
@@ -1025,6 +1025,14 @@ footer {
         display:block;
         width:100%;
     }
+
+    .nav-buttons{
+        width: 100%;
+    }
+
+    .nav-btn{
+        font-size: 75%;
+    }
     
     #about_img {
         display: block;
@@ -1063,7 +1071,6 @@ footer {
     }
 
     .img_flag{
-        position: absolute;
         display: block;
         float: center;
         margin-right: auto;
