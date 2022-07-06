@@ -1,11 +1,11 @@
 ---
-layout: en_post
+layout: jp_post
 title:  "Accessibility, ramps, elevators, Bionic Reading?"
-lang: en
+lang: jp
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
 date: 2022-07-07 08:00:00 +0900
-description: Hello everyone! Today I wanted to talk about accessibility both digitally and physically in the workplace. Have you stopped to wonder about how other people navigate the world?
+description: 
 ---
 
 Hello everyone! Today I wanted to talk about accessibility both digitally and physically in the workplace. Have you stopped to wonder about how other people navigate the world?

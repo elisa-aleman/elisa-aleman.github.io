@@ -1,10 +1,10 @@
 ---
-layout: en_post
+layout: es_post
 title:  "Accesibilidad, rampas, elevadores, Lectura Biónica?"
-lang: en
+lang: es
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
-date: 2022-07-06 08:00:00 +0900
+date: 2022-07-07 08:00:00 +0900
 description: ¡Hola a todes! Hoy quería hablar sobre la accesibilidad tanto digital como física en el lugar de trabajo. ¿Te has detenido a preguntarte cómo otras personas navegan el mundo?
 ---
 
@@ -60,12 +60,12 @@ Inténtenlo y vean si se les hace más facil leer documentos largos!
 
 Específicamente para trabajos de escritorio, muchas veces nos hacemos sufrir a nosotres mismes sin pensarlo. 
 
-Una cosa que no puedo soportar es... sentarme! O pararme. En mis trabajos anteriores.
+Una cosa que no puedo soportar es... sentarme! O pararme. En mis trabajos anteriores, o en mi tiempo en la escuela, usualmente tenía problemas parándome por largos periodos de tiempo, o sentándome por largos periodos de tiempo. Tenía estos problemas ambos por mis problemas de rodillas y espalda baja, pero también por mi TDAH (ADHD) necesito estar activa para poder concentrarme.
 
-One thing that I personally can't stand is ... sitting down! Or standing up. In my previous jobs or time in my school, I often had issues with standing for long periods of time, or with sitting for long periods of time. I have these issues both because of my knee and lower back problems, but also because my ADHD means I need to be engaged to be able to focus.
+Creo que cambiar entre parare y sentarme, quizás con un escritorio de pie convertible sería mejor para mi. Por supuesto, siempre es mejor tener la opción disponible. Quizás incluso los teclados ergonómicos o ratones de ordenador podrían ser parte de la accesibilidad. 
 
-I think changing between standing and sitting, perhaps with a convertible standing desk, is better at least for me. Of course, it's always better to have an option available. Ergonomic keyboards or mice, perhaps could also be part of accessibility. 
+Otros tipos de accesibilidad en el lugar de trabajo podrían incluir la altura de las sillas. Muchos de los cuartos de junta, restaurantes o cuartos de espera en los que he estado tienen este problema. Todas las sillas son increíblemente bajas, y como alguien con problemas de cadera y de rodillas, usualmente duele sentarse en ellos. Ahora, ¿quién quisiera ir a un restaurante donde sentarse es incómodo? Podría incluso hacerles perder clientes. Cuando estoy en cuartos de espera en hospitales usualmente me siento como que no tengo de otra. He estado en juntas donde estoy tan incómoda que es casi imposible poner atención. 
 
-Other kinds of workplace accessibility could also include the height of chairs. Lots of meeting rooms, restaurants or waiting rooms I've been in have this problem. All the chairs are incredibly low, and as someone with hip and knee problems, it usually hurts to sit on them. Now, who would want to go to a restaurant where the sitting is uncomfortable? It could lose them customers. When I'm in waiting rooms at hospitals or so I usually feel like I have no other option. I've been in meetings where I am so uncomfortable that it's near impossible to pay attention. Is the commute accessible? I've certainly seen too many metro stations without elevators, so even if the workplace would be accessible, how would someone with mobility issues get there?
+También debemos pensar fuera de la oficina. ¿Es accesible el tránsito? Ciertamente he visto demasiadas estaciones de metro sin elevadores, dado que incluso si el lugar de trabajo fuera accesible, ¿Cómo llegaría ahí alguien con problemas de mobilidad?
 
-I don't have all the answers of course, but I definitely think it's worth it to think about making the world a better place to live. Is your workplace physically accessible? Is the company website accessible? We need to start thinking more about these things.
+No tengo todas las respuestas por supuesto, pero definitivamente creo que vale la pena pensar en cómo hacer el mundo un mejor lugar para vivir. ¿Tu lugar de trabajo, es accesible físicamente? ¿Qué tal el sitio web de la compañía? Necesitamos empezar a pensar en estas cosas.
