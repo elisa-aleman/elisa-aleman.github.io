@@ -20,7 +20,7 @@ There's all kinds of accessibility. Specifically, it could be in physical spaces
 
 ## Invisible disabilities
 
-In general, it's usually the case that people don't consider disabilities they can't see. Within the disabled community I've seen cases where even when someone is using a wheelchair, if they stand up and display the ability to use their legs, are accused of being lazy or fake. We have to understand that different people have different needs. It could be that they can only stand up for short periods of time, or that they are not fully recovered from a debilitating injury, and we will never know. People who have hearing issues or chronic fatigue are often not discernible at first sight either. People who are color blind, also, are usually invisible to others.
+In general, it's usually the case that people don't consider disabilities they can't see. Within the disabled community I've seen cases where even when someone is using a wheelchair, if they stand up and display the ability to use their legs, are accused of being lazy or fake. We have to understand that different people have their reasons and people can have different needs. It could be that they can only stand up for short periods of time, or that they are not fully recovered from a debilitating injury, and we will never know. People who have hearing issues or chronic fatigue are often not discernible at first sight either. People who are color blind, also, are usually invisible to others.
 
 Personally, I also suffer from invisible disadvantages that make me need accommodations. Because of my ADHD, it's hard for me to focus on sounds or people's voices and fully understand something without fail. I don't have any hearing loss, but rather have audio processing issues. So I still need subtitles in videos even in my own language and prefer quiet places when having conversations so that I can fully concentrate on what people say. I also have knee problems from an injury I had when I was in high school, but when I complain about stairs, people often seem to think I just need more exercise. Meanwhile, I exercise daily, strength train and am very adept at several martial arts. I often get by without issue but it doesn't diminish the fact that these things are not always accessible in spaces that I visit, or the videos that I watch. I am also sensitive to loud noises and bright lights, so I often am uncomfortable in places with too many stimuli.
 
@@ -42,9 +42,15 @@ One other disadvantage that I and many other people struggle with is having diff
 
 Now you're probably wondering about the title of today's entry. What is bionic reading? Well, it is a method designed for neurodivergent people, people with difficulty reading, people with dyslexia, etc. 
 
-**Th**e **met**hod **cons**ists **o**f **bold**ing **o**r **highli**ghting **th**e **begin**nings **o**f **wor**ds. 
+The method consists of bolding or highlighting the beginnings of words.
 
-**Li**ke **so**. **I**t **does**n't **wo**rk **th**e **sa**me **fo**r **every**one, **bu**t **fo**r **som**e, **it**'s **repo**rted **th**at **peo**ple **re**ad **twi**ce **a**s **fas**t, **o**r **ha**ve **le**ss **diffic**ulties **proce**ssing **th**e **inform**ation **th**at **they**'re **read**ing. **Som**e, **o**n **th**e **oth**er **han**d, **ar**e **distr**acted **b**y **th**is **an**d **rep**ort **feel**ing **bet**ter **read**ing **unhighl**ighted **tex**t. **I** **d**o **won**der **wh**at **th**is **wou**ld **lo**ok **li**ke **i**n **oth**er **langu**age, **specif**ically **Japa**nese **sin**ce **i**t **does**n't **us**e **an**y **spac**es. 
+Before
+> Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points. As a result, the reader is only focusing on the highlighted initial letters and lets the brain center complete the word. In a digital world dominated by shallow forms of reading, Bionic Reading aims to encourage a more in-depth reading and understanding of written content.
+
+After
+> **Bio**nic **Read**ing **i**s **a** **ne**w **met**hod **facili**tating **th**e **read**ing **proc**ess **b**y **guid**ing **th**e **ey**es **thro**ugh **te**xt **wi**th **artif**icial **fixa**tion **poin**ts. **A**s **a** **resu**lt, **th**e **rea**der **i**s **on**ly **focu**sing **o**n **th**e **highli**ghted **init**ial **lett**ers **an**d **le**ts **th**e **bra**in **cen**ter **comp**lete **th**e **wor**d. **I**n **a** **digi**tal **wor**ld **domi**nated **b**y **shal**low **for**ms **o**f **read**ing, **Bio**nic **Read**ing **ai**ms **t**o **encou**rage **a** **mo**re **in-d**epth **read**ing **an**d **underst**anding **o**f **writ**ten **cont**ent.
+
+Like so. It doesn't work the same for everyone, but for some, it's reported that people read twice as fast, or have less difficulties processing the information that they're reading. Some, on the other hand, are distracted by this and report feeling better reading unhighlighted text. I do wonder what this would look like in other language, specifically Japanese since it doesn't use any spaces. 
 
 Personally, it felt like I could glide through words without much effort, so I'll definitely will be using this tool in the future.
 

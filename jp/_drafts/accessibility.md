@@ -5,38 +5,36 @@ lang: jp
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
 date: 2022-07-07 08:00:00 +0900
-description: 
+description: こんにちは皆さん！今日は物理的にもデジタル的にも職場でのアクセシビリティについて話したい。他の人はどうやってこの世をナビゲートしてるか考えたことありますか？
 ---
 
-こんにちは皆さん！今日は物理的にもデジタル的にも職場でのアクセシビリティについて話したい。他の人はどうやってこの世をナビゲートしてるか考えたことあるの？
+こんにちは皆さん！今日は物理的にもデジタル的にも職場でのアクセシビリティについて話したい。他の人はどうやってこの世をナビゲートしてるか考えたことありますか？
 
 ## アクセシビリティとは何？
 
-まずは念のためアクセシビリティを説明する。アクセシビリティとは物と場所はなるべく多くの人が使える度合のことである。これは多くの場合不自由や障害の時に使うが、そうとは限らない。
+まずは念のためアクセシビリティを説明する。アクセシビリティとは物と場所はなるべく多くの人が使える度合のことです。これは多くの場合不自由や障害の時に使うが、そうとは限らない。
 
+アクセシビリティの分かりやすい例で言えば、階段を登れない人用のスロープを想像してください。ここで「車椅子用」を使っていないのは、アクセシビリティは一つのケースに限らず使用できるからで。例えば、足の怪我があって少しの支えがあれば歩ける人の場合。例えば足は完全に使える人がいても、非常に疲れている場合。その人たちもスロープがあって助かっている。実はアクセシビリティの高い場所に得する人は多いが、ないときは一番苦労するのはないとアクセスできない人です。さて、行ったことある場所の中、どのぐらいはアクセシビリティの施設があったのか、そしてそれがどんな影響を与えるのかを考えよう。
 
+アクセシビリティは何種類もある。具体的には、スロープやエレベーター、目の不自由な人のための床の凸凹、手すりなどの物理的なもの。そして、コミュニケーション用の多言語対応や、世界共通のシンボル、字幕など。最後の物なんですが、デジタルのアクセシビリティも重要であること、そして皆があまり思わない方法で重要であることを強調したい。
 
-For an easy to grasp example of accessibility, picture a ramp for people who can't use the stairs. Notice how I didn't say "people who use a wheelchair", accessibility isn't exclusive to just one case. Let's say somebody has a leg injury but can still walk with some extra support. Let's say there's someone with complete ability in their legs, but happens to be exhausted. They would also benefit from a ramp. Lots of people can benefit from accessible spaces, but the people who are hurt the most are those who can't access that space without the appropriate accommodation. Now, think of how many places you have been in with no such accommodations, and how it could affect people.
+## 目に見えない障害
 
-There's all kinds of accessibility. Specifically, it could be in physical spaces such as ramps, elevators, floor markings for the blind, rails for support. It could be communicative, such as multi-language support, universal signage, or subtitles on a video. With that last one, I also want to say that digital accessibility is important, and in ways that not many think about. 
+一般の人は目に見えない障害のことをあまり思い浮かばないでしょう。障害者のコミュニティーの中でも、車椅子を使っている人はいきなり立ってしまって、足が使えることが周りに見られたら、なぜか怠け者だったり、偽物だったりと言われることを見たことある。しかし、本当は皆それぞれの理由があって、それぞれのニーズがあることを理解すべきです。短い間しか立てなかったり、怪我が完治していなかったり、本当の理由をこっちが知ることもないだろう。耳の不自由の人や、慢性疲労症の人もパッと見わかるものではない。色覚異常の人もそうで、周りの人には見えない。
 
-## Invisible disabilities
+個人的に、私も対応の必要がある不自由がある。ADHDのせいで、音や人の声に集中して１００％理解するのは難しい。実は聴力に何の問題もないと言っても、音声処理の問題がある。というので母国語でもビデオに字幕が必要で、本当は会話している時は静かな場所の方が人の話によく集中できる。そして高校生の頃にした怪我で膝の問題もあるけど、なんか文句言うと周りの人に運動不足とか思われることがある。そう言われながら実は毎日運動しているし、筋トレとか複数の武術に経験がある。日常ではそんなに困らなないが、本当は場所によってアクセスに困るところや、ビデオなどがあったりする。後、大きな音と明るい光にも敏感なので、刺激の多い場所はすごく居心地が悪く感じる。
 
-In general, it's usually the case that people don't consider disabilities they can't see. Within the disabled community I've seen cases where even when someone is using a wheelchair, if they stand up and display the ability to use their legs, are accused of being lazy or fake. We have to understand that different people have different needs. It could be that they can only stand up for short periods of time, or that they are not fully recovered from a debilitating injury, and we will never know. People who have hearing issues or chronic fatigue are often not discernible at first sight either. People who are color blind, also, are usually invisible to others.
+## みんなだっていつか障害者になるよ
 
-Personally, I also suffer from invisible disadvantages that make me need accommodations. Because of my ADHD, it's hard for me to focus on sounds or people's voices and fully understand something without fail. I don't have any hearing loss, but rather have audio processing issues. So I still need subtitles in videos even in my own language and prefer quiet places when having conversations so that I can fully concentrate on what people say. I also have knee problems from an injury I had when I was in high school, but when I complain about stairs, people often seem to think I just need more exercise. Meanwhile, I exercise daily, strength train and am very adept at several martial arts. I often get by without issue but it doesn't diminish the fact that these things are not always accessible in spaces that I visit, or the videos that I watch. I am also sensitive to loud noises and bright lights, so I often am uncomfortable in places with too many stimuli.
+では、今頃は：「自分は障害ないので関係ない」、こう考えてるかもしれない。自分には障害ないことを思い浮かんでもしょうがないけど、他人のことを思っていないのであればそれはちょっとな。しかし、多くの人が考えたことないことに、例外なく皆が老化する生き物である。時間が経って、いずれか何かの障害か不自由などを経験するでしょう。皆だってたった一日で障害者になり得るからこの世を皆が使えるものにするのは皆の責任です。そうしなければいつかこっちの番だからな。
 
-## Everyone will be disabled one day
+## デジタルアクセシビリティ
 
-Now, you might be thinking, "well this doesn't have anything to do with me, I'm fully able!". I wouldn't blame you for thinking that you're able, although not caring about others is probably not good. However, something many people fail to realize is that we are all aging creatures. Time, inevitably, will leave us with some sort of disability or other. It could be pain, disease, or perhaps even an accident. Everyone can become disabled from one day to the next, and it's our responsibility to make the world accessible to all of us, or we will suffer next.
+デジタルの世界にもアクセシビリティが必要なのは考えたことありますか？盲目の人はオンラインのメニューや画像など見れないから alt-text に頼ってるし、音声処理の問題がある人や聴覚障害の人などはオーディオビジュアルメジアに字幕が必要し、色覚異常がある人は悪いカラーデザインで苦労するし、いろいろあります。
 
-## Digital Accessibility
+ちなみに、このサイトをお勧めします：[Paletton](https://paletton.com) では、色覚の多様性を配慮しながらカラースキームを選択できる。
 
-Have you considered the digital world also needs accessibility accommodations? Blind people can't see images or menus online, and rely on alt-text, and people with hearing or audio processing issues need subtitles for audio-visual media. Color blind people often struggle with bad color design. 
-
-By the way, check out this website: [Paletton](https://paletton.com) where you can choose a color scheme with accessibility in mind.
-
-However, much like how there's not elevators everywhere, a lot of the digital world is inaccessible too.
+しかし、どこにもエレベーターがあるわけではないと同じように、デジタルの世界もアクセシビリティが悪い時が多い。
 
 ## Not Bionic Reading
 
@@ -44,9 +42,15 @@ One other disadvantage that I and many other people struggle with is having diff
 
 Now you're probably wondering about the title of today's entry. What is bionic reading? Well, it is a method designed for neurodivergent people, people with difficulty reading, people with dyslexia, etc. 
 
-**Th**e **met**hod **cons**ists **o**f **bold**ing **o**r **highli**ghting **th**e **begin**nings **o**f **wor**ds. 
+The method consists of bolding or highlighting the beginnings of words. 
 
-**Li**ke **so**. **I**t **does**n't **wo**rk **th**e **sa**me **fo**r **every**one, **bu**t **fo**r **som**e, **it**'s **repo**rted **th**at **peo**ple **re**ad **twi**ce **a**s **fas**t, **o**r **ha**ve **le**ss **diffic**ulties **proce**ssing **th**e **inform**ation **th**at **they**'re **read**ing. **Som**e, **o**n **th**e **oth**er **han**d, **ar**e **distr**acted **b**y **th**is **an**d **rep**ort **feel**ing **bet**ter **read**ing **unhighl**ighted **tex**t. **I** **d**o **won**der **wh**at **th**is **wou**ld **lo**ok **li**ke **i**n **oth**er **langu**age, **specif**ically **Japa**nese **sin**ce **i**t **does**n't **us**e **an**y **spac**es. 
+Before
+> Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points. As a result, the reader is only focusing on the highlighted initial letters and lets the brain center complete the word. In a digital world dominated by shallow forms of reading, Bionic Reading aims to encourage a more in-depth reading and understanding of written content.
+
+After
+> **Bio**nic **Read**ing **i**s **a** **ne**w **met**hod **facili**tating **th**e **read**ing **proc**ess **b**y **guid**ing **th**e **ey**es **thro**ugh **te**xt **wi**th **artif**icial **fixa**tion **poin**ts. **A**s **a** **resu**lt, **th**e **rea**der **i**s **on**ly **focu**sing **o**n **th**e **highli**ghted **init**ial **lett**ers **an**d **le**ts **th**e **bra**in **cen**ter **comp**lete **th**e **wor**d. **I**n **a** **digi**tal **wor**ld **domi**nated **b**y **shal**low **for**ms **o**f **read**ing, **Bio**nic **Read**ing **ai**ms **t**o **encou**rage **a** **mo**re **in-d**epth **read**ing **an**d **underst**anding **o**f **writ**ten **cont**ent.
+
+Like so. It doesn't work the same for everyone, but for some, it's reported that people read twice as fast, or have less difficulties processing the information that they're reading. Some, on the other hand, are distracted by this and report feeling better reading unhighlighted text. I do wonder what this would look like in other language, specifically Japanese since it doesn't use any spaces. 
 
 Personally, it felt like I could glide through words without much effort, so I'll definitely will be using this tool in the future.
 

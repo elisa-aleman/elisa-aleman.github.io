@@ -20,7 +20,7 @@ Hay de todo tipo de accesibilidad. Más específicamente, puede ser física, com
 
 ## Discapacidades Invisibles
 
-En general, usualmente la gente no considera las discapacidades que no pueden ver. Dentro de la comunidad discapacitada, he visto casos en los que alguien usando una silla de ruedas, si se levantan por un momento y muestran su capacidad de usar sus piernas, son acusados de ser flojos o de fingir discapacidad. Debemos entender que distinta gente tiene distintas necesidades. Podría ser que solo se pueden levantar por periodos cortos de tiempo, o que no se han recuperado por completo de una lesión debilitante, y nunca lo sabríamos. La gente que tiene problemas para oir o fatiga crónica usualmente no son visibles tampoco. Igual con la gente daltónica.
+En general, usualmente la gente no considera las discapacidades que no pueden ver. Dentro de la comunidad discapacitada, he visto casos en los que alguien usando una silla de ruedas, si se levantan por un momento y muestran su capacidad de usar sus piernas, son acusados de ser flojos o de fingir discapacidad. Debemos entender que distinta gente tiene sus razones y que la gente puede tener distintas necesidades. Podría ser que solo se pueden levantar por periodos cortos de tiempo, o que no se han recuperado por completo de una lesión debilitante, y nunca lo sabríamos. La gente que tiene problemas para oir o fatiga crónica usualmente no son visibles tampoco. Igual con la gente daltónica.
 
 Personalmente yo también sufro de desventajas invisibles que me hacen necesitar acomodaciones. Debido a mi ADHD (TDAH en español), es difícil para mi concentrarme en sonidos o en las voces de la gente y entender algo sin falla. No tengo ninguna clase de perdida auditiva, sino más bien problemas de procesamiento auditivo. Por eso, en realidad necesito subtitulos en videos incluso en mi propio lenguaje, y prefiero lugares callados al tener conversaciones para poder concentrarme en lo que dice la gente. También tengo problemas de rodilla de una lesión que tuve en preparatoria, pero cuando me quejo de las escaleras, la gente suele pensar que necesito más ejercicio. Mientras tanto, yo hago ejercicio todos los días, con entrenamiento de fuerza y hago varios artes marciales también. Usualmente vivo sin problemas graves, pero no disminuye el hecho de que las cosas no son accesibles a veces en espacios que visito, o videos que decida ver. También soy sensible a las luces y ruidos fuertes, así que los lugares con muchos estímulos me dejan incómoda.
 
@@ -42,9 +42,15 @@ Una de las desventajas con la que yo y mucha otra gente batalla es la dificultad
 
 Bueno, quizás se estén preguntando sobre el título de la entrada de hoy. ¿Qué es la lectura biónica? Es un método diseñado para gente neurodivergente, gente con dificultades de lectura, gente con dislexia, etc.
 
-**E**l **mét**odo **cons**iste **e**n **resa**ltar **e**l **princ**ipio **d**e **ca**da **pala**bra **e**n **negri**tas. 
+El método consiste en resaltar el principio de cada palabra en negritas. 
+
+Antes
+> Bionic Reading es un nuevo método que facilita el proceso de lectura al guiar los ojos a través del texto con puntos de fijación artificiales. Como resultado, el lector solo se enfoca en las letras iniciales resaltadas y deja que el centro del cerebro complete la palabra. En un mundo digital dominado por formas superficiales de lectura, Bionic Reading tiene como objetivo fomentar una lectura y comprensión más profundas del contenido escrito.
+
+Después
+> **Bio**nic **Read**ing **e**s **u**n **nue**vo **mét**odo **qu**e **faci**lita **e**l **proc**eso **d**e **lect**ura **a**l **gui**ar **lo**s **oj**os **a** **tra**vés **de**l **tex**to **co**n **pun**tos **d**e **fija**ción **artific**iales. **Co**mo **resul**tado, **e**l **lec**tor **so**lo **s**e **enf**oca **e**n **la**s **let**ras **inici**ales **resal**tadas **y** **de**ja **qu**e **e**l **cen**tro **de**l **cere**bro **comp**lete **l**a **pala**bra. **E**n **u**n **mun**do **digi**tal **domi**nado **po**r **for**mas **superfi**ciales **d**e **lect**ura, **Bio**nic **Read**ing **tie**ne **co**mo **obje**tivo **fome**ntar **un**a **lect**ura **y** **compre**nsión **má**s **profu**ndas **de**l **conte**nido **escr**ito. 
  
-**D**e **es**a **mane**ra. **N**o **func**iona **igu**al **pa**ra **tod**es, **pe**ro **algu**nos **repo**rtan **le**er **e**l **dob**le **d**e **rápi**do, **o** **ten**er **men**os **dificu**ltades **proce**sando **l**a **inform**ación **qu**e **lee**n. **Otr**os, **po**r **e**l **ot**ro **lad**o, **le**s **dist**rae **és**te **ti**po **d**e **tex**to **y** **repo**rtan **sent**irse **mej**or **leye**ndo **tex**to **si**n **resal**tar. **M**e **preg**unto **có**mo **s**e **ver**ía **e**n **ot**ro **lengu**aje, **e**n **espe**cial **Japo**nés **y**a **qu**e **n**o **us**a **espac**ios. 
+De esa manera. No funciona igual para todes, pero algunos reportan leer el doble de rápido, o tener menos dificultades procesando la información que leen. Otros, por el otro lado, les distrae éste tipo de texto y reportan sentirse mejor leyendo texto sin resaltar. Me pregunto cómo se vería en otro lenguaje, en especial Japonés ya que no usa espacios. 
 
 Personalmente, yo sentí que volaba de palabra en palabra sin mucho esfuerzo, así que definitivamente usaré esta herramienta en un futuro.
 
