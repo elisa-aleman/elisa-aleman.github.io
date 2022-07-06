@@ -1,6 +1,6 @@
 ---
 layout: jp_post
-title:  "Accessibility, ramps, elevators, Bionic Reading?"
+title:  "アクセシビリティ、スロープ、エレベーター、バイオニックリーディング?"
 lang: jp
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
@@ -8,11 +8,13 @@ date: 2022-07-07 08:00:00 +0900
 description: 
 ---
 
-Hello everyone! Today I wanted to talk about accessibility both digitally and physically in the workplace. Have you stopped to wonder about how other people navigate the world?
+こんにちは皆さん！今日は物理的にもデジタル的にも職場でのアクセシビリティについて話したい。他の人はどうやってこの世をナビゲートしてるか考えたことあるの？
 
-## What is accessibility?
+## アクセシビリティとは何？
 
-First of all I want to explain in case this is new to anybody, accessibility is the degree to which a thing or a place is available to as many people to use as possible. This is usually mentioned in case of disability, but it's not necessarily the only case where it applies.
+まずは念のためアクセシビリティを説明する。アクセシビリティとは物と場所はなるべく多くの人が使える度合のことである。これは多くの場合不自由や障害の時に使うが、そうとは限らない。
+
+
 
 For an easy to grasp example of accessibility, picture a ramp for people who can't use the stairs. Notice how I didn't say "people who use a wheelchair", accessibility isn't exclusive to just one case. Let's say somebody has a leg injury but can still walk with some extra support. Let's say there's someone with complete ability in their legs, but happens to be exhausted. They would also benefit from a ramp. Lots of people can benefit from accessible spaces, but the people who are hurt the most are those who can't access that space without the appropriate accommodation. Now, think of how many places you have been in with no such accommodations, and how it could affect people.
 
