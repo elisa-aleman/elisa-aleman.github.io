@@ -4,7 +4,7 @@ title:  "Accessibility, ramps, elevators, Bionic Reading?"
 lang: en
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
-date: 2022-07-07 08:00:00 +0900
+date: 2022-07-08 08:00:00 +0900
 description: Hello everyone! Today I wanted to talk about accessibility both digitally and physically in the workplace. Have you stopped to wonder about how other people navigate the world?
 ---
 
@@ -56,7 +56,7 @@ Personally, it felt like I could glide through words without much effort, so I'l
 
 However... the original creators of Bionic Reading have made the access to their tool so expensive that it's prohibitive and of course... not accessible.
 
-So let me introduce you to... [**"Not Bionic Reading"**](https://not-br.neocities.org/), which is an open-source endeavor to make this method available to everyone.
+So let me introduce you to... [**"Not Bionic Reading"**](https://not-br.neocities.org/), which is a completely unrelated open-source endeavor to make a similar method available to everyone.
 
 Go ahead and test it and see if it makes it easier for you to read long documents!
 

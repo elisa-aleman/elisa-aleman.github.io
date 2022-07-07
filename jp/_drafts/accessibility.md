@@ -4,7 +4,7 @@ title:  "アクセシビリティ、スロープ、エレベーター、バイ�
 lang: jp
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
-date: 2022-07-07 08:00:00 +0900
+date: 2022-07-08 08:00:00 +0900
 description: こんにちは皆さん！今日は物理的にもデジタル的にも職場でのアクセシビリティについて話したい。他の人はどうやってこの世をナビゲートしてるか考えたことありますか？
 ---
 
@@ -38,40 +38,40 @@ description: こんにちは皆さん！今日は物理的にもデジタル的�
 
 ## Not Bionic Reading
 
-One other disadvantage that I and many other people struggle with is having difficulty reading. While it is not the same as dyslexia, I often find myself reading the same sections again and again, or struggle with finding the motivation to keep reading something that isn't engaging.
+私も他の多くの人々もまた苦労するもう1つの不自由は、読書の困難です。 私の場合は失読症とはまたちょっと違うが、同じ部分を何度も読んだり、魅力的でないものを読み続ける動機を見つけるのに苦労したりすることがよくあります。
 
-Now you're probably wondering about the title of today's entry. What is bionic reading? Well, it is a method designed for neurodivergent people, people with difficulty reading, people with dyslexia, etc. 
+今頃今日のエントリーのタイトルについて疑問に思っているでしょう。バイオニックリーディングとは何だ？さて、それはニューロダイバージェントな人、読むのは難しい人、失読症の人などのために設計された方法です。
 
-The method consists of bolding or highlighting the beginnings of words. 
+単語の先頭を太字で強調表示することで構成されてます。 
 
-Before
+前
 > Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artificial fixation points. As a result, the reader is only focusing on the highlighted initial letters and lets the brain center complete the word. In a digital world dominated by shallow forms of reading, Bionic Reading aims to encourage a more in-depth reading and understanding of written content.
 
-After
+後
 > **Bio**nic **Read**ing **i**s **a** **ne**w **met**hod **facili**tating **th**e **read**ing **proc**ess **b**y **guid**ing **th**e **ey**es **thro**ugh **te**xt **wi**th **artif**icial **fixa**tion **poin**ts. **A**s **a** **resu**lt, **th**e **rea**der **i**s **on**ly **focu**sing **o**n **th**e **highli**ghted **init**ial **lett**ers **an**d **le**ts **th**e **bra**in **cen**ter **comp**lete **th**e **wor**d. **I**n **a** **digi**tal **wor**ld **domi**nated **b**y **shal**low **for**ms **o**f **read**ing, **Bio**nic **Read**ing **ai**ms **t**o **encou**rage **a** **mo**re **in-d**epth **read**ing **an**d **underst**anding **o**f **writ**ten **cont**ent.
 
-Like so. It doesn't work the same for everyone, but for some, it's reported that people read twice as fast, or have less difficulties processing the information that they're reading. Some, on the other hand, are distracted by this and report feeling better reading unhighlighted text. I do wonder what this would look like in other language, specifically Japanese since it doesn't use any spaces. 
+こんな感じに。皆が皆に効くというわけでもないが、ある人には読むスピードを上られたり、読む努力が下がったりと報告されている。また別の人はこの方法で集中できなくて強調表示のない文書の方が良いという。個人的にはこの手法は別の言語でどう使われるのかが気になります。特に言葉の間にスペースがない日本語はね。。。
 
-Personally, it felt like I could glide through words without much effort, so I'll definitely will be using this tool in the future.
+個人的には努力せずにより素早く読めたのでこれからコツコツ使ってみようと思います。
 
-However... the original creators of Bionic Reading have made the access to their tool so expensive that it's prohibitive and of course... not accessible.
+しかしながらBionic Readingの元々の設計者はこのツールにものすごい値段をつけてしまって逆にアクセスを制限してるみたいでね。。。
 
-So let me introduce you to... [**"Not Bionic Reading"**](https://not-br.neocities.org/), which is an open-source endeavor to make this method available to everyone.
+というので紹介します： [**"Not Bionic Reading"**](https://not-br.neocities.org/)全く無関係で似たようなツールをオーペンソースとして皆に共用しているプロジェクト。
 
-Go ahead and test it and see if it makes it easier for you to read long documents!
+是非とも読書力を上げられるかどうかを試してみてください！
 
-## Accessibility in the workplace
+## 職場のアクセシビリティ
 
-Is your workplace accessible to everyone? Can you think of something that isn't really usable by some people? 
+通っている職場は皆にアクセシブルでしょうか？何かある人に使えないもの思い浮かべませんか？
 
-Specifically for engineering and desk jobs, a lot of the time we make ourselves suffer without thinking. 
+特にエンジニアリングやオフィスジョブでは思わず苦労している時が多いであろう。
 
-One thing that I personally can't stand is ... sitting down! Or standing up. In my previous jobs or time in my school, I often had issues with standing for long periods of time, or with sitting for long periods of time. I have these issues both because of my knee and lower back problems, but also because my ADHD means I need to be engaged to be able to focus.
+個人的に耐えられないのは。。。座ること！そして立つこと！前の仕事や学校にいた時、長い時間座ったままだったり、長い時間立ったままだったりすることでよく困っていた。膝と腰の問題もあるが、ADHDがあるというのは常に何かの刺激がないと集中できないというのもあった。
 
-I think changing between standing and sitting, perhaps with a convertible standing desk, is better at least for me. Of course, it's always better to have an option available. Ergonomic keyboards or mice, perhaps could also be part of accessibility. 
+自分に最適なのは作業しながら立ったり座ったり両方できる職場なんだよね。もちろん、選択肢が多い方が良いということ。他には人間工学に基づいたキーボードまたはマウスとかもアクセシビリティにカウントされるのかな。
 
-Other kinds of workplace accessibility could also include the height of chairs. Lots of meeting rooms, restaurants or waiting rooms I've been in have this problem. All the chairs are incredibly low, and as someone with hip and knee problems, it usually hurts to sit on them. Now, who would want to go to a restaurant where the sitting is uncomfortable? It could lose them customers. When I'm in waiting rooms at hospitals or so I usually feel like I have no other option. I've been in meetings where I am so uncomfortable that it's near impossible to pay attention.
+他にも職場でのアクセシビリティをいえば、椅子の高さでしょう。今までたくさんの会議室やレストラン、待合室などはこの問題はある。椅子が全部非常に低かったりするけれど、膝と腰の問題があるので座るだけで痛いもの。さてレストランの場合には居心地悪い椅子のレストランに誰が行きたくなるんだろう？客さんも無くしてしまう。病院とかの待合室ではしょうがない感じであるのは普段ある話。会議室に関しては、居心地悪過ぎて全く注意できないことも経験したことがある。
 
-We should also think outside of the office. Is the commute accessible? I've certainly seen too many metro stations without elevators, so even if the workplace would be accessible, how would someone with mobility issues get there?
+さらに、職場の外も考えよう。通勤のアクセシビリティはどう？エレベーターのない地下鉄にはもうたくさん入ったことあるが、職場には良いアクセシビリティがあっても、運動に不自由な方はそもそもどうたどり着くという？
 
-I don't have all the answers of course, but I definitely think it's worth it to think about making the world a better place to live. Is your workplace physically accessible? Is the company website accessible? We need to start thinking more about these things.
+もちろん、答えは全部知ってるわけでもないが、この世をより生きやすくすることを考えるのは価値があると思っている。さて、職場はアクセシビリティはどう？企業のウェブサイトはどうかな？考えるべきことだと思う。

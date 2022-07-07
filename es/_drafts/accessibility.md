@@ -4,7 +4,7 @@ title:  "Accesibilidad, rampas, elevadores, Lectura Biónica?"
 lang: es
 lang-ref: accessibility
 author: Elisa Claire Alemán Carreón, PhD
-date: 2022-07-07 08:00:00 +0900
+date: 2022-07-08 08:00:00 +0900
 description: ¡Hola a todes! Hoy quería hablar sobre la accesibilidad tanto digital como física en el lugar de trabajo. ¿Te has detenido a preguntarte cómo otras personas navegan el mundo?
 ---
 
@@ -56,7 +56,7 @@ Personalmente, yo sentí que volaba de palabra en palabra sin mucho esfuerzo, as
 
 Sin embargo... los creadores originales de Bionic Reading (lectura biónica) han hecho el acceso a su herramienta tan caro, que es un poco ... inaccesible.
 
-Así que dejenme les presento... [**"Not Bionic Reading"**](https://not-br.neocities.org/), que significa "No lectura biónica", que es un proyecto open-source con el objetivo de distribuir esta herramienta a todes.
+Así que dejenme les presento... [**"Not Bionic Reading"**](https://not-br.neocities.org/), que significa "No lectura biónica", sin ninguna relación alguna, es un proyecto open-source con el objetivo de distribuir una herramienta similar a todes.
 
 Inténtenlo y vean si se les hace más facil leer documentos largos!
 
