@@ -26,7 +26,7 @@ Personally, I also suffer from invisible disadvantages that make me need accommo
 
 ## Everyone will be disabled one day
 
-Now, you might be thinking, "well this doesn't have anything to do with me, I'm fully able!". I wouldn't blame you for thinking that you're able, although not caring about others is probably not good. However, something many people fail to realize is that we are all aging creatures. Time, inevitably, will leave us with some sort of disability or other. It could be pain, disease, or perhaps even an accident. Everyone can become disabled from one day to the next, and it's our responsibility to make the world accessible to all of us, or we will suffer next.
+Now, you might be thinking, "well this doesn't have anything to do with me, I'm fully able!". I wouldn't blame you for thinking that you're able, although not caring about others is probably not good. You might also not have been thinking that at all. However, something many people fail to realize is that we are all aging creatures. Time, inevitably, will leave us with some sort of disability or other. It could be pain, disease, or perhaps even an accident. Everyone can become disabled from one day to the next, and it's our responsibility to make the world accessible to all of us, or we will suffer next.
 
 ## Digital Accessibility
 

@@ -26,7 +26,7 @@ Personalmente yo también sufro de desventajas invisibles que me hacen necesitar
 
 ## Todes serán discapacitados tarde o temprano
 
-Ahora, quizás estés pensando, "Bueno, esto no me incumbe a mi, no tengo discapacidades!". No te culparía por pensar que no las tienes, pero no pensar en otra gente probablemente no es bueno. Sin embargo, algo que mucha gente no se da cuenta es que somos criaturas que envejecen. El tiempo, inevitablemente, nos dejara con alguna discapacidad u otra. Podría ser dolor, enfermedad, o incluso un accidente. Toda la gente puede volverse discapacitada de un día al otro, y es nuestra responsabilidad hacer el mundo accesible para todes, o nosotres sufriremos. 
+Ahora, quizás estés pensando, "Bueno, esto no me incumbe a mi, no tengo discapacidades!". No te culparía por pensar que no las tienes, pero no pensar en otra gente probablemente no es bueno. También es posible que no estuvieras pensando eso. Sin embargo, algo que mucha gente no se da cuenta es que somos criaturas que envejecen. El tiempo, inevitablemente, nos dejara con alguna discapacidad u otra. Podría ser dolor, enfermedad, o incluso un accidente. Toda la gente puede volverse discapacitada de un día al otro, y es nuestra responsabilidad hacer el mundo accesible para todes, o nosotres sufriremos. 
 
 ## Accesibilidad Digital
 
