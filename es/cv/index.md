@@ -38,7 +38,7 @@ lang-ref: cv
 <a id="intro"></a>
 ## Introducción 
 
-Mi nombre es Elisa Claire Alemán Carreón. Soy una ingeniera en inteligencia artificial nacida en México. He vivido en Japón por los más de 7 años y me he acostumbrado al lenguaje y la cultura. Me recibí de los grados de Bachillerato y Maestría, y tengo un doctorado en Ciencia de Información e Ingeniería de Control en la Universidad Tecnológica de Nagaoka, el cual obtuve en el Laboratorio de Minado de Conocimiento en la Nagaoka University of Technology, bajo el tutelaje del Dr. Hirofumi Nonaka. Trabajo en Redes Neurales Artificiales, Inteligencia Artificial y Minado de Datos. Mis intereses de ingeniería son de Minado de Texto y Datos para propósitos empresariales, así como aplicaciones multilinguales.
+Mi nombre es Elisa Claire Alemán Carreón. Soy una ingeniera en inteligencia artificial nacida en México. He vivido en Japón desde 2015 y me he acostumbrado al lenguaje y la cultura. Me recibí de los grados de Bachillerato y Maestría, y tengo un doctorado en Ciencia de Información e Ingeniería de Control en la Universidad Tecnológica de Nagaoka, el cual obtuve en el Laboratorio de Minado de Conocimiento en la Nagaoka University of Technology, bajo el tutelaje del Dr. Hirofumi Nonaka. Trabajo en Redes Neurales Artificiales, Inteligencia Artificial y Minado de Datos. Mis intereses de ingeniería son de Minado de Texto y Datos para propósitos empresariales, así como aplicaciones multilinguales.
 
 <a id="edu"></a>
 ## Educación y Aptitudes 

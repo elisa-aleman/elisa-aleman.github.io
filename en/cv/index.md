@@ -37,7 +37,7 @@ Research related e-mail: [elisa.claire.aleman.carreon@gmail.com](mailto:elisa.cl
 <a id="intro"></a>
 ## Introduction
 
-I am an AI engineer born in Mexico, I have lived in Japan for over 7 years and have gotten used to Japanese language and culture. I received the B.S. and M.S. degrees and have a PhD in Information Science and Control Engineering, which I obtained in the Nagaoka University of Technology, Nagaoka, Japan under the instruction of Hirofumi Nonaka. I delve in Artificial Neural Networks, Artificial Intelligence, and Data Mining. My engineering interests are Text and Data mining for management purposes and multilingual endeavors.
+I am an AI engineer born in Mexico, I have lived in Japan since 2015 and have gotten used to Japanese language and culture. I received the B.S. and M.S. degrees and have a PhD in Information Science and Control Engineering, which I obtained in the Nagaoka University of Technology, Nagaoka, Japan under the instruction of Hirofumi Nonaka. I delve in Artificial Neural Networks, Artificial Intelligence, and Data Mining. My engineering interests are Text and Data mining for management purposes and multilingual endeavors.
 
 
 <a id="edu"></a>
